@@ -8,7 +8,7 @@ import { autoSidebarSchema } from 'starlight-auto-sidebar/schema';
 export const collections = {
 	docs: defineCollection({ loader: glob({
 		base: './src/content/docs',
-		pattern: ['index.mdx', '{handbook,world-guide,reference}/**/[^_]*.{md,mdx}'],
+		pattern: ['index.mdx', '{handbook,world-guide,legacy,welcome,character-sheet,gm-tools,maps,reference}/**/[^_]*.{md,mdx}'],
 	}), schema: docsSchema() }),
 	i18n: defineCollection({ loader: i18nLoader(), schema: i18nSchema() }),
 	autoSidebar: defineCollection({

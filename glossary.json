@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Mistborn七份資源的專案術語；使用者明確指示優先，其次同一實體之小說與共用試算表證據。approved僅表示本專案採用，非官方核定；未知人名及待定詞的英文佔位不得視為已完成中文翻譯。",
-    "updated": "2026-11-04T13:29:54.972647+00:00"
+    "updated": "2026-11-18T06:10:50+00:00"
   },
   "Agent": {
     "zh": "密探",
@@ -20470,5 +20470,17 @@
     "is_term": true,
     "status": "approved",
     "notes": "依 wave074-term-audit.json 核對原文與小說同一實體。"
+  },
+  "Fan of the Bloom": {
+    "zh": "繁花扇",
+    "notes": "依致命時尚拍賣物品描述暫定專案譯名，保留英文對照。",
+    "status": "approved",
+    "is_term": true
+  },
+  "Glassgarden": {
+    "zh": "玻璃花園",
+    "notes": "依致命時尚所述時尚風潮暫定專案譯名，保留英文對照。",
+    "status": "approved",
+    "is_term": true
   }
 }

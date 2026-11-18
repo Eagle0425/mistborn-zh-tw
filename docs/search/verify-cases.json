@@ -2,61 +2,61 @@
   "cases": [
     {
       "query": "鎔金術",
-      "min": 55,
-      "max": 125,
-      "first": "/handbook/metalborn-paths/overview/"
+      "min": 127,
+      "max": 183,
+      "first": "/(handbook/metalborn-paths/overview|welcome/allomancy)/"
     },
     {
       "query": "迷霧披風",
-      "min": 5,
-      "max": 16,
-      "first": "/handbook/items/currency/"
+      "min": 20,
+      "max": 30,
+      "first": "/(handbook/items/currency|welcome/mistborn)/"
     },
     {
       "query": "起始套組",
-      "min": 11,
+      "min": 14,
       "max": 21
     },
     {
       "query": "煙陣",
-      "min": 5,
-      "max": 16
+      "min": 13,
+      "max": 20
     },
     {
       "query": "殺霧者",
-      "min": 16,
-      "max": 32
+      "min": 36,
+      "max": 52
     },
     {
       "query": "策士",
-      "min": 4,
-      "max": 10
+      "min": 7,
+      "max": 11
     },
     {
       "query": "短期目標",
-      "min": 22,
-      "max": 46
+      "min": 43,
+      "max": 63
     },
     {
       "query": "實體",
-      "min": 34,
-      "max": 95
+      "min": 107,
+      "max": 155
     },
     {
       "query": "落灰之終",
-      "min": 18,
-      "max": 65,
+      "min": 55,
+      "max": 80,
       "first": "/world-guide/history-of-scadrial/era-2-after-the-catacendre/"
     },
     {
       "query": "盒金",
-      "min": 11,
-      "max": 32
+      "min": 44,
+      "max": 64
     },
     {
       "query": "依藍戴",
-      "min": 20,
-      "max": 59,
+      "min": 79,
+      "max": 114,
       "first": "/world-guide/regions-and-cultures/elendel-basin-era-2/"
     }
   ]
