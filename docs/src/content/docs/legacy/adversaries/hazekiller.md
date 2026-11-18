@@ -85,8 +85,8 @@ sidebar:
 
 PEDRO DUTRA & LOGAN FELICIANO
 
-![第 220 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-220-art-03.webp)
+![紅色重甲持劍迷霧殺手（PDF 第 220 頁）](../../../../assets/mistborn/repaired/legacy/紅色重甲持劍迷霧殺手_傳承冒險_PDF第220頁_圖0760.png)
 
-![第 220 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-220-art-02.webp)
 
-![第 220 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-220-art-01.webp)
+
+

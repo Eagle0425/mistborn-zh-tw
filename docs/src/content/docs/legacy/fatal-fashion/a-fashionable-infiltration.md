@@ -185,7 +185,7 @@ Lysarra 會問問題，也樂意客氣地聊上幾句，但對自己的計畫隻
 
 Lysarra 不會再和 PC 交談。若 PC 仍緊追不放，Vorn 就會召來五名警衛（打手），護送 Lysarra 離開。賓客為拍賣就座時，Lysarra 走到後臺。
 
-![第 167 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-167-art-01.webp)
+
 
 說書人傳承時刻
 
@@ -221,7 +221,7 @@ PC 可以以隊伍為單位出價，參與拍賣。向玩家介紹「主宰拍�
 
 DEANDRA SCICLUNA
 
-![第 168 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-168-art-01.webp)
+![黑色長褲套裝女子全身像（PDF 第 168 頁）](../../../../assets/mistborn/repaired/legacy/黑色長褲套裝女子全身像_傳承冒險_PDF第168頁_圖0544.png)
 
 
 ### 拍賣物品

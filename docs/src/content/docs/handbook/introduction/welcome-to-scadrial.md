@@ -28,7 +28,7 @@ AMIRUL HHF
 
 ![第 8 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-008-art-01.webp)
 
-![第 8 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-008-art-02.webp)
+
 
 ### 落灰之終（Catacendre）
 
@@ -56,7 +56,7 @@ AMIRUL HHF
 
 CARSON DANIEL
 
-![第 9 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-009-art-01.webp)
+![黑衣人物在高牆間飛躍（PDF 第 9 頁）](../../../../assets/mistborn/repaired/handbook/黑衣人物在高牆間飛躍_玩家手冊_PDF第009頁_圖0031.png)
 
 ### 落灰之終之後
 
@@ -92,7 +92,7 @@ GM 當然也是玩家，畢竟大家都在一起玩遊戲。不過，本遊戲�
 
 導言 7
 
-![第 10 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-010-art-01.webp)
+
 
 ### 遊戲流程
 
@@ -122,7 +122,7 @@ GM 當然也是玩家，畢竟大家都在一起玩遊戲。不過，本遊戲�
 
 ANDREW CHOU
 
-![第 11 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-011-art-01.webp)
+
 
 ![第 11 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-011-art-02.webp)
 
@@ -225,7 +225,7 @@ GM 可能會為以下檢定提高賭注，以凸顯其重要性：
 
 RANDY VARGAS
 
-![第 13 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-013-art-01.webp)
+![人物站在崖邊面對飛翔猛禽（PDF 第 13 頁）](../../../../assets/mistborn/repaired/handbook/人物站在崖邊面對飛翔猛禽_玩家手冊_PDF第013頁_圖0040.png)
 
 ## 機遇與變故
 
@@ -295,8 +295,8 @@ RANDY VARGAS
 
 DAVID ASTRUGA
 
-![第 15 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-015-art-01.webp)
 
-![第 15 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-015-art-03.webp)
+
+
 
 ![第 15 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-015-art-02.webp)

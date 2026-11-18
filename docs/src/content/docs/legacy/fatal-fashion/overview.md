@@ -29,8 +29,8 @@ Lysarra 就讀大學時，Augustin Tekiel 的貪腐和惡名昭彰的消隱者�
 
 第二時代角色以第 6 級開始本章。〈沙龍前的休整〉結束後立刻升到第 7 級，與 Lysarra 交戰後升到第 8 級。
 
-![第 156 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-156-art-02.webp)
+
 
 ![第 156 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-156-art-03.webp)
 
-![第 156 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-156-art-01.webp)
+

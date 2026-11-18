@@ -121,6 +121,6 @@ PEDRO DUTRA & LOGAN FELICIANO
 
 第 8 章：敵手 233
 
-![第 236 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p236-native27021.png)
+
 
 ![第 236 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p236-native27022.png)

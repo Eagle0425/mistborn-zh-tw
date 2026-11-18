@@ -83,9 +83,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　224
 
-![第 227 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-227-art-01.webp)
+![鎘藏金術金屬符號與紋飾（PDF 第 227 頁）](../../../../assets/mistborn/repaired/handbook/鎘藏金術金屬符號與紋飾_玩家手冊_PDF第227頁_圖0883.png)
 
-![第 227 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-227-art-02.webp)
+
 
 ### 缺氧訓練
 
@@ -171,8 +171,8 @@ JANETTE RAMOS
 
 ALEXANDR LESKINEN
 
-![第 228 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-228-art-03.webp)
+![鎘藏金術完整圖表（PDF 第 228 頁）](../../../../assets/mistborn/repaired/handbook/鎘藏金術完整圖表_PDF第228頁.png)
 
-![第 228 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-228-art-01.webp)
+
 
 ![第 228 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-228-art-02.webp)

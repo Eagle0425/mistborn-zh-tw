@@ -73,9 +73,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　234
 
-![第 237 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-237-art-01.webp)
+![琥珀金藏金術金屬符號與紋飾（PDF 第 237 頁）](../../../../assets/mistborn/repaired/handbook/琥珀金藏金術金屬符號與紋飾_玩家手冊_PDF第237頁_圖0920.png)
 
-![第 237 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-237-art-02.webp)
+
 
 - 你獲得增益[意志]。該屬性（attribute）的加值，等於1加上你為汲取決心花費的充能點數。
 
@@ -197,4 +197,4 @@ JANETTE RAMOS
 
 第6章：金屬技藝　235
 
-![第 238 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-238-art-01.webp)
+![電金藏金術完整圖表（PDF 第 238 頁）](../../../../assets/mistborn/repaired/handbook/電金藏金術完整圖表_PDF第238頁.png)

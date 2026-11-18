@@ -24,7 +24,7 @@ sidebar:
 
 6
 
-![第 6 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-006-art-01.webp)
+![最後帝國高聳堡邸（PDF 第 6 頁）](../../../assets/mistborn/repaired/welcome/最後帝國高聳堡邸_歡迎來到司卡德利亞_PDF第006頁_圖0013.png)
 
 ![第 6 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-006-art-02.webp)
 
@@ -46,6 +46,6 @@ sidebar:
 
 ![第 7 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-007-art-02.webp)
 
-![第 7 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-007-art-03.webp)
+![身穿黑紅制服的光頭男子原生完整素材（PDF 第 7 頁）](../../../assets/mistborn/repaired/welcome/身穿黑紅制服的光頭男子原生完整素材_歡迎來到司卡德利亞_PDF第007頁_圖0106.png)
 
 ![第 7 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-007-art-01.webp)

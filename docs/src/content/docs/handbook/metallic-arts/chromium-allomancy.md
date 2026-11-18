@@ -67,9 +67,9 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝 188
 
-![第 191 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-191-art-01.webp)
+![鉻鎔金術彩繪玻璃符號（PDF 第 191 頁）](../../../../assets/mistborn/repaired/handbook/鉻鎔金術彩繪玻璃符號_玩家手冊_PDF第191頁_圖0716.png)
 
-![第 191 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-191-art-02.webp)
+
 
 #### 強效吸取（Hyperleech）
 
@@ -173,6 +173,6 @@ AUSTIN HARTELL
 
 SAEED RAMEZ
 
-![第 192 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-192-art-02.webp)
+![鉻鎔金術完整圖表（PDF 第 192 頁）](../../../../assets/mistborn/repaired/handbook/鉻鎔金術完整圖表_PDF第192頁.png)
 
-![第 192 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-192-art-01.webp)
+![女子觸碰男子胸前並抽取授予（PDF 第 192 頁）](../../../../assets/mistborn/repaired/handbook/女子觸碰男子胸前並抽取授予_玩家手冊_PDF第192頁_圖0720.png)

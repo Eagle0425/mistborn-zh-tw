@@ -35,11 +35,11 @@ sidebar:
 
 第 6 章：金屬技藝（Metallic Arts）　194
 
-![第 197 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-197-art-03.webp)
+![琥珀金鎔金術彩繪玻璃符號（PDF 第 197 頁）](../../../../assets/mistborn/repaired/handbook/琥珀金鎔金術彩繪玻璃符號_玩家手冊_PDF第197頁_圖0735.png)
 
-![第 197 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-197-art-01.webp)
 
-![第 197 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-197-art-04.webp)
+
+
 
 ![第 197 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-197-art-02.webp)
 
@@ -169,6 +169,6 @@ sidebar:
 
 第 6 章：金屬技藝　195
 
-![第 198 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-198-art-02.webp)
+![電金鎔金術完整圖表（PDF 第 198 頁）](../../../../assets/mistborn/repaired/handbook/電金鎔金術完整圖表_PDF第198頁.png)
 
-![第 198 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-198-art-01.webp)
+

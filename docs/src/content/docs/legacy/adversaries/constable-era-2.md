@@ -51,6 +51,6 @@ sidebar:
 
 STEVE PRESCOTT & GAL OR
 
-![第 210 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-210-art-02.webp)
 
-![第 210 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-210-art-01.webp)
+
+![棕制服戴帽持槍警員（PDF 第 210 頁）](../../../../assets/mistborn/repaired/legacy/棕制服戴帽持槍警員_傳承冒險_PDF第210頁_圖0730.png)

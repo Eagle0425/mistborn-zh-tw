@@ -38,7 +38,7 @@ LIE SETIAWAN
 
 第 8 章：短期目標與獎勵 281
 
-![第 284 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-284-art-01.webp)
+
 
 ### 內在障礙
 
@@ -66,4 +66,4 @@ LIE SETIAWAN
 
 ANTTI HAKOSAARI
 
-![第 285 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-285-art-01.webp)
+![男子躺在尖刺與晶體間伸出手（PDF 第 285 頁）](../../../../assets/mistborn/repaired/handbook/男子躺在尖刺與晶體間伸出手_玩家手冊_PDF第285頁_圖1074.png)

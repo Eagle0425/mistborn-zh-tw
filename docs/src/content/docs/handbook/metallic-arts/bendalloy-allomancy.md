@@ -51,9 +51,9 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝（Metallic Arts）176
 
-![第 179 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-179-art-01.webp)
+![彎管合金鎔金術彩繪玻璃符號（PDF 第 179 頁）](../../../../assets/mistborn/repaired/handbook/彎管合金鎔金術彩繪玻璃符號_玩家手冊_PDF第179頁_圖0660.png)
 
-![第 179 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-179-art-02.webp)
+
 
 ### 創意用法
 
@@ -141,7 +141,7 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝 177
 
-![第 180 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-180-art-01.webp)
+
 
 #### 迅速展圈
 
@@ -181,4 +181,4 @@ AUSTIN HARTELL
 
 ANDREW CHOU
 
-![第 181 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-181-art-01.webp)
+![白髮男子身處球形速度圈（PDF 第 181 頁）](../../../../assets/mistborn/repaired/handbook/白髮男子身處球形速度圈_玩家手冊_PDF第181頁_圖0674.png)

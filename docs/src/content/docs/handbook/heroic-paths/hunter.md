@@ -51,7 +51,7 @@ sidebar:
 
 第 4 章：英雄路徑 94
 
-![第 97 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-097-art-01.webp)
+
 
 ### 法外狙擊手（Outlaw Sniper）　第二時代
 
@@ -81,7 +81,7 @@ SAEED RAMEZ
 
 ![第 98 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-098-art-01.webp)
 
-![第 98 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-098-art-02.webp)
+
 
 #### 追尋獵物（獵手關鍵天賦）
 
@@ -179,9 +179,9 @@ SAEED RAMEZ
 
 第 4 章：英雄路徑 96
 
-![第 99 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-099-art-01.webp)
+![獵手完整圖表（PDF 第 99 頁）](../../../../assets/mistborn/repaired/handbook/獵手完整圖表_PDF第099頁.png)
 
-![第 99 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-099-art-02.webp)
+
 
 ## 獵手
 
@@ -349,11 +349,11 @@ SAEED RAMEZ
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 100 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-100-art-03.webp)
 
-![第 100 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-100-art-01.webp)
 
-![第 100 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-100-art-02.webp)
+![獵手完整圖表（PDF 第 100 頁）](../../../../assets/mistborn/repaired/handbook/獵手完整圖表_PDF第100頁.png)
+
+
 
 ### 殺霧者專精
 

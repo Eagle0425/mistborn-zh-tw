@@ -72,8 +72,8 @@ Edgard Ladrian 人稱「微風」，是個安撫者（Soother），也是個善�
 
 21
 
-![第 21 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-021-art-01.webp)
+![黑板前授課的金髮女子（PDF 第 21 頁）](../../../assets/mistborn/repaired/welcome/黑板前授課的金髮女子_歡迎來到司卡德利亞_PDF第021頁_圖0069.png)
 
-![第 21 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-021-art-02.webp)
+![紅天空下的尖塔剪影（PDF 第 21 頁）](../../../assets/mistborn/repaired/welcome/紅天空下的尖塔剪影_歡迎來到司卡德利亞_PDF第021頁_圖0070.png)
 
 ![第 21 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-021-art-03.webp)

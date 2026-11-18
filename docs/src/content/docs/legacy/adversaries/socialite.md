@@ -55,4 +55,4 @@ STEVE PRESCOTT & DARKO STANOVICH
 
 附錄 A：敵手 237
 
-![第 240 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-240-art-01.webp)
+![紫藍長裙女子（PDF 第 240 頁）](../../../../assets/mistborn/repaired/legacy/紫藍長裙女子_傳承冒險_PDF第240頁_圖0834.png)

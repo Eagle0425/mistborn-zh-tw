@@ -16,4 +16,3 @@ Lauren Munchel, Ene Nytch, Wiktor “Wikoroo” Orzołek, Jack Osborne, Taylor �
 
 致謝 285
 
-![第 289 頁插圖](../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p289-native10296.png)

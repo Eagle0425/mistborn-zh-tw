@@ -41,7 +41,7 @@ sidebar:
 
 KIERAN YANNER
 
-![第 34 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-034-art-01.webp)
+
 
 #### 親友與派系
 
@@ -75,7 +75,7 @@ KIERAN YANNER
 
 LINDA LITHÉN
 
-![第 35 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-035-art-01.webp)
+![人類角色在室內交談（PDF 第 35 頁）](../../../../assets/mistborn/repaired/handbook/人類角色在室內交談_玩家手冊_PDF第035頁_圖0106.png)
 
 ## 坎得拉血統
 
@@ -99,7 +99,7 @@ MeLaan 展露她的翡翠真體（True Body）。
 
 MIRANDA MEEKS
 
-![第 36 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-036-art-01.webp)
+![半透明坎得拉女子的骨骼與尖刺（PDF 第 36 頁）](../../../../assets/mistborn/repaired/handbook/半透明坎得拉女子的骨骼與尖刺_玩家手冊_PDF第036頁_圖0108.png)
 
 當坎得拉沒有採取其他物種的形態，例如與其他坎得拉相處或獨處時，可能會使用自己的「真體」。牠們驕傲地展示喜愛的人造骨架，透過半透明的皮膚，骨架清晰可見。這些骨骼可以由木頭、石頭製成，較少見的材料則包括水晶或玻璃。較年長的世代往往偏好保守、近似人類的真體；年輕世代則常創造更奇特的真體，或採用動物骨骼。（你的坎得拉角色可以獲得真體作為獎勵〔Reward〕，提升屬性〔attribute〕並取得其他好處，詳見第 8 章。）
 
@@ -208,7 +208,7 @@ MIRANDA MEEKS
 
 第 2 章：起源 35
 
-![第 38 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-038-art-01.webp)
+
 
 #### 創意形態
 
@@ -298,7 +298,7 @@ MIRANDA MEEKS
 
 SVETLANA KOSTINA
 
-![第 40 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-040-art-01.webp)
+
 
 ![第 40 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-040-art-02.webp)
 
@@ -412,4 +412,4 @@ SVETLANA KOSTINA
 
 LINDA LITHÉN
 
-![第 42 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-042-art-01.webp)
+![克羅司血裔家庭合影（PDF 第 42 頁）](../../../../assets/mistborn/repaired/handbook/克羅司血裔家庭合影_玩家手冊_PDF第042頁_圖0121.png)

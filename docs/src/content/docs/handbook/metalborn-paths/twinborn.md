@@ -41,7 +41,7 @@ sidebar:
 
 第 5 章：金屬之子路徑 152
 
-![第 155 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-155-art-01.webp)
+
 
 ### 建立雙生師
 
@@ -73,9 +73,9 @@ GUILHERME CASTRO
 
 第 5 章：金屬之子路徑 153
 
-![第 156 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-156-art-02.webp)
 
-![第 156 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-156-art-01.webp)
+
+
 
 ### 韋恩（Wayne）
 
@@ -227,7 +227,7 @@ GUILHERME CASTRO
 
 ![第 159 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-159-art-01.webp)
 
-![第 159 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-159-art-02.webp)
+
 
 ### 雙生師
 
@@ -363,7 +363,7 @@ GUILHERME CASTRO
 
 DEANDRA SCICLUNA & LOGAN FELICIANO
 
-![第 160 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-160-art-01.webp)
+![雙生師完整圖表（PDF 第 160 頁）](../../../../assets/mistborn/repaired/handbook/雙生師完整圖表_PDF第160頁.png)
 
 *瓦與一群血金嵌合獸（Hemalurgic Chimera）交戰。*
 
@@ -447,6 +447,6 @@ ANDREW CHOU
 
 ![第 162 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-162-art-02.webp)
 
-![第 162 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-162-art-01.webp)
+
 
 ![第 163 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-163-art-01.webp)

@@ -53,7 +53,7 @@ sidebar:
 
 第 4 章：英雄路徑 110
 
-![第 113 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-113-art-01.webp)
+
 
 *瓦（Wax）與史特芮絲（Steris）以 Harmonium 進行實驗。*
 
@@ -73,7 +73,7 @@ MARIE SEEBERGER
 
 ![第 114 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-114-art-01.webp)
 
-![第 114 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-114-art-02.webp)
+
 
 #### 博學（學者關鍵）
 
@@ -165,7 +165,7 @@ MARIE SEEBERGER
 
 ![第 115 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-115-art-01.webp)
 
-![第 115 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-115-art-02.webp)
+![學者完整圖表（PDF 第 115 頁）](../../../../assets/mistborn/repaired/handbook/學者完整圖表_PDF第115頁.png)
 
 ## 學者
 
@@ -337,13 +337,13 @@ MARIE SEEBERGER
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 116 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-116-art-01.webp)
+![學者完整圖表（PDF 第 116 頁）](../../../../assets/mistborn/repaired/handbook/學者完整圖表_PDF第116頁.png)
 
-![第 116 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-116-art-02.webp)
 
-![第 116 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-116-art-03.webp)
 
-![第 116 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-116-art-04.webp)
+
+
+
 
 ### 學者關鍵天賦（Key Talent）
 
@@ -581,7 +581,7 @@ DARKO STOJANOVIC
 
 ![第 119 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-119-art-01.webp)
 
-![第 119 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-119-art-02.webp)
+
 
 #### 解剖洞見
 

@@ -303,7 +303,7 @@ SIRAJ FAKHRI
 
 ![第 123 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-123-art-02.webp)
 
-![第 123 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-123-art-01.webp)
+![手持傳單的兩名女學生（PDF 第 123 頁）](../../../../assets/mistborn/repaired/legacy/手持傳單的兩名女學生_傳承冒險_PDF第123頁_圖0399.png)
 
 PC 探索會館時，會找到一把價值 100 盒金的玫瑰木吉他（樂器）。成功通過 DC 12 感知檢定時，還會發現本章稍後午夜試煉「大混戰」所用的金屬腰帶與眼罩。失敗時，「午夜將至」事件推進 2 格，同時 Ylvwa（平民，她）發現隊伍。這名忙得焦頭爛額的泰瑞司女管家欠千眼會錢，無法脫身。若 PC 願意同情地聽完她漫長而悲慘的人生故事，她就不會叫校園警衛。
 
@@ -389,7 +389,7 @@ Marthis（候補成員，他）是貴族學生，也是今年的千眼會候補�
 
 只要 PC 提出任何稍微可行、能幫他通過試煉的辦法，無論是憑真本事還是作弊，Marthis 就會提供面具。他也還不知道試煉起點，樂意用面具交換情報。這些骷髏面具以星形審判者尖刺充當眼睛。
 
-![第 125 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-125-art-01.webp)
+![黑髮背心男子肖像（PDF 第 125 頁）](../../../../assets/mistborn/repaired/legacy/黑髮背心男子肖像_傳承冒險_PDF第125頁_圖0402.png)
 
 ##### 不靠 Marthis 取得面具
 
@@ -419,9 +419,9 @@ K.T. Quiven，學生記者。
 
 JUSTI HIEU
 
-![第 126 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-126-art-02.webp)
 
-![第 126 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-126-art-01.webp)
+
+![戴帽紅髮人物大幅肖像（PDF 第 126 頁）](../../../../assets/mistborn/repaired/legacy/戴帽紅髮人物大幅肖像_傳承冒險_PDF第126頁_圖0407.png)
 
 ##### 地圖謎題
 

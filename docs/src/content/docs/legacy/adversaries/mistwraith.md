@@ -48,4 +48,4 @@ ANA GRIGORIEVA
 
 附錄 A：敵手 232
 
-![第 235 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-235-art-01.webp)
+![透明身軀與骸骨的霧魅（PDF 第 235 頁）](../../../../assets/mistborn/repaired/legacy/透明身軀與骸骨的霧魅_傳承冒險_PDF第235頁_圖0811.png)

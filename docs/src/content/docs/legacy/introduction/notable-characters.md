@@ -45,7 +45,7 @@ Enge 年幼時雙親過世，由叔父 Vadilek Elariel 監護。在 Vadilek 指�
 
 拋開貴族禮數後，Enge 對貴族與階級制度深惡痛絕，也樂於大聲說笑、講粗話。她把團員當作家人，喜歡幫每個人找到歸屬，做自己擅長的事。Enge 手巧，常親手替團員縫衣，或動手改裝運河船。
 
-![第 15 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-015-art-01.webp)
+
 
 ### NeBaal
 
@@ -79,9 +79,9 @@ NeBaal（使用中性代名詞 they/them）是六代坎得拉，在兩個時代�
 
 ANA GRIGORIEVA
 
-![第 16 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-016-art-02.webp)
 
-![第 16 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-016-art-01.webp)
+
+![綠衣透明骨架坎得拉（PDF 第 16 頁）](../../../../assets/mistborn/repaired/legacy/綠衣透明骨架坎得拉_傳承冒險_PDF第016頁_圖0048.png)
 
 ### Bayron Conrad（第二時代）
 
@@ -119,9 +119,9 @@ Kwylliam 想做什麼、說什麼都隨心所欲，從來不必承擔後果。�
 
 導論 14
 
-![第 17 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-017-art-01.webp)
 
-![第 17 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-017-art-02.webp)
+
+
 
 ### Lysarra Tekiel（第二時代）
 
@@ -161,8 +161,8 @@ Wilko 教授相信「人必須從歷史中學習」，而且把這句話付諸�
 
 導論 15
 
-![第 18 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-018-art-01.webp)
 
-![第 18 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-018-art-02.webp)
 
-![第 18 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-018-art-03.webp)
+
+
+

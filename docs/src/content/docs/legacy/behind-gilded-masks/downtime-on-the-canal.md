@@ -91,7 +91,7 @@ PC 看完邀請函後，Enge 重重嘆了口氣，說這封邀請函另有用意
 
 JUST HIEU
 
-![第 47 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-047-art-01.webp)
+![紫裙貴族女子全身像（PDF 第 47 頁）](../../../../assets/mistborn/repaired/legacy/紫裙貴族女子全身像_傳承冒險_PDF第047頁_圖0150.png)
 
 #### Cadme 的難題
 
@@ -219,7 +219,7 @@ Delina Tekiel 不會主動找 PC，但可能答應共舞。這場舞會是為她
 
 第 2 章：鍍金面具之後 47
 
-![第 50 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-050-art-01.webp)
+
 
 #### 事件：聲望提升
 
@@ -289,7 +289,7 @@ Anastas 是強大的埃拉瑞爾家族中數名迷霧之子之一。他始終對
 
 JUST HIEU
 
-![第 52 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-052-art-01.webp)
+![綠衣舉杯男子（PDF 第 52 頁）](../../../../assets/mistborn/repaired/legacy/綠衣舉杯男子_傳承冒險_PDF第052頁_圖0185.png)
 
 ##### 帶領試煉
 
@@ -361,7 +361,7 @@ PC 若回應某個議題，便進行領導或學識對抗檢定，對抗 Duvall 
 
 ANNA VERHOOG
 
-![第 54 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-054-art-01.webp)
+![細長決鬥刺劍（PDF 第 54 頁）](../../../../assets/mistborn/repaired/legacy/細長決鬥刺劍_傳承冒險_PDF第054頁_圖0189.png)
 
 ### 絲綢陷阱
 
@@ -443,7 +443,7 @@ Guiverre 一定會回答關於以下主題的問題。
 
 ALEXANDR LESKINEN
 
-![第 56 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-056-art-01.webp)
+
 
 **Delina。**「自從海斯丁家族殺了她大多數親人，她的心情就沒好過。壓力讓她變得有點……暴躁。克羅司都比她仁慈。不過，我倒覺得她和我可以合作得很好，只要我能相信她在拿到想要的東西後，不會把我打得粉碎……」
 
@@ -483,7 +483,7 @@ Guiverre 的筆記
 
 LUCAS TORQUATO
 
-![第 57 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-057-art-01.webp)
+![研究書籍與筆記本（PDF 第 57 頁）](../../../../assets/mistborn/repaired/legacy/研究書籍與筆記本_傳承冒險_PDF第057頁_圖0195.png)
 
 ##### 散場了
 
@@ -598,4 +598,4 @@ Delina 對窗框施展鋼推，把窗框震碎。
 
 ALEXANDR LESKINEN
 
-![第 60 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-060-art-01.webp)
+

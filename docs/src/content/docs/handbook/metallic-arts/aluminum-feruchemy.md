@@ -59,9 +59,9 @@ sidebar:
 
 JANETTE RAMOS
 
-![第 216 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-216-art-01.webp)
+![鋁藏金術金屬符號與紋飾（PDF 第 216 頁）](../../../../assets/mistborn/repaired/handbook/鋁藏金術金屬符號與紋飾_玩家手冊_PDF第216頁_圖0828.png)
 
-![第 216 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-216-art-02.webp)
+
 
 ### 精於內省（Adept Introspection）
 
@@ -137,8 +137,8 @@ JANETTE RAMOS
 
 VALERIA CASALE
 
-![第 217 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-217-art-03.webp)
+![鋁藏金術完整圖表（PDF 第 217 頁）](../../../../assets/mistborn/repaired/handbook/鋁藏金術完整圖表_PDF第217頁.png)
 
-![第 217 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-217-art-01.webp)
+![佩戴珠寶與頭飾的女子半身（PDF 第 217 頁）](../../../../assets/mistborn/repaired/handbook/佩戴珠寶與頭飾的女子半身_玩家手冊_PDF第217頁_圖0841.png)
 
-![第 217 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-217-art-02.webp)
+

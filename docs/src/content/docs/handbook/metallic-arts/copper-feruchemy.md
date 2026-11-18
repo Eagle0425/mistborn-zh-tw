@@ -60,9 +60,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　229
 
-![第 232 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-232-art-01.webp)
+![銅藏金術金屬符號與紋飾（PDF 第 232 頁）](../../../../assets/mistborn/repaired/handbook/銅藏金術金屬符號與紋飾_玩家手冊_PDF第232頁_圖0898.png)
 
-![第 232 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-232-art-02.webp)
+
 
 ### 紅銅藏金術天賦（talent）
 
@@ -102,7 +102,7 @@ JANETTE RAMOS
 
 VALERIA CASALE
 
-![第 233 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-233-art-02.webp)
+
 
 ![第 233 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-233-art-01.webp)
 
@@ -204,6 +204,6 @@ VALERIA CASALE
 
 第6章：金屬技藝　231
 
-![第 234 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-234-art-02.webp)
+![紅銅藏金術完整圖表（PDF 第 234 頁）](../../../../assets/mistborn/repaired/handbook/紅銅藏金術完整圖表_PDF第234頁.png)
 
-![第 234 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-234-art-01.webp)
+

@@ -35,7 +35,7 @@ Merid 帶 PC 離開擁擠的月臺，請他們證明隊伍的身分。如果 PC 
 
 TRISTAN BIDEAU
 
-![第 142 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-142-art-01.webp)
+
 
 ### 與守護者組織交好
 

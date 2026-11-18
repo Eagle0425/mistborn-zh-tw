@@ -46,7 +46,7 @@ sidebar:
 
 262
 
-![第 265 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-265-art-01.webp)
+
 
 ### 智慧守護者
 
@@ -84,6 +84,8 @@ sidebar:
 
 DEANDRA SCICLUNA & LOGAN FELICIANO
 
-![第 266 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-266-art-02.webp)
 
-![第 266 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-266-art-01.webp)
+
+![鐵路荒野風景（PDF 第 266 頁）](../../../assets/mistborn/repaired/legacy/鐵路荒野風景_傳承冒險_PDF第266頁_圖0999.png)
+
+![紅髮披風女子全身像（PDF 第 266 頁）](../../../assets/mistborn/repaired/legacy/紅髮披風女子全身像_傳承冒險_PDF第266頁_圖1000.png)

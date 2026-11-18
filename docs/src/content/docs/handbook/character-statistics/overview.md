@@ -46,4 +46,4 @@ sidebar:
 
 DENMAN ROOKE
 
-![第 52 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-052-art-01.webp)
+

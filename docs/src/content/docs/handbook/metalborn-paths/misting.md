@@ -64,7 +64,7 @@ sidebar:
 
 第 5 章：金屬之子路徑 134
 
-![第 137 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-137-art-01.webp)
+
 
 **技能（Skill）。** 多數迷霧人會優先提高鎔金術技能等級（Skill Rank）。
 
@@ -280,10 +280,10 @@ DEANDRA SCICLUNA & LOGAN FELICIANO
 | [特殊啟動] | 特殊啟動（Special activation） |
 | [常駐] | 常駐（Always active） |
 
-![第 140 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-140-art-01.webp)
+![迷霧人完整圖表（PDF 第 140 頁）](../../../../assets/mistborn/repaired/handbook/迷霧人完整圖表_PDF第140頁.png)
 
-![第 140 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-140-art-02.webp)
 
-![第 140 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-140-art-04.webp)
 
-![第 140 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-140-art-03.webp)
+
+
+

@@ -43,9 +43,9 @@ AUSTIN HARTELL
 
 第6章：金屬技藝（Metallic Arts）　196
 
-![第 199 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-199-art-01.webp)
+![金鎔金術彩繪玻璃符號（PDF 第 199 頁）](../../../../assets/mistborn/repaired/handbook/金鎔金術彩繪玻璃符號_玩家手冊_PDF第199頁_圖0747.png)
 
-![第 199 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-199-art-02.webp)
+
 
 ### 金鎔金術天賦（Talent）
 
@@ -103,8 +103,8 @@ AUSTIN HARTELL
 
 AMIRUL HHF
 
-![第 200 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-200-art-01.webp)
 
-![第 200 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-200-art-03.webp)
+
+
 
 ![第 200 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-200-art-02.webp)

@@ -47,9 +47,9 @@ sidebar:
 
 AUSTIN HARTELL
 
-![第 188 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-188-art-01.webp)
+![鎘鎔金術彩繪玻璃符號（PDF 第 188 頁）](../../../../assets/mistborn/repaired/handbook/鎘鎔金術彩繪玻璃符號_玩家手冊_PDF第188頁_圖0703.png)
 
-![第 188 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-188-art-02.webp)
+
 
 - 聲音與動態影像會嚴重扭曲，無法穿過圈的表面進行溝通。圈外角色無法以一般手段影響（Influence）圈內角色，反之亦然。
 
@@ -121,7 +121,7 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝 186
 
-![第 189 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-189-art-01.webp)
+
 
 ### 鎘鎔金術天賦樹
 
@@ -171,8 +171,8 @@ AUSTIN HARTELL
 
 SIRAJ FAKHRI
 
-![第 190 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-190-art-01.webp)
 
-![第 190 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-190-art-03.webp)
+
+![鎘鎔金術完整圖表（PDF 第 190 頁）](../../../../assets/mistborn/repaired/handbook/鎘鎔金術完整圖表_PDF第190頁.png)
 
 ![第 190 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-190-art-02.webp)

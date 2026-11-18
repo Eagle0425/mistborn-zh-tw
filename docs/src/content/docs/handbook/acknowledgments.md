@@ -16,7 +16,7 @@ Luke Goddard, Jenna Gold, Nathan Goodrich, Kallun Grabowski, Douglas Gray, DaKot
 
 400 致謝
 
-![第 403 頁插圖](../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-403-art-01.webp)
+
 
 Duncan Pickett, Sarah Pickett, Michael Pilgrim, Jeremy Porter, Kayla Pressley, Ariel Ravid, Kim Reddick, Jo Rees, Nivio “Punished Elder” Reese, Sonja Reinke, Joshua Reminga, Amelia Remington, Patricia del Rocío Nievas Rosado, Lorena Rodríguez, Blake Romrell, Chris Rowles, Francisco Javier Ruíz Caballero, SaturnLena, Timo Schmermbeck, Rasmus Borrisholt Schmidt, Kye Settle, Jafr “Drop Loc” Shabazz, Raji “Rogi” Shareef, Julie Shepard, Ryan Shepard, Sara Shirley, Hannah Short, Logan Short, Tyler Shotwell, S. Gordon Shryock, Marcos Sierra, Asher Silverman, Kisei Silverwater, Rebecca Smith, Ryan Smith, Toker Smith, Meowing Snail, Daniel Sorensen, Neil Sorensen, Dean Springmeyer, Maximilian Starzinski, MJ Stepanek, McKay Stewart,
 

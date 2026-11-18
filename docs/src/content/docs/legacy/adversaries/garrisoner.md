@@ -57,4 +57,4 @@ sidebar:
 
 STEVE PRESCOTT
 
-![第 217 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-217-art-01.webp)
+![藍色盔甲持弩駐軍（PDF 第 217 頁）](../../../../assets/mistborn/repaired/legacy/藍色盔甲持弩駐軍_傳承冒險_PDF第217頁_圖0756.png)

@@ -44,9 +44,9 @@ sidebar:
 
 172
 
-![第 175 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-175-art-01.webp)
 
-![第 175 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-175-art-02.webp)
+
+
 
 ### 熟悉的面孔
 
@@ -159,6 +159,6 @@ PC 找到 Wilko 時，她正試圖用銼刀割開帳篷逃出去。她告訴 PC�
 
 BRAM WILLEMOT
 
-![第 179 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-179-art-02.webp)
+
 
 ![第 179 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-179-art-01.webp)

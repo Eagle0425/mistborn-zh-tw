@@ -37,7 +37,7 @@ GM 會根據你的做法、環境與其他情況，告訴你應該進行哪一�
 
 ANDREW CHOU
 
-![第 62 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-062-art-01.webp)
+![人物在暗處操弄懷錶（PDF 第 62 頁）](../../../../assets/mistborn/repaired/handbook/人物在暗處操弄懷錶_玩家手冊_PDF第062頁_圖0214.png)
 
 ### 防禦
 
@@ -101,7 +101,7 @@ ANDREW CHOU
 
 ANTII HAKOSAARI
 
-![第 64 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-064-art-01.webp)
+![卡西爾威嚇持盾殺霧者（PDF 第 64 頁）](../../../../assets/mistborn/repaired/handbook/卡西爾威嚇持盾殺霧者_玩家手冊_PDF第064頁_圖0216.png)
 
 ### 影響多個目標
 
@@ -235,7 +235,7 @@ GM 可能要求你具體描述如何協助這次檢定。角色只能協助自�
 
 ANDREW CHOU
 
-![第 67 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-067-art-01.webp)
+![女子舉起放大鏡觀察（PDF 第 67 頁）](../../../../assets/mistborn/repaired/handbook/女子舉起放大鏡觀察_玩家手冊_PDF第067頁_圖0220.png)
 
 ## 敏捷（速度，Speed）
 
@@ -461,7 +461,7 @@ ANDREW CHOU
 
 JANNA SOPHIA
 
-![第 71 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-071-art-01.webp)
+![外科醫師取出血金術尖刺（PDF 第 71 頁）](../../../../assets/mistborn/repaired/handbook/外科醫師取出血金術尖刺_玩家手冊_PDF第071頁_圖0226.png)
 
 ## 隱匿（速度）
 

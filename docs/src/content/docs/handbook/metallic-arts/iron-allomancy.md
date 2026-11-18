@@ -55,9 +55,9 @@ sidebar:
 
 AUSTIN HARTELL
 
-![第 201 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-201-art-01.webp)
+![鐵鎔金術彩繪玻璃符號（PDF 第 201 頁）](../../../../assets/mistborn/repaired/handbook/鐵鎔金術彩繪玻璃符號_玩家手冊_PDF第201頁_圖0756.png)
 
-![第 201 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-201-art-02.webp)
+
 
 ### 創意運用
 
@@ -163,11 +163,11 @@ AUSTIN HARTELL
 
 第6章：金屬技藝　199
 
-![第 202 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-202-art-03.webp)
 
-![第 202 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-202-art-02.webp)
 
-![第 202 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-202-art-01.webp)
+![鐵鎔金術完整圖表（PDF 第 202 頁）](../../../../assets/mistborn/repaired/handbook/鐵鎔金術完整圖表_PDF第202頁.png)
+
+
 
 *一名扯手將硬幣拉向她的木盾。*
 
@@ -231,4 +231,4 @@ ALEXANDER NGO
 
 第6章：金屬技藝　200
 
-![第 203 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-203-art-01.webp)
+![男子持盾面對飛來金屬（PDF 第 203 頁）](../../../../assets/mistborn/repaired/handbook/男子持盾面對飛來金屬_玩家手冊_PDF第203頁_圖0769.png)

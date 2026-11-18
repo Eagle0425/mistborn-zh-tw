@@ -45,7 +45,7 @@ WAYNE WU
 
 第 1 章：角色建立 17
 
-![第 20 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-020-art-01.webp)
+
 
 開始創角之前，請先準備一張寰宇 RPG（Cosmere RPG）角色紙，用來記錄角色的數據與獨特能力。你可以影印本書後方的角色紙，或至 CosmereRPG.com/character-sheets 下載並列印。
 
@@ -148,7 +148,7 @@ GAL OR
 
 KEVIN O’NEILL
 
-![第 23 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-023-art-01.webp)
+![深色外套男子俯瞰夜間城市（PDF 第 23 頁）](../../../../assets/mistborn/repaired/handbook/深色外套男子俯瞰夜間城市_玩家手冊_PDF第023頁_圖0063.png)
 
 ## 步驟 4：技能與專長
 
@@ -190,7 +190,7 @@ KEVIN O’NEILL
 
 第 1 章：角色建立 21
 
-![第 24 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-024-art-01.webp)
+
 
 鬼影的角色紙，由 Lestbournes 扮演一位 1 級人類迷霧人（錫眼（Tineye））。填寫範例示範如何加入屬性、技能與天賦。
 
@@ -389,9 +389,9 @@ KEVIN O’NEILL
 
 下圖：SIRAJ FAKHRI；對頁：MATT DEMINO
 
-![第 27 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-027-art-02.webp)
 
-![第 27 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-027-art-01.webp)
+
+![兩名迷霧披風人物在屋頂間飛躍（PDF 第 27 頁）](../../../../assets/mistborn/repaired/handbook/兩名迷霧披風人物在屋頂間飛躍_玩家手冊_PDF第027頁_圖0078.png)
 
 鬼影的角色紙，由 Lestbournes 扮演一位 1 級人類迷霧人（錫眼）與密探。鬼影的鉛筆素描旁，列有護甲與裝備、背景筆記、向尊敬的人證明自身用處與價值的核心目的，以及他與卡西爾（Kelsier）團隊的關係。
 

@@ -52,7 +52,7 @@ sidebar:
 
 BILLY CHRISTIAN
 
-![第 130 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-130-art-01.webp)
+
 
 ### 選擇綻裂或傳承天賦
 
@@ -168,7 +168,7 @@ AMIRUL HHF
 
 ![第 133 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-133-art-02.webp)
 
-![第 133 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-133-art-01.webp)
+
 
 ### 稀有金屬耗竭
 
@@ -214,7 +214,7 @@ AMIRUL HHF
 
 第 5 章：金屬之子路徑 131
 
-![第 134 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-134-art-01.webp)
+
 
 *歪腳（Clubs）為卡西爾（Kelsier）與梅兒（Mare）製造紅銅雲（Coppercloud）。*
 
@@ -234,7 +234,7 @@ ARTUR MOSCA
 
 ![第 135 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-135-art-02.webp)
 
-![第 135 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-135-art-01.webp)
+
 
 ### 鎔金術：訓練鎔金技藝
 
@@ -290,4 +290,4 @@ ARTUR MOSCA
 
 第 5 章：金屬之子路徑 133
 
-![第 136 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-136-art-01.webp)
+

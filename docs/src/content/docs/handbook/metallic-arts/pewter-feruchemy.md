@@ -119,11 +119,11 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　241
 
-![第 244 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-244-art-01.webp)
+![白鑞藏金術金屬符號與紋飾（PDF 第 244 頁）](../../../../assets/mistborn/repaired/handbook/白鑞藏金術金屬符號與紋飾_玩家手冊_PDF第244頁_圖0941.png)
 
-![第 244 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-244-art-02.webp)
+![白鑞藏金術完整圖表（PDF 第 244 頁）](../../../../assets/mistborn/repaired/handbook/白鑞藏金術完整圖表_PDF第244頁.png)
 
-![第 244 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-244-art-03.webp)
+
 
 ### 健美者
 

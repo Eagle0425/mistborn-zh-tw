@@ -45,4 +45,4 @@ GUILHERME CASTRO
 
 191
 
-![第 194 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-194-art-01.webp)
+![藍膚克羅司男子全身像（PDF 第 194 頁）](../../../../assets/mistborn/repaired/legacy/藍膚克羅司男子全身像_傳承冒險_PDF第194頁_圖0660.png)

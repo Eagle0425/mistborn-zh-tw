@@ -44,7 +44,7 @@ KATERINA LADON
 
 第 11 章：對話 331
 
-![第 334 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-334-art-01.webp)
+
 
 ### 貢獻
 
@@ -116,9 +116,9 @@ ANNA PAZYNIUK
 
 ![第 336 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-336-art-01.webp)
 
-![第 336 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-336-art-02.webp)
 
-![第 336 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-336-art-03.webp)
+
+
 
 ### 抵抗機制效果
 
@@ -162,4 +162,4 @@ GM 依場景的敘事進展，判斷對話何時結束。當隊伍達成故事�
 
 第 11 章：對話 334
 
-![第 337 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-337-art-01.webp)
+

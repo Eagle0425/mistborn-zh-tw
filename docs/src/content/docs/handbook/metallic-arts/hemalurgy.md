@@ -17,6 +17,6 @@ sidebar:
 
 ALEXANDR LESKINEN
 
-![第 254 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-254-art-01.webp)
+![紅藍光線下的醫療處置（PDF 第 254 頁）](../../../../assets/mistborn/repaired/handbook/紅藍光線下的醫療處置_玩家手冊_PDF第254頁_圖0985.png)
 
 ![第 255 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-255-art-01.webp)

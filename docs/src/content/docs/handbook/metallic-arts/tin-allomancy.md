@@ -113,13 +113,13 @@ AUSTIN HARTELL
 
 第6章：金屬技藝（Metallic Arts）　208
 
-![第 211 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-211-art-01.webp)
+![錫鎔金術彩繪玻璃符號（PDF 第 211 頁）](../../../../assets/mistborn/repaired/handbook/錫鎔金術彩繪玻璃符號_玩家手冊_PDF第211頁_圖0808.png)
 
-![第 211 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-211-art-02.webp)
 
-![第 211 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-211-art-03.webp)
 
-![第 211 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-211-art-04.webp)
+![錫鎔金術完整圖表（PDF 第 211 頁）](../../../../assets/mistborn/repaired/handbook/錫鎔金術完整圖表_PDF第211頁.png)
+
+
 
 #### 主動感官調控
 
@@ -189,4 +189,4 @@ AUSTIN HARTELL
 
 LINDA LITHÉN
 
-![第 212 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-212-art-01.webp)
+![女子在聚會中抬手影響情緒（PDF 第 212 頁）](../../../../assets/mistborn/repaired/handbook/女子在聚會中抬手影響情緒_玩家手冊_PDF第212頁_圖0815.png)

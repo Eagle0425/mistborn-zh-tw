@@ -53,6 +53,6 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　240
 
-![第 243 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-243-art-01.webp)
+![鎳鉻藏金術金屬符號與紋飾（PDF 第 243 頁）](../../../../assets/mistborn/repaired/handbook/鎳鉻藏金術金屬符號與紋飾_玩家手冊_PDF第243頁_圖0938.png)
 
-![第 243 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-243-art-02.webp)
+

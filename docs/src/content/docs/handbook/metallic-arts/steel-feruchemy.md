@@ -61,9 +61,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　243
 
-![第 246 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-246-art-01.webp)
+![鋼藏金術金屬符號與紋飾（PDF 第 246 頁）](../../../../assets/mistborn/repaired/handbook/鋼藏金術金屬符號與紋飾_玩家手冊_PDF第246頁_圖0947.png)
 
-![第 246 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-246-art-02.webp)
+
 
 ### 加速反應（Accelerated Reflexes）
 
@@ -165,7 +165,7 @@ JANETTE RAMOS
 
 第6章：金屬技藝　244
 
-![第 247 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-247-art-01.webp)
+
 
 ### 鋼奔疾跑
 
@@ -197,6 +197,6 @@ JANETTE RAMOS
 
 TU DO
 
-![第 248 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-248-art-02.webp)
+
 
 ![第 248 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-248-art-01.webp)

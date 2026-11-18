@@ -43,6 +43,6 @@ sidebar:
 
 FLORIAN HAECKH & GAL OR
 
-![第 215 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-215-art-02.webp)
 
-![第 215 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-215-art-01.webp)
+
+![背帶工裝握拳女子（PDF 第 215 頁）](../../../../assets/mistborn/repaired/legacy/背帶工裝握拳女子_傳承冒險_PDF第215頁_圖0750.png)

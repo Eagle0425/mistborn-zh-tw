@@ -36,6 +36,6 @@ RAYMOND SWANLAND
 
 導言 3
 
-![第 6 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-006-art-01.webp)
 
-![第 6 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-006-art-02.webp)
+
+

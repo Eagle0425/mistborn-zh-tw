@@ -45,7 +45,7 @@ PC 拯救了 Kandor 營造公司，因此眾人請他們協助決定公司的未
 
 第 3 章：多數與少數 72
 
-![第 75 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-075-art-01.webp)
+
 
 ### 繼續旅程
 

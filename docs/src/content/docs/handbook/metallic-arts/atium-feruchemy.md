@@ -49,9 +49,9 @@ sidebar:
 
 JANETTE RAMOS
 
-![第 218 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-218-art-01.webp)
+![天金藏金術金屬符號與紋飾（PDF 第 218 頁）](../../../../assets/mistborn/repaired/handbook/天金藏金術金屬符號與紋飾_玩家手冊_PDF第218頁_圖0845.png)
 
-![第 218 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-218-art-02.webp)
+
 
 ### 運用天金藏金術
 
@@ -96,6 +96,8 @@ JANETTE RAMOS
 如果你的實際年齡分類是中年或更老，花費天金意識的2點充能，使身體變成青年，並獲得增益（Enhanced）[所有屬性+1]狀態（Condition），直到你的下一個輪次（Turn）結束。此效果結束前，你可以用[自由行動]花費天金意識的2點充能，將其維持相同的時間。
 
 ### 天金藏金術天賦樹
+
+![天金藏金術天賦樹（PDF 第 219 頁）](../../../../assets/mistborn/repaired/handbook/天金藏金術完整圖表_PDF第219頁.png)
 
 #### 巔峰狀態
 

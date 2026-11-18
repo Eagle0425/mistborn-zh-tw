@@ -37,7 +37,7 @@ sidebar:
 
 ANNA PODEDWORNA
 
-![第 76 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-076-art-01.webp)
+
 
 ### 後續章節的術語
 
@@ -83,7 +83,7 @@ ANNA PODEDWORNA
 
 第 4 章：英雄路徑 74
 
-![第 77 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-077-art-01.webp)
+
 
 ### 取得其他天賦的資格
 
@@ -127,9 +127,9 @@ ANNA PODEDWORNA
 
 第 4 章：英雄路徑 75
 
-![第 78 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-078-art-01.webp)
 
-![第 78 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-078-art-02.webp)
+
+
 
 ### 啟動天賦
 
@@ -151,7 +151,7 @@ ANNA PODEDWORNA
 
 JOEL CHAIM HOLZMAN
 
-![第 79 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-079-art-01.webp)
+
 
 ![第 79 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-079-art-02.webp)
 
@@ -197,4 +197,4 @@ JOEL CHAIM HOLZMAN
 
 第 4 章：英雄路徑 77
 
-![第 80 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-080-art-01.webp)
+

@@ -45,7 +45,7 @@ ARCHIE ADIARTAMA
 
 附錄 A：對手 203
 
-![第 206 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-206-art-01.webp)
+![拋硬幣的紅髮騙徒女子（PDF 第 206 頁）](../../../../assets/mistborn/repaired/legacy/拋硬幣的紅髮騙徒女子_傳承冒險_PDF第206頁_圖0716.png)
 
 ## Conrad Industries 員工（第二時代）
 
@@ -65,7 +65,7 @@ GUILHERME CASTRO & GAL OR
 
 ![第 207 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-207-art-01.webp)
 
-![第 207 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-207-art-02.webp)
+
 
 ## Conrad 特工
 
@@ -124,7 +124,7 @@ GUILHERME CASTRO & GAL OR
 
 附錄 A：對手 205
 
-![第 208 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-208-art-01.webp)
+
 
 ## Conrad 工程師
 

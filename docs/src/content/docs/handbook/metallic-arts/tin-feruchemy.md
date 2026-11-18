@@ -61,9 +61,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　246
 
-![第 249 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-249-art-01.webp)
+![錫藏金術金屬符號與紋飾（PDF 第 249 頁）](../../../../assets/mistborn/repaired/handbook/錫藏金術金屬符號與紋飾_玩家手冊_PDF第249頁_圖0964.png)
 
-![第 249 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-249-art-02.webp)
+
 
 ### 錫藏金術天賦（talent）
 
@@ -165,7 +165,7 @@ JANETTE RAMOS
 
 第6章：金屬技藝　247
 
-![第 250 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-250-art-01.webp)
+![錫藏金術完整圖表（PDF 第 250 頁）](../../../../assets/mistborn/repaired/handbook/錫藏金術完整圖表_PDF第250頁.png)
 
 ### 儲存痛覺
 
@@ -213,6 +213,6 @@ JANETTE RAMOS
 
 JOSHUA CHIA
 
-![第 251 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-251-art-02.webp)
+
 
 ![第 251 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-251-art-01.webp)

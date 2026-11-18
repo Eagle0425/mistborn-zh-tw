@@ -78,15 +78,15 @@ Engeanthe，我很後悔上次和你說的話。
 
 附錄 D：講義 243
 
-![第 246 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-246-art-05.webp)
 
-![第 246 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-246-art-03.webp)
+
+
 
 ![第 246 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-246-art-04.webp)
 
-![第 246 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-246-art-01.webp)
 
-![第 246 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-246-art-02.webp)
+
+
 
 ### Vadilek 的日誌
 
@@ -148,13 +148,13 @@ Vadilek 的心血來潮，也不用服從他那該死的一套。
 
 附錄 D：講義 244
 
-![第 247 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-247-art-02.webp)
 
-![第 247 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-247-art-04.webp)
 
-![第 247 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-247-art-01.webp)
 
-![第 247 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-247-art-03.webp)
+
+
+
+
 
 親愛的 Engeanthe（和各位朋友）：
 
@@ -202,9 +202,9 @@ Vadilek 的心血來潮，也不用服從他那該死的一套。
 
 附錄 D：講義 245
 
-![第 248 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-248-art-02.webp)
 
-![第 248 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-248-art-01.webp)
+
+
 
 ### 永恆寶庫地圖
 
@@ -262,7 +262,7 @@ HEROIC MAPS
 
 附錄 D：講義 247
 
-![第 250 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-250-art-01.webp)
+
 
 如果你們讀到這封信，表示我已經離開。你們為了幫我做了那麼多，
 
@@ -342,7 +342,7 @@ Gilded Few 的世界，尖刺可以用來做好事。或許人們對
 
 248
 
-![第 251 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-251-art-02.webp)
+
 
 ![第 251 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-251-art-01.webp)
 
@@ -416,11 +416,11 @@ Elariel 春季沙龍今年將以嶄新的盛況回歸，由 Lysarra Tekiel 女�
 
 愛好歷史的學生有福了！這個展季，本市慷慨獻上多場展覽。依藍戴大學開放圖書館展出《創世箴言》，首次向公眾展示罕見的 Pledfellow 版本。與此同時，附近的國家檔案館也隆重推出
 
-![第 253 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-253-art-02.webp)
 
-![第 253 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-253-art-01.webp)
 
-![第 253 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-253-art-03.webp)
+![完整報紙道具（PDF 第 253 頁）](../../../assets/mistborn/repaired/legacy/完整報紙道具_PDF第253頁.png)
+
+
 
 ### C5JMSR
 
@@ -461,11 +461,11 @@ Liza 緊緊抓住她的袖子。「Vane，你已經不再佩戴
 
 槍聲驟響，打中她們上方的石塊，碎片四散在冰面上。Vane 咒罵著把 Liza 拉到矮牆後，又一聲槍響劃過廢墟，她的手臂也跟著扣緊 Liza 的肩膀。「趴低，」Vane 低吼。「這是我惹出來的，」Liza 激動地低聲說。「是我把我們帶到這裡的。你不必替我付出代價。」又一聲槍響，這次更近了。Vane 瞥向前方殘破的拱門。「等他們重新
 
-![第 254 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-254-art-01.webp)
 
-![第 254 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-254-art-03.webp)
 
-![第 254 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-254-art-02.webp)
+
+
+![完整報紙道具（PDF 第 254 頁）](../../../assets/mistborn/repaired/legacy/完整報紙道具_PDF第254頁.png)
 
 ### 國家檔案館竊案地圖
 
@@ -479,13 +479,13 @@ HEROIC MAPS; ANNA VERHOOG
 
 附錄 D：講義 252
 
-![第 255 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-255-art-01.webp)
+![手繪地下檔案室草圖（PDF 第 255 頁）](../../../assets/mistborn/repaired/legacy/手繪地下檔案室草圖_傳承冒險_PDF第255頁_圖0923.png)
 
-![第 255 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-255-art-02.webp)
 
-![第 255 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-255-art-03.webp)
 
-![第 255 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-255-art-04.webp)
+![金色金屬符號徽章（PDF 第 255 頁）](../../../assets/mistborn/repaired/legacy/金色金屬符號徽章_傳承冒險_PDF第255頁_圖0922.png)
+
+
 
 ### 依藍戴大學
 
@@ -529,9 +529,9 @@ HEROIC MAPS; ANNA VERHOOG
 
 附錄 D：講義 253
 
-![第 256 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-256-art-02.webp)
 
-![第 256 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-256-art-01.webp)
+
+
 
 ### Child of Noblest Blood—
 
@@ -565,9 +565,9 @@ MATT DEMINO; RYAN SMITH
 
 附錄 D：講義 254
 
-![第 257 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-257-art-02.webp)
 
-![第 257 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-257-art-01.webp)
+
+
 
 校門與
 
@@ -607,4 +607,4 @@ Lastrum 館
 
 社團街
 
-![第 258 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-258-art-01.webp)
+

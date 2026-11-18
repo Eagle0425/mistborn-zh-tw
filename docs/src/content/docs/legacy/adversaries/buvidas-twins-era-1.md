@@ -54,9 +54,9 @@ Caridus Buvidas 會盡量保持距離，並在戰鬥中不斷變換位置。他�
 
 JUST HIEU
 
-![第 201 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-201-art-01.webp)
 
-![第 201 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-201-art-02.webp)
+
+![紅髮鬍鬚西裝男子肖像（PDF 第 201 頁）](../../../../assets/mistborn/repaired/legacy/紅髮鬍鬚西裝男子肖像_傳承冒險_PDF第201頁_圖0695.png)
 
 ### Silla Buvidas
 
@@ -105,6 +105,6 @@ JUST HIEU
 
 附錄 A：敵手 199
 
-![第 202 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-202-art-01.webp)
 
-![第 202 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-202-art-02.webp)
+
+![綠裙紅髮盤髮女子肖像（PDF 第 202 頁）](../../../../assets/mistborn/repaired/legacy/綠裙紅髮盤髮女子肖像_傳承冒險_PDF第202頁_圖0701.png)

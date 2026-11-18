@@ -133,6 +133,6 @@ sidebar:
 
 BRYAN TAYLOR
 
-![第 376 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-376-art-01.webp)
+
 
 ![第 376 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-376-art-02.webp)

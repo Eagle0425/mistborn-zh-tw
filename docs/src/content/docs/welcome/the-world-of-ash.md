@@ -16,7 +16,7 @@ sidebar:
 
 4
 
-![第 4 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-004-art-01.webp)
+![灰燼荒原與紅色天空（PDF 第 4 頁）](../../../assets/mistborn/repaired/welcome/灰燼荒原與紅色天空_歡迎來到司卡德利亞_PDF第004頁_圖0008.png)
 
 ![第 4 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-004-art-02.webp)
 
@@ -36,7 +36,7 @@ sidebar:
 
 5
 
-![第 5 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-005-art-02.webp)
+![紅日下的最後帝國城市（PDF 第 5 頁）](../../../assets/mistborn/repaired/welcome/紅日下的最後帝國城市_歡迎來到司卡德利亞_PDF第005頁_圖0011.png)
 
 ![第 5 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-005-art-01.webp)
 

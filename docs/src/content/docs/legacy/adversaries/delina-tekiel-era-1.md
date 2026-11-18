@@ -21,7 +21,7 @@ Delina Tekiel 會積極逼近，在第一個快速輪次使用「燃燒鐵／鋼
 
 ![第 211 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-211-art-02.webp)
 
-![第 211 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-211-art-01.webp)
+![黑披風持斧女子全身像（PDF 第 211 頁）](../../../../assets/mistborn/repaired/legacy/黑披風持斧女子全身像_傳承冒險_PDF第211頁_圖0736.png)
 
 ## Delina Tekiel
 

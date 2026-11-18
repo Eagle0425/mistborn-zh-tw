@@ -46,9 +46,9 @@ Shryock, Marcos Sierra, Toker Smith, Cameron Stewart, McKay Stewart, Matt Sweat,
 
 264
 
-![第 267 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-267-art-02.webp)
 
-![第 267 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-267-art-01.webp)
+
+
 
 ### 迷霧人
 
@@ -90,6 +90,5 @@ Scerri, Giovanni Tavaniello, Zach “Rost” Tooker, and Kyle “Dorksider” Wi
 
 致謝 265
 
-![第 268 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-268-art-01.webp)
 
-![第 269 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-269-art-01.webp)
+

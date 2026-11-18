@@ -59,4 +59,4 @@ Merid 是一位和藹的執法者，以北方蠻橫區的耐抗鎮（Weathering�
 
 TRISTAN BIDEAU & LOGAN FELICIANO
 
-![第 229 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-229-art-01.webp)
+![黑帽綠衣女子肖像（PDF 第 229 頁）](../../../../assets/mistborn/repaired/legacy/黑帽綠衣女子肖像_傳承冒險_PDF第229頁_圖0790.png)

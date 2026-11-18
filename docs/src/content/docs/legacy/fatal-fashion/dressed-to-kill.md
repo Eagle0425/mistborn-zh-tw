@@ -69,7 +69,7 @@ VLAD OVOY
 
 ![第 162 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-162-art-02.webp)
 
-![第 162 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-162-art-01.webp)
+
 
 ### 沙龍準備
 
@@ -109,4 +109,4 @@ Teddy 和手下向前逼近，要活捉或殺死 PC。若先前超過半數 PC �
 
 PIERRE IGNASZEWSKI
 
-![第 163 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-163-art-01.webp)
+![手持飲品的年長男子（PDF 第 163 頁）](../../../../assets/mistborn/repaired/legacy/手持飲品的年長男子_傳承冒險_PDF第163頁_圖0532.png)

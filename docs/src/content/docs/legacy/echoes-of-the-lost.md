@@ -33,9 +33,9 @@ Gilded Few 開始自相殘殺。混亂中，Vadilek 最後的備案開始生效�
 
 第 1 章：逝者的回聲 26
 
-![第 29 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-029-art-01.webp)
 
-![第 29 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-029-art-02.webp)
+
+
 
 ### 這就是我們的工作
 
@@ -80,7 +80,7 @@ Enge 在鎢都的街槽裡翻找灰燼。
 
 VALERIA CASALE
 
-![第 30 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-030-art-01.webp)
+![在灰燼街道搜索的男子（PDF 第 30 頁）](../../../assets/mistborn/repaired/legacy/在灰燼街道搜索的男子_傳承冒險_PDF第030頁_圖0087.png)
 
 
 ### 寧靜的夜晚
@@ -382,7 +382,7 @@ Murn 帶著熔爐（C11）牢房的鑰匙，以及一本記錄永恆尖刺相關
 
 KEVIN O’NEILL
 
-![第 38 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-038-art-01.webp)
+
 
 ![第 38 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-038-art-02.webp)
 
@@ -454,7 +454,7 @@ Cynwise，司卡街童。
 
 JUST HIEU
 
-![第 40 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-040-art-01.webp)
+![黑色亂髮青年肖像（PDF 第 40 頁）](../../../assets/mistborn/repaired/legacy/黑色亂髮青年肖像_傳承冒險_PDF第040頁_圖0131.png)
 
 ##### 抵抗影響
 
@@ -528,7 +528,7 @@ Enge 戴著手套，一手握住永恆尖刺，帶領隊員前往運河船。
 
 VALERIA CASALE
 
-![第 42 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-042-art-01.webp)
+
 
 ![第 42 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-042-art-02.webp)
 
@@ -605,6 +605,6 @@ Silla、Caridus 和兩名駐軍士兵在運河檢查哨攻擊玩家角色，見�
 
 RYAN SMITH
 
-![第 44 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-044-art-02.webp)
+
 
 ![第 44 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-044-art-01.webp)

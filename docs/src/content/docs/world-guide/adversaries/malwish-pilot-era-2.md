@@ -68,7 +68,7 @@ Malwish飛行員會和船員一同行動。船員通常是平民、商人或社�
 
 JORDAN KERBOW & LOGAN FELICIANO
 
-![第 250 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p250-native8973.png)
+
 
 ![第 250 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p250-native8977.png)
 
@@ -88,7 +88,7 @@ TRISTAN BIDEAU & LOGAN FELICIANO
 
 ![第 251 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p251-native9052.png)
 
-![第 251 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p251-native9071.png)
+
 
 #### 策劃者（Mastermind）
 

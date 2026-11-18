@@ -55,7 +55,7 @@ sidebar:
 
 附錄 A：敵手 218
 
-![第 221 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-221-art-01.webp)
+
 
 ### 插圖
 
@@ -71,7 +71,7 @@ sidebar:
 
 ANA GRIGORIEVA
 
-![第 222 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-222-art-01.webp)
+![被氣流環繞的釘刺怪物（PDF 第 222 頁）](../../../../assets/mistborn/repaired/legacy/被氣流環繞的釘刺怪物_傳承冒險_PDF第222頁_圖0776.png)
 
 ### 血金畸怪（第二時代）
 

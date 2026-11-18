@@ -120,6 +120,6 @@ JORDAN KERBOW & GAL OR
 
 第 8 章：敵手 241
 
-![第 244 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p244-native8648.png)
+
 
 ![第 244 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p244-native8652.png)

@@ -62,6 +62,6 @@ sidebar:
 
 KIMBERLY PANTONI & GAL OR
 
-![第 225 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p225-native27087.png)
+
 
 ![第 225 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p225-native27088.png)

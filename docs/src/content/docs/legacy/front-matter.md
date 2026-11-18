@@ -15,7 +15,7 @@ sidebar:
 
 寰宇®角色扮演遊戲
 
-![第 2 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-002-art-01.webp)
+
 
 ## 製作名單
 
@@ -89,7 +89,7 @@ ISBN：978-1-966528-08-1
 
 中國印製
 
-![第 3 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-003-art-01.webp)
+
 
 ## 目錄
 

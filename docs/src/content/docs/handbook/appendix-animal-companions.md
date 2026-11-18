@@ -118,7 +118,7 @@ sidebar:
 
 ANNA PAZYNIUK
 
-![第 388 頁插圖](../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-388-art-02.webp)
+![迷霧披風人物躍過大型貓科動物（PDF 第 388 頁）](../../../assets/mistborn/repaired/handbook/迷霧披風人物躍過大型貓科動物_玩家手冊_PDF第388頁_圖1279.png)
 
 ### 第 2 階層夥伴
 

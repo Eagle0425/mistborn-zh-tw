@@ -87,7 +87,7 @@ sidebar:
 
 SAMI RYTKÖNEN
 
-![第 58 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-058-art-02.webp)
+
 
 ![第 58 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-058-art-01.webp)
 
@@ -165,7 +165,7 @@ SAMI RYTKÖNEN
 
 KIKI MOCH RIZKY
 
-![第 60 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-060-art-01.webp)
+
 
 ![第 60 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-060-art-02.webp)
 

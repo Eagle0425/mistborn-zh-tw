@@ -22,7 +22,7 @@ sidebar:
 
 10
 
-![第 10 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-010-art-01.webp)
+![花園聚會中的貴族女子（PDF 第 10 頁）](../../../assets/mistborn/repaired/welcome/花園聚會中的貴族女子_歡迎來到司卡德利亞_PDF第010頁_圖0026.png)
 
 ![第 10 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-010-art-02.webp)
 
@@ -40,7 +40,7 @@ sidebar:
 
 ![第 11 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-011-art-01.webp)
 
-![第 11 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-011-art-02.webp)
+![手持書冊的貴族男子（PDF 第 11 頁）](../../../assets/mistborn/repaired/welcome/手持書冊的貴族男子_歡迎來到司卡德利亞_PDF第011頁_圖0030.png)
 
 ![第 11 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-011-art-04.webp)
 

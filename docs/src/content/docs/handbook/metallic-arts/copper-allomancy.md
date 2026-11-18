@@ -37,9 +37,9 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝（Metallic Arts）190
 
-![第 193 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-193-art-01.webp)
+![銅鎔金術彩繪玻璃符號（PDF 第 193 頁）](../../../../assets/mistborn/repaired/handbook/銅鎔金術彩繪玻璃符號_玩家手冊_PDF第193頁_圖0724.png)
 
-![第 193 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-193-art-02.webp)
+
 
 ### 創意用法
 
@@ -133,4 +133,4 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝 191
 
-![第 194 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-194-art-01.webp)
+![紅銅鎔金術完整圖表（PDF 第 194 頁）](../../../../assets/mistborn/repaired/handbook/紅銅鎔金術完整圖表_PDF第194頁.png)

@@ -33,9 +33,9 @@ Kwylliam Elariel 樂於主持午夜試煉，由八名四年級的正式成員協
 
 PIERRE IGNASZEWSKI；MATT DEMINO
 
-![第 128 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-128-art-01.webp)
+![藍金長袍骷髏面具正式成員（PDF 第 128 頁）](../../../../assets/mistborn/repaired/legacy/藍金長袍骷髏面具正式成員_傳承冒險_PDF第128頁_圖0425.png)
 
-![第 128 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-128-art-02.webp)
+![八芒星紅色封蠟（PDF 第 128 頁）](../../../../assets/mistborn/repaired/legacy/八芒星紅色封蠟_傳承冒險_PDF第128頁_圖0427.png)
 
 #### 手術劇場的開場
 

@@ -35,11 +35,11 @@ sidebar:
 
 上方：AUSTIN HARTELL；下方：JUST HIEU
 
-![第 195 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-195-art-02.webp)
+![硬鋁鎔金術彩繪玻璃符號（PDF 第 195 頁）](../../../../assets/mistborn/repaired/handbook/硬鋁鎔金術彩繪玻璃符號_玩家手冊_PDF第195頁_圖0730.png)
 
-![第 195 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-195-art-03.webp)
 
-![第 195 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-195-art-01.webp)
+
+![紅衣女子身旁浮現金屬線條（PDF 第 195 頁）](../../../../assets/mistborn/repaired/handbook/紅衣女子身旁浮現金屬線條_玩家手冊_PDF第195頁_圖0731.png)
 
 ### 使用硬鋁鎔金術
 

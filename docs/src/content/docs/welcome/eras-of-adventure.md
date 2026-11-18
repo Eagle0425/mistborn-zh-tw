@@ -29,7 +29,7 @@ sidebar:
 
 若想建立自己的角色並閱讀完整規則，可以入手《迷霧之子玩家手冊》（Mistborn Handbook）。如果你是遊戲主持人，也可以考慮《迷霧之子傳承》（Mistborn Legacy）：這本精裝冒險書的故事橫跨第一時代與第二時代。最後，無論你是否遊玩這款 RPG，《迷霧之子世界指南》（Mistborn World Guide）都兼具美術畫冊與設定百科的特色，收錄大量關於司卡德利亞歷史、文化與敵手（adversary）的資訊。
 
-![第 26 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-026-art-01.webp)
+![夜色中飛躍高樓的迷霧之子（PDF 第 26 頁）](../../../assets/mistborn/repaired/welcome/夜色中飛躍高樓的迷霧之子_歡迎來到司卡德利亞_PDF第026頁_圖0089.png)
 
 ![第 26 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-026-art-02.webp)
 
@@ -58,6 +58,6 @@ sidebar:
 
 一名扯手（Lurcher）嚴陣以待，準備保護盟友，抵擋射幣（Coinshot）與迷霧之子（Mistborn）的攻擊。
 
-![第 27 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-027-art-01.webp)
+![持木盾與棍棒的戰士原生完整素材（PDF 第 27 頁）](../../../assets/mistborn/repaired/welcome/持木盾與棍棒的戰士原生完整素材_歡迎來到司卡德利亞_PDF第027頁_圖0126.png)
 
 ![第 27 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-027-art-02.webp)

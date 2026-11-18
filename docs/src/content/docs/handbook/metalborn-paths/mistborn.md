@@ -45,7 +45,7 @@ sidebar:
 
 第 5 章：金屬之子路徑 138
 
-![第 141 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-141-art-01.webp)
+
 
 ### 卡西爾
 
@@ -69,7 +69,7 @@ sidebar:
 
 SVETLANA KOSTINA
 
-![第 142 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-142-art-02.webp)
+
 
 ![第 142 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-142-art-01.webp)
 
@@ -101,7 +101,7 @@ GUILHERME CASTRO
 
 第 5 章：金屬之子路徑 140
 
-![第 143 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-143-art-01.webp)
+![持巨劍的鎧甲人物站姿（PDF 第 143 頁）](../../../../assets/mistborn/repaired/handbook/持巨劍的鎧甲人物站姿_玩家手冊_PDF第143頁_圖0464.png)
 
 ### 迷霧之子關鍵天賦（Key Talent）
 
@@ -141,7 +141,7 @@ SAEED RAMEZ
 
 ![第 144 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-144-art-02.webp)
 
-![第 144 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-144-art-01.webp)
+
 
 ### 迷霧之子天賦
 
@@ -223,7 +223,7 @@ DEANDRA SCICLUNA & LOGAN FELICIANO
 
 第 5 章：金屬之子路徑 142
 
-![第 145 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-145-art-01.webp)
+
 
 <!-- Source: MB001_Mistborn_Handbook_digital.pdf, physical page 146. Visually reconstructed from the original page and enlarged talent-tree crop. This patch replaces the false geometric table; the raw extraction remains unchanged. -->
 
@@ -312,4 +312,4 @@ DEANDRA SCICLUNA & LOGAN FELICIANO
 
 ![第 146 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-146-art-01.webp)
 
-![第 146 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-146-art-02.webp)
+![迷霧之子完整圖表（PDF 第 146 頁）](../../../../assets/mistborn/repaired/handbook/迷霧之子完整圖表_PDF第146頁.png)

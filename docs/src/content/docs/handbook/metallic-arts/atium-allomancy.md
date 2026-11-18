@@ -45,13 +45,13 @@ sidebar:
 
 上方：AUSTIN HARTELL；下方：LUCAS TORQUATO
 
-![第 176 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-176-art-03.webp)
+![天金鎔金術彩繪玻璃符號（PDF 第 176 頁）](../../../../assets/mistborn/repaired/handbook/天金鎔金術彩繪玻璃符號_玩家手冊_PDF第176頁_圖0643.png)
 
-![第 176 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-176-art-04.webp)
 
-![第 176 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-176-art-02.webp)
 
-![第 176 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-176-art-01.webp)
+
+
+![紫色結晶與桌上的金屬棒（PDF 第 176 頁）](../../../../assets/mistborn/repaired/handbook/紫色結晶與桌上的金屬棒_玩家手冊_PDF第176頁_圖0644.png)
 
 ### 使用天金鎔金術
 
@@ -171,11 +171,11 @@ sidebar:
 
 第 6 章：金屬技藝（Metallic Arts）174
 
-![第 177 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-177-art-01.webp)
 
-![第 177 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-177-art-03.webp)
 
-![第 177 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-177-art-02.webp)
+
+
+![天金鎔金術完整圖表（PDF 第 177 頁）](../../../../assets/mistborn/repaired/handbook/天金鎔金術完整圖表_PDF第177頁.png)
 
 #### 社交先知
 
@@ -217,6 +217,6 @@ sidebar:
 
 RODRIGO CLARK
 
-![第 178 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-178-art-02.webp)
+
 
 ![第 178 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-178-art-01.webp)

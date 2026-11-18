@@ -47,9 +47,9 @@ sidebar:
 
 AUSTIN HARTELL
 
-![第 182 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-182-art-01.webp)
+![黃銅鎔金術彩繪玻璃符號（PDF 第 182 頁）](../../../../assets/mistborn/repaired/handbook/黃銅鎔金術彩繪玻璃符號_玩家手冊_PDF第182頁_圖0675.png)
 
-![第 182 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-182-art-02.webp)
+
 
 **明顯操控。** 故意讓被安撫的目標注意到你對情緒的干預，使他們起疑，也引誘他們花費專注點抵抗。
 
@@ -175,7 +175,7 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝 180
 
-![第 183 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-183-art-01.webp)
+
 
 #### 細微操控
 
@@ -205,6 +205,6 @@ AUSTIN HARTELL
 
 SATOSHI KAMANAKA
 
-![第 184 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-184-art-01.webp)
+
 
 ![第 184 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-184-art-02.webp)

@@ -15,7 +15,7 @@ sidebar:
 
 ## 《迷霧之子®世界指南》（Mistborn® World Guide）
 
-![第 2 頁插圖](../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/page-002-art-01.webp)
+
 
 ## 寰宇®角色扮演遊戲（Cosmere® Roleplaying Game）
 

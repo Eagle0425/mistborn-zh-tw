@@ -34,7 +34,7 @@ ARIF WIJAYA
 
 第 9 章：冒險 303
 
-![第 306 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-306-art-01.webp)
+
 
 ### 第三人稱角色扮演
 
@@ -232,7 +232,7 @@ VALERIA CASALE
 
 DEANDRA SCICLUNA
 
-![第 312 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-312-art-02.webp)
+
 
 ![第 312 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-312-art-01.webp)
 

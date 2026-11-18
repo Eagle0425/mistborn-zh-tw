@@ -91,7 +91,7 @@ ANTTI HAKOSAARI
 
 ![第 145 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-145-art-02.webp)
 
-![第 145 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-145-art-01.webp)
+
 
 **換人上場。** PC 可以進行 DC 10
 
@@ -229,7 +229,7 @@ Feltrel 像一具被遺棄的屍骸，能拿的東西早被搜刮一空，歲月
 
 Bayron 的裝甲車旁有四名 Conrad 特勤人員。車身覆有鋼板，以鉚釘接合，裝有旋轉炮塔和車首火炮。和第 5 章的比賽相比，顯然已經改裝過。
 
-![第 149 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-149-art-01.webp)
+
 
 一名克羅司氏族守護者把守禮拜堂入口，要求所有來人報上來意。PC 可以進行社交檢定，對抗他的認知防禦（14）。若用上鐵砧支持者提供的情報，包括 Vereta、Jaja、Derruk 和 Taxus 的線索，就獲得一個優勢。成功時，他會放行。失敗時，他只肯讓 PC 舉起雙手進去，並從背後用槍指著他們。如果 PC 尋找其他入口，可以憑 Merid 的提示，或通過 DC 17 感知檢定，發現一條從舊店鋪地窖通往禮拜堂的走私隧道（見地圖 7.3），繞過守衛。
 
@@ -255,7 +255,7 @@ Elanda「鐵砧」Wilko 在蠻橫區鄉間長大。她性子狂野、槍法精�
 
 GUILHERME CASTRO
 
-![第 150 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-150-art-01.webp)
+![藍膚吊帶男子全身像（PDF 第 150 頁）](../../../../assets/mistborn/repaired/legacy/藍膚吊帶男子全身像_傳承冒險_PDF第150頁_圖0478.png)
 
 ### 與鐵砧談判
 
@@ -322,7 +322,7 @@ PC 接著有一輪時間摧毀裝甲車，否則車子就會全速開往依藍�
 
 DEANDRA SCICLUNA
 
-![第 152 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-152-art-01.webp)
+![捲袖鬍鬚男子全身像（PDF 第 152 頁）](../../../../assets/mistborn/repaired/legacy/捲袖鬍鬚男子全身像_傳承冒險_PDF第152頁_圖0481.png)
 
 ### 戰場效果
 
@@ -385,7 +385,7 @@ Bayron 車輛的起點
 
 HEROIC MAPS
 
-![第 153 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-153-art-01.webp)
+
 
 ![第 153 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-153-art-02.webp)
 
@@ -413,7 +413,7 @@ OANH HA
 
 若 PC 把 Bayron 的生命值降至 0，他會跪倒在地，高舉雙手，開價求饒：「等等！只要你們放我走，我就給你們 5,000 盒金！」任何存活的特勤人員也會投降。為了活命，Bayron 什麼都肯做，含淚懇求 PC 饒他一命。如果 PC 試圖判斷他有沒有說實話，會察覺他確實打算依約付錢。若 PC 繼續施壓，Bayron 還會提出交出血金術筆記（見本書導言的〈處理血金術〉），承諾能帶來力量，並露出穿過上半身的兩枚鐵軌般的尖刺。如果 PC 同意放他走，Bayron 會交出團結勳章（若勳章在他手上），開一張能在耐抗鎮的太齊爾貨運辦公室兌現的支票，召集任何活著的手下，然後搭車疾駛離開。支票有效，可以順利兌現。Bayron 的特勤人員已經撤出鎮上。
 
-![第 154 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-154-art-01.webp)
+
 
 ![第 154 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-154-art-02.webp)
 
@@ -459,4 +459,4 @@ ANNA VERHOOG
 
 ### 勳章
 
-![第 155 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-155-art-01.webp)
+![雙手圖案的團結勳章（PDF 第 155 頁）](../../../../assets/mistborn/repaired/legacy/雙手圖案的團結勳章_傳承冒險_PDF第155頁_圖0503.png)

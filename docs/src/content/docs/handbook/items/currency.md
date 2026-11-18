@@ -47,7 +47,9 @@ ANNA VERHOOG
 
 第 7 章：物品 254
 
-![第 257 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-257-art-01.webp)
+![錢袋與散落的金銀銅錢（PDF 第 257 頁）](../../../../assets/mistborn/repaired/handbook/錢袋與散落的金銀銅錢_玩家手冊_PDF第257頁_圖0994.png)
+
+![錢幣與珠寶放在帳簿旁（PDF 第 257 頁）](../../../../assets/mistborn/repaired/handbook/錢幣與珠寶放在帳簿旁_玩家手冊_PDF第257頁_圖0995.png)
 
 ### 傭兵套組（Mercenary Kit）
 
@@ -548,4 +550,3 @@ ANNA VERHOOG
 
 第 7 章：物品 266
 
-![第 269 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-269-art-01.webp)

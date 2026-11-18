@@ -47,7 +47,7 @@ sidebar:
 
 第 9 章：冒險 312
 
-![第 315 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-315-art-01.webp)
+
 
 ### 傷勢
 
@@ -85,7 +85,7 @@ sidebar:
 
 KEVIN O’NEILL
 
-![第 316 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-316-art-01.webp)
+![兩名男子交談並展示手臂刺青（PDF 第 316 頁）](../../../../assets/mistborn/repaired/handbook/兩名男子交談並展示手臂刺青_玩家手冊_PDF第316頁_圖1126.png)
 
 ### 傷勢效果
 
@@ -120,7 +120,7 @@ ANDREW CHOU
 
 第 9 章：冒險 314
 
-![第 317 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-317-art-01.webp)
+![白髮女子俯身照看坐地同伴（PDF 第 317 頁）](../../../../assets/mistborn/repaired/handbook/白髮女子俯身照看坐地同伴_玩家手冊_PDF第317頁_圖1131.png)
 
 同樣地，如果你在冒險中承受永久傷勢（Permanent Injury），終究可能學會彌補它，移除它所施加的任何狀態效果。在故事中，你仍會經歷這項傷勢的敘事影響，但你已找到適應的方法。為了呈現這一點，你甚至可以移除傷勢在規則上造成的狀態。
 
@@ -148,8 +148,8 @@ ANDREW CHOU
 
 ANTTI HAKOSAARI
 
-![第 318 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-318-art-02.webp)
 
-![第 318 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-318-art-01.webp)
+
+![人物抱膝坐在暗處（PDF 第 318 頁）](../../../../assets/mistborn/repaired/handbook/人物抱膝坐在暗處_玩家手冊_PDF第318頁_圖1136.png)
 
 ![第 319 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-319-art-01.webp)

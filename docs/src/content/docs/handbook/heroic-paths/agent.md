@@ -49,7 +49,7 @@ sidebar:
 
 第 4 章：英雄路徑 78
 
-![第 81 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-081-art-01.webp)
+
 
 無論受到倖存者教會（Church of the Survivor）的影響，還是單純倔強到不論被擊倒多少次都不肯放棄，這些倖存者都會從被逼入的角落闢出前路。他們竭盡所能求生，只為再見一次日出。
 
@@ -69,7 +69,7 @@ AMIRUL HHF
 
 ![第 82 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-082-art-02.webp)
 
-![第 82 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-082-art-01.webp)
+
 
 #### 伺機者（密探關鍵天賦）
 
@@ -329,7 +329,7 @@ AMIRUL HHF
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 84 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-084-art-01.webp)
+![密探完整圖表（PDF 第 84 頁）](../../../../assets/mistborn/repaired/handbook/密探完整圖表_PDF第084頁.png)
 
 ### 密探關鍵天賦
 
@@ -411,7 +411,7 @@ DEANDRA SCICLUNA & GAL OR
 
 第 4 章：英雄路徑 82
 
-![第 85 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-085-art-01.webp)
+
 
 #### 偵探直覺
 
@@ -473,7 +473,7 @@ JOE WATSON
 
 ![第 86 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-086-art-02.webp)
 
-![第 86 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-086-art-01.webp)
+
 
 #### 殉道者恩惠
 
@@ -619,6 +619,6 @@ JOE WATSON
 
 ALEKSANDRA WOJTAS
 
-![第 88 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-088-art-01.webp)
+![人物近身對話與藍色線條示意（PDF 第 88 頁）](../../../../assets/mistborn/repaired/handbook/人物近身對話與藍色線條示意_玩家手冊_PDF第088頁_圖0279.png)
 
-![第 88 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-088-art-02.webp)
+

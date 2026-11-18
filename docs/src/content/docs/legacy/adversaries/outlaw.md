@@ -59,6 +59,6 @@ Morgenthax，
 
 PIERRE IGNASZEWSKI
 
-![第 237 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-237-art-02.webp)
 
-![第 237 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-237-art-01.webp)
+
+![長外套持槍男子（PDF 第 237 頁）](../../../../assets/mistborn/repaired/legacy/長外套持槍男子_傳承冒險_PDF第237頁_圖0822.png)

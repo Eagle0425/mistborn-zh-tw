@@ -59,9 +59,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　217
 
-![第 220 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-220-art-01.webp)
+![彎管合金藏金術金屬符號與紋飾（PDF 第 220 頁）](../../../../assets/mistborn/repaired/handbook/彎管合金藏金術金屬符號與紋飾_玩家手冊_PDF第220頁_圖0853.png)
 
-![第 220 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-220-art-02.webp)
+
 
 ### 未雨綢繆（Drop of Prevention）
 
@@ -171,4 +171,4 @@ JANETTE RAMOS
 
 第6章：金屬技藝　218
 
-![第 221 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-221-art-01.webp)
+![彎管合金藏金術完整圖表（PDF 第 221 頁）](../../../../assets/mistborn/repaired/handbook/彎管合金藏金術完整圖表_PDF第221頁.png)

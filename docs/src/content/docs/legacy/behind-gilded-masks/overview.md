@@ -44,6 +44,6 @@ sidebar:
 
 請從「運河上的休整」開始帶領本章。
 
-![第 45 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-045-art-01.webp)
 
-![第 45 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-045-art-02.webp)
+
+

@@ -28,9 +28,9 @@ Eliane Vorn 隊長是雙生師，運用鎘鎔金術和鋼藏金術時極具殺�
 
 附錄 A：敵手 200
 
-![第 203 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-203-art-02.webp)
 
-![第 203 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-203-art-01.webp)
+
+![銀髮褐膚女子肖像（PDF 第 203 頁）](../../../../assets/mistborn/repaired/legacy/銀髮褐膚女子肖像_傳承冒險_PDF第203頁_圖0704.png)
 
 ### Eliane Vorn 隊長
 

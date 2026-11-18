@@ -112,4 +112,4 @@ GM 以 Rutger 提供的下列資訊開始這場試煉：Cracks 街區有個叫 R
 
 GAL OR
 
-![第 347 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-347-art-01.webp)
+![調查試煉完整圖表（PDF 第 347 頁）](../../../../assets/mistborn/repaired/handbook/調查試煉完整圖表_PDF第347頁.png)

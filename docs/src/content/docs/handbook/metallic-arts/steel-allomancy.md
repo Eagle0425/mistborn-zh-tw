@@ -55,9 +55,9 @@ sidebar:
 
 AUSTIN HARTELL
 
-![第 208 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-208-art-01.webp)
+![鋼鎔金術彩繪玻璃符號（PDF 第 208 頁）](../../../../assets/mistborn/repaired/handbook/鋼鎔金術彩繪玻璃符號_玩家手冊_PDF第208頁_圖0794.png)
 
-![第 208 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-208-art-02.webp)
+
 
 ### 創意運用
 
@@ -95,7 +95,7 @@ AUSTIN HARTELL
 
 GAL OR
 
-![第 209 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-209-art-01.webp)
+![迷霧之子在夜霧中飛躍（PDF 第 209 頁）](../../../../assets/mistborn/repaired/handbook/迷霧之子在夜霧中飛躍_玩家手冊_PDF第209頁_圖0799.png)
 
 #### 錢幣神射（Coin Sharpshooter）
 
@@ -219,6 +219,6 @@ GAL OR
 
 第6章：金屬技藝　207
 
-![第 210 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-210-art-01.webp)
 
-![第 210 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-210-art-02.webp)
+
+![鋼鎔金術完整圖表（PDF 第 210 頁）](../../../../assets/mistborn/repaired/handbook/鋼鎔金術完整圖表_PDF第210頁.png)

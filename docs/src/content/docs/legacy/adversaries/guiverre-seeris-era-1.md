@@ -51,4 +51,4 @@ Guiverre Seeris 先燃燒青銅，辨識並追蹤授予的使用情況。他避�
 
 ALEXANDR LESKINEN
 
-![第 218 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-218-art-01.webp)
+![藍衣舉杯男子全身像（PDF 第 218 頁）](../../../../assets/mistborn/repaired/legacy/藍衣舉杯男子全身像_傳承冒險_PDF第218頁_圖0757.png)

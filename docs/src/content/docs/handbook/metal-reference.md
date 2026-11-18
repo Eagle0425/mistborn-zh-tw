@@ -45,4 +45,4 @@ sidebar:
 
 <!-- 本頁僅有星空與迷霧插圖，無可見的原文文字。 -->
 
-![第 409 頁插圖](../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-409-full-01.webp)
+

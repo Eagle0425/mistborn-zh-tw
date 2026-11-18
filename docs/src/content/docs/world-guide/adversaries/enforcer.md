@@ -60,6 +60,6 @@ sidebar:
 
 FLORIAN HAECKH
 
-![第 229 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p229-native7797.png)
+
 
 ![第 229 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p229-native7801.png)

@@ -49,6 +49,6 @@ STEVE PRESCOTT
 
 附錄 A：對手 236
 
-![第 239 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-239-art-02.webp)
 
-![第 239 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-239-art-01.webp)
+
+![高舉長槍的彩紋披風戰士（PDF 第 239 頁）](../../../../assets/mistborn/repaired/legacy/高舉長槍的彩紋披風戰士_傳承冒險_PDF第239頁_圖0830.png)

@@ -37,7 +37,7 @@ sidebar:
 
 ![第 16 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-016-art-03.webp)
 
-![第 16 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-016-art-04.webp)
+![紅衣女子與情緒鎔金術（PDF 第 16 頁）](../../../assets/mistborn/repaired/welcome/紅衣女子與情緒鎔金術_歡迎來到司卡德利亞_PDF第016頁_圖0046.png)
 
 ![第 16 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-016-art-02.webp)
 

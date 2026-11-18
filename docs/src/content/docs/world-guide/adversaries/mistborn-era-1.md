@@ -33,7 +33,7 @@ FLORIAN HAECKH & LOGAN FELICIANO
 
 ![第 254 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p254-native9212.png)
 
-![第 254 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p254-native9221.png)
+
 
 #### 迷霧之子刺客
 

@@ -21,9 +21,9 @@ Lysarra Tekiel 的戰術
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 230 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-230-art-02.webp)
 
-![第 230 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-230-art-01.webp)
+
+![黑色西裝持文件女子（PDF 第 230 頁）](../../../../assets/mistborn/repaired/legacy/黑色西裝持文件女子_傳承冒險_PDF第230頁_圖0797.png)
 
 ### Lysarra Tekiel
 

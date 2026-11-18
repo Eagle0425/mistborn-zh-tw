@@ -41,9 +41,9 @@ JORDAN KERBOW
 
 ![第 338 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-338-art-03.webp)
 
-![第 338 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-338-art-01.webp)
 
-![第 338 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-338-art-02.webp)
+
+
 
 ### 詭計
 
@@ -73,4 +73,4 @@ JUST HIEU
 
 第 11 章：對話 336
 
-![第 339 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-339-art-01.webp)
+![盛裝男女出席晚會（PDF 第 339 頁）](../../../../assets/mistborn/repaired/handbook/盛裝男女出席晚會_玩家手冊_PDF第339頁_圖1179.png)

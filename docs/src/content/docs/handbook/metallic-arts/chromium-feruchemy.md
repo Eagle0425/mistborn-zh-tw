@@ -59,9 +59,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　226
 
-![第 229 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-229-art-01.webp)
+![鉻藏金術金屬符號與紋飾（PDF 第 229 頁）](../../../../assets/mistborn/repaired/handbook/鉻藏金術金屬符號與紋飾_玩家手冊_PDF第229頁_圖0890.png)
 
-![第 229 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-229-art-02.webp)
+
 
 運氣，並非偶然的好運
 
@@ -159,9 +159,9 @@ GM提高賭注時，你可以停止汲取運氣，改為儲存運氣，在不提
 
 第6章：金屬技藝　227
 
-![第 230 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-230-art-02.webp)
 
-![第 230 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-230-art-01.webp)
+
+![鉻藏金術完整圖表（PDF 第 230 頁）](../../../../assets/mistborn/repaired/handbook/鉻藏金術完整圖表_PDF第230頁.png)
 
 ### 正確地點
 
@@ -207,6 +207,6 @@ GM提高賭注時，你可以停止汲取運氣，改為儲存運氣，在不提
 
 KEVIN SIDHARTA
 
-![第 231 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-231-art-01.webp)
+
 
 ![第 231 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-231-art-02.webp)

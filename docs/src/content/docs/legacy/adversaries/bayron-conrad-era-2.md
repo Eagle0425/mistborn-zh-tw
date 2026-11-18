@@ -21,7 +21,7 @@ Bayron 是依藍戴最有權勢的企業家之一。他透過密探和工業間�
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 197 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-197-art-01.webp)
+![捲袖平民男子全身像（PDF 第 197 頁）](../../../../assets/mistborn/repaired/legacy/捲袖平民男子全身像_傳承冒險_PDF第197頁_圖0673.png)
 
 ![第 197 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-197-art-02.webp)
 
@@ -81,7 +81,7 @@ DEANDRA SCICLUNA & GAL OR
 
 附錄 A：敵手 195
 
-![第 198 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-198-art-01.webp)
+
 
 ### Bezryl（第一時代）
 
@@ -134,4 +134,4 @@ NELE KLUMPE
 
 附錄 A：敵手 196
 
-![第 199 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-199-art-01.webp)
+![長辮泰瑞司女子肖像（PDF 第 199 頁）](../../../../assets/mistborn/repaired/legacy/長辮泰瑞司女子肖像_傳承冒險_PDF第199頁_圖0681.png)

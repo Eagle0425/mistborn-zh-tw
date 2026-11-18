@@ -29,6 +29,6 @@ sidebar:
 
 第 6 章：飢渴靈魂的渴望 111
 
-![第 114 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-114-art-02.webp)
 
-![第 114 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-114-art-01.webp)
+
+

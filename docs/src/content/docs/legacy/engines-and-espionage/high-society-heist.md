@@ -185,7 +185,7 @@ PC 成功偷走國家檔案館徽章，或 Kwylliam 察覺一次失敗的嘗試�
 
 DEANDRA SCICLUNA
 
-![第 106 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-106-art-01.webp)
+
 
 ### 官僚程序與風險
 
@@ -243,7 +243,7 @@ HEROIC MAPS
 
 ![第 107 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-107-art-02.webp)
 
-![第 107 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-107-art-01.webp)
+![手繪檔案館平面草圖（PDF 第 107 頁）](../../../../assets/mistborn/repaired/legacy/手繪檔案館平面草圖_傳承冒險_PDF第107頁_圖0355.png)
 
 ### 觸發事件
 
@@ -299,7 +299,7 @@ PC 打開誘餌木箱時，會發現一張沒有署名的便條：「依約付�
 
 第 5 章：引擎與諜報 105
 
-![第 108 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-108-art-01.webp)
+
 
 ### 地圖 5. 2：國家檔案館
 
@@ -361,7 +361,7 @@ L5
 
 HEROIC MAPS; ANNA VERHOOG
 
-![第 110 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-110-art-01.webp)
+![藍灰色晶石簇（PDF 第 110 頁）](../../../../assets/mistborn/repaired/legacy/藍灰色晶石簇_傳承冒險_PDF第110頁_圖0368.png)
 
 ### 窮追不捨
 

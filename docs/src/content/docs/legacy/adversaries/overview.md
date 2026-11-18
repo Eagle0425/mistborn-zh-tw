@@ -52,8 +52,8 @@ sidebar:
 
 JUST HIEU
 
-![第 192 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-192-art-03.webp)
 
-![第 192 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-192-art-02.webp)
 
-![第 192 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-192-art-01.webp)
+![光頭微笑男子全身像（PDF 第 192 頁）](../../../../assets/mistborn/repaired/legacy/光頭微笑男子全身像_傳承冒險_PDF第192頁_圖0648.png)
+
+

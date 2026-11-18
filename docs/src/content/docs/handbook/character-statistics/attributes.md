@@ -46,11 +46,11 @@ sidebar:
 
 DEANDRA SCICLUNA
 
-![第 53 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-053-art-01.webp)
+
 
 ![第 53 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-053-art-02.webp)
 
-![第 53 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-053-art-03.webp)
+
 
 #### 負重能力
 
@@ -203,9 +203,9 @@ KEVIN SIDHARTA
 
 ![第 55 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-055-art-02.webp)
 
-![第 55 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-055-art-01.webp)
 
-![第 55 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-055-art-03.webp)
+
+
 
 ### 風采
 
@@ -264,4 +264,4 @@ KEVIN SIDHARTA
 
 第 3 章：角色數據 53
 
-![第 56 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-056-art-01.webp)
+

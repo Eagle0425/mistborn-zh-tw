@@ -57,7 +57,7 @@ sidebar:
 
 STEVE PRESCOTT & GAL OR
 
-![第 259 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p259-native9336.png)
+
 
 ![第 259 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p259-native9340.png)
 
@@ -173,7 +173,7 @@ GUILHERME CASTRO
 
 FLORIAN HAECKH & LOGAN FELICIANO
 
-![第 261 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p261-native9408.png)
+
 
 ![第 261 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p261-native9412.png)
 

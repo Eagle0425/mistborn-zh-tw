@@ -43,10 +43,10 @@ sidebar:
 
 第 6 章：金屬技藝 172
 
-![第 175 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-175-art-03.webp)
+![鋁鎔金術彩繪玻璃符號（PDF 第 175 頁）](../../../../assets/mistborn/repaired/handbook/鋁鎔金術彩繪玻璃符號_玩家手冊_PDF第175頁_圖0627.png)
 
-![第 175 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-175-art-04.webp)
 
-![第 175 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-175-art-01.webp)
+
+
 
 ![第 175 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-175-art-02.webp)

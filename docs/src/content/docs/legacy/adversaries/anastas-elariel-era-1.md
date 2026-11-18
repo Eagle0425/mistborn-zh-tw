@@ -45,4 +45,4 @@ Anastas Elariel 的戰術
 
 JUST HIEU
 
-![第 193 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-193-art-01.webp)
+![綠衣舉杯男子全身像（PDF 第 193 頁）](../../../../assets/mistborn/repaired/legacy/綠衣舉杯男子全身像_傳承冒險_PDF第193頁_圖0655.png)

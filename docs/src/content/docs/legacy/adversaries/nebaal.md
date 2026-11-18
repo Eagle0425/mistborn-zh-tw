@@ -49,6 +49,6 @@ NeBaal 避免正面衝突，盡可能待在敵人碰不到的地方，使用「�
 
 附錄 A：敵手 233
 
-![第 236 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-236-art-01.webp)
+![綠衣骷髏坎得拉（PDF 第 236 頁）](../../../../assets/mistborn/repaired/legacy/綠衣骷髏坎得拉_傳承冒險_PDF第236頁_圖0816.png)
 
-![第 236 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-236-art-02.webp)
+

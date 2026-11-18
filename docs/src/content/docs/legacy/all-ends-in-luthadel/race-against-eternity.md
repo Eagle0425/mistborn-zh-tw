@@ -49,7 +49,7 @@ sidebar:
 
 第 9 章：一切終於陸沙德 177
 
-![第 180 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-180-art-01.webp)
+
 
 ### 特殊規則：處理陷阱
 
@@ -212,7 +212,7 @@ K.T. 差一點就要觸發它了。
 
 ![第 183 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-183-art-02.webp)
 
-![第 183 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-183-art-01.webp)
+
 
 ### 寶庫陷阱效果
 
@@ -344,6 +344,6 @@ PC 在這場戰鬥中獲得下列能力：
 
 如果探索者曾在冒險中運用編年史家的著作，或編年史家曾記下與這場最終決戰有關的具體建議，編年史家的玩家額外擲一顆傳承骰。
 
-![第 186 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-186-art-01.webp)
+![金色二十面骰（PDF 第 186 頁）](../../../../assets/mistborn/repaired/legacy/金色二十面骰_傳承冒險_PDF第186頁_圖0596.png)
 
-![第 186 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-186-art-02.webp)
+

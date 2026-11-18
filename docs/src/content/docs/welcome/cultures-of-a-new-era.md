@@ -17,9 +17,9 @@ sidebar:
 
 24
 
-![第 24 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-024-art-01.webp)
+![疾駛汽車上的冒險隊伍（PDF 第 24 頁）](../../../assets/mistborn/repaired/welcome/疾駛汽車上的冒險隊伍_歡迎來到司卡德利亞_PDF第024頁_圖0077.png)
 
-![第 24 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-024-art-02.webp)
+![藍天下交手的兩名男子（PDF 第 24 頁）](../../../assets/mistborn/repaired/welcome/藍天下交手的兩名男子_歡迎來到司卡德利亞_PDF第024頁_圖0078.png)
 
 運河與鐵路將盆地居民連在一起，各座城市與聚落仍有各自的傳統和觀點。外圍城市（Outer Cities）也愈來愈希望在政治上脫離依藍戴而獨立。
 

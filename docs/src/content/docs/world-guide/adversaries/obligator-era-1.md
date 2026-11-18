@@ -66,6 +66,6 @@ STEVE PRESCOTT & SVETLANA KOSTINA
 
 第 8 章：敵手 255
 
-![第 258 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p258-native9323.png)
+
 
 ![第 258 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p258-native9327.png)

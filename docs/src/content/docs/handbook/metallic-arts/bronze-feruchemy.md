@@ -65,9 +65,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　222
 
-![第 225 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-225-art-01.webp)
+![青銅藏金術金屬符號與紋飾（PDF 第 225 頁）](../../../../assets/mistborn/repaired/handbook/青銅藏金術金屬符號與紋飾_玩家手冊_PDF第225頁_圖0874.png)
 
-![第 225 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-225-art-02.webp)
+
 
 ### 昏沉儲存（Drowsy Storing）
 
@@ -171,4 +171,4 @@ JANETTE RAMOS
 
 VALERIA CASALE
 
-![第 226 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-226-art-01.webp)
+![一人協助另一人走過昏暗街巷（PDF 第 226 頁）](../../../../assets/mistborn/repaired/handbook/一人協助另一人走過昏暗街巷_玩家手冊_PDF第226頁_圖0879.png)

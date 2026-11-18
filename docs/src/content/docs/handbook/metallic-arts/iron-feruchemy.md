@@ -71,9 +71,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　238
 
-![第 241 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-241-art-01.webp)
+![鐵藏金術金屬符號與紋飾（PDF 第 241 頁）](../../../../assets/mistborn/repaired/handbook/鐵藏金術金屬符號與紋飾_玩家手冊_PDF第241頁_圖0932.png)
 
-![第 241 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-241-art-02.webp)
+
 
 ### 臨界質量（Critical Mass）
 
@@ -197,4 +197,4 @@ JANETTE RAMOS
 
 第6章：金屬技藝　239
 
-![第 242 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-242-art-01.webp)
+![鐵藏金術完整圖表（PDF 第 242 頁）](../../../../assets/mistborn/repaired/handbook/鐵藏金術完整圖表_PDF第242頁.png)

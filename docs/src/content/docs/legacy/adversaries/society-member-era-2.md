@@ -39,9 +39,9 @@ sidebar:
 
 PIERRE IGNASZEWSKI
 
-![第 241 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-241-art-01.webp)
+![骷髏面具藍金長袍成員（PDF 第 241 頁）](../../../../assets/mistborn/repaired/legacy/骷髏面具藍金長袍成員_傳承冒險_PDF第241頁_圖0841.png)
 
-![第 241 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-241-art-02.webp)
+
 
 ## 正式成員
 

@@ -88,7 +88,7 @@ JORDAN KERBOW
 
 第 8 章：敵手 218
 
-![第 221 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p221-native7473.png)
+
 
 ![第 221 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p221-native7477.png)
 
@@ -177,7 +177,7 @@ WILSON NUGRAHA & GAL OR
 
 第 8 章：敵手 220
 
-![第 223 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p223-native7578.png)
+
 
 ![第 223 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p223-native7582.png)
 

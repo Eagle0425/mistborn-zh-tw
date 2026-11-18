@@ -43,7 +43,7 @@ AUSTIN HARTELL
 
 引言 5
 
-![第 8 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/page-008-art-01.webp)
+
 
 <!-- Pure full-page artwork: Elendel canal, Ironspine Building and Tekiel Tower. Caption and artist credit are printed on physical page 10. No printed text or footer on this page. -->
 

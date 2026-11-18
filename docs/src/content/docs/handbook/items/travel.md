@@ -55,4 +55,4 @@ sidebar:
 
 LUCAS TORQUATO
 
-![第 275 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-275-art-01.webp)
+![綠色蒸汽列車停靠月臺（PDF 第 275 頁）](../../../../assets/mistborn/repaired/handbook/綠色蒸汽列車停靠月臺_玩家手冊_PDF第275頁_圖1052.png)

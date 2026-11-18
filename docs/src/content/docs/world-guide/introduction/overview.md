@@ -26,4 +26,4 @@ KLAUS PILLON
 
 引言 3
 
-![第 6 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/page-006-art-01.webp)
+

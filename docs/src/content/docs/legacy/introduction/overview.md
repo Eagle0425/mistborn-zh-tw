@@ -44,11 +44,11 @@ ANNA VERHOOG
 
 2
 
-![第 5 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-005-art-03.webp)
 
-![第 5 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-005-art-01.webp)
 
-![第 5 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-005-art-02.webp)
+![永恆尖刺（PDF 第 5 頁）](../../../../assets/mistborn/repaired/legacy/永恆尖刺_傳承冒險_PDF第005頁_圖0019.png)
+
+
 
 ### 第一時代：最後帝國
 
@@ -132,7 +132,7 @@ ROMAIN KURDI
 
 NPC 的名字以粗體標示時，表示你在這個場景會用到該 NPC 的資料區塊。本書附錄 A 收錄所有資料區塊。
 
-![第 7 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-007-art-02.webp)
+![城市中的巨大金色雕像（PDF 第 7 頁）](../../../../assets/mistborn/repaired/legacy/城市中的巨大金色雕像_傳承冒險_PDF第007頁_圖0023.png)
 
 ![第 7 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-007-art-01.webp)
 
@@ -302,7 +302,7 @@ ALEXANDR LESKINEN
 
 血金術摧殘身體與靈魂。
 
-![第 11 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-011-art-01.webp)
+
 
 ![第 11 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-011-art-02.webp)
 
@@ -348,4 +348,4 @@ Enge 製作了鍍金地圖的大部分。PC 可能看見她與 Cadme 會面以�
 
 導言 9
 
-![第 12 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-012-art-01.webp)
+

@@ -88,7 +88,7 @@ sidebar:
 
 DEANDRA SCICLUNA
 
-![第 31 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-031-art-01.webp)
+![披風男子在火光前握著金屬塊（PDF 第 31 頁）](../../../../assets/mistborn/repaired/handbook/披風男子在火光前握著金屬塊_玩家手冊_PDF第031頁_圖0091.png)
 
 ## 角色成長
 

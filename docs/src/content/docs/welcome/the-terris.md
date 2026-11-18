@@ -16,11 +16,11 @@ sidebar:
 
 12
 
-![第 12 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-012-art-01.webp)
+![室內休息的泰瑞司長髮女子（PDF 第 12 頁）](../../../assets/mistborn/repaired/welcome/室內休息的泰瑞司長髮女子_歡迎來到司卡德利亞_PDF第012頁_圖0033.png)
 
 ![第 12 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-012-art-03.webp)
 
-![第 12 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-012-art-02.webp)
+![泰瑞司宗教儀式與人群（PDF 第 12 頁）](../../../assets/mistborn/repaired/welcome/泰瑞司宗教儀式與人群_歡迎來到司卡德利亞_PDF第012頁_圖0034.png)
 
 在育種計畫中倖存的女性不得離開泰瑞司統御區（Terris Dominance）。她們在塔辛文（Tathingdwen）城外的牧業聚落定居，例如 Myrshek村（Myrshek Village）。她們靠放牧、採礦和自給農耕維生，彼此扶持，維繫社群。
 
@@ -44,4 +44,4 @@ sidebar:
 
 ![第 13 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-013-art-02.webp)
 
-![第 13 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-013-art-01.webp)
+![穿幾何紋長袍的泰瑞司男子（PDF 第 13 頁）](../../../assets/mistborn/repaired/welcome/穿幾何紋長袍的泰瑞司男子_歡迎來到司卡德利亞_PDF第013頁_圖0038.png)

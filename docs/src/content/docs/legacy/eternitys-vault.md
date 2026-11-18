@@ -40,9 +40,9 @@ Delina 自第 2 章的舞會以來，就從自己在 Fellise 的據點追蹤 PC�
 
 本章以十四天休整期開始。這段時間，Enge 仔細勘查陸沙德下方的祕密隧道，尋找合適的藏匿地點。請依附錄 E「陸沙德的休整期」一節的規則主持這段休整期。請告訴玩家，這是第一時代故事最後一次休整。你可以趁此機會與玩家一起完成 PC 尚未完成的目標。
 
-![第 77 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-077-art-01.webp)
 
-![第 77 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-077-art-02.webp)
+
+
 
 ### 規劃會議
 
@@ -98,7 +98,7 @@ Roben、Tuss 和 Pella 都會出力。人力增加 1。
 
 RYAN SMITH
 
-![第 78 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-078-art-01.webp)
+
 
 ### 最後準備
 
@@ -332,7 +332,7 @@ JUST HIEU & DARKO STOJANOVIC
 
 JOSHUA CHIA
 
-![第 84 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-084-art-01.webp)
+
 
 地圖 4. 2：
 
@@ -409,7 +409,7 @@ PC 開工時先做一個關鍵的選擇，決定將永恆尖刺的保護匣固�
 
 HEROIC MAPS
 
-![第 86 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-086-art-01.webp)
+
 
 ### 正面交鋒
 
@@ -485,7 +485,7 @@ Enge 並離開，PC 不會受到傷害。NeBaal 在船上留了一封信，接�
 
 使她免於落入 Gilded Few 手中。事後，Enge 會說出完整真相，接著進行「NeBaal 的告白」。
 
-![第 88 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-088-art-01.webp)
+![黑披風持斧女子（PDF 第 88 頁）](../../../assets/mistborn/repaired/legacy/黑披風持斧女子_傳承冒險_PDF第088頁_圖0280.png)
 
 ### NeBaal 的告白
 
@@ -575,7 +575,7 @@ ANNA VERHOOG
 
 ### 迷霧披風
 
-![第 90 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-090-art-01.webp)
+![藍色午夜迷霧披風（PDF 第 90 頁）](../../../assets/mistborn/repaired/legacy/藍色午夜迷霧披風_傳承冒險_PDF第090頁_圖0282.png)
 
 ### 為明日而戰
 
@@ -635,7 +635,7 @@ LOGAN FELICIANO
 
 ![第 91 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-091-art-02.webp)
 
-![第 91 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-091-art-01.webp)
+
 
 ### 拒絕任務
 
@@ -710,7 +710,7 @@ RUSSELL JONES
 
 ![第 93 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-093-art-01.webp)
 
-![第 93 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-093-art-02.webp)
+
 
 ### 踏上新帝國的旅程
 
@@ -764,6 +764,6 @@ Tresting 附近的司卡村落。Guiverre 或 Anastas。Anastas 或 Guiverre 會
 
 第 4 章：永恆寶庫 91
 
-![第 94 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-094-art-02.webp)
 
-![第 94 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-094-art-01.webp)
+
+

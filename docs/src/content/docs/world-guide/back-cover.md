@@ -29,6 +29,6 @@ ISBN 978-1-966528-07-4
 
 生產批號：LongPack.XXXXXX
 
-![第 290 頁插圖](../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p290-native25300.png)
+
 
 ![第 290 頁插圖](../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p290-native25302.png)

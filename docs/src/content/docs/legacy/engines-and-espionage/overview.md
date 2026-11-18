@@ -30,11 +30,11 @@ sidebar:
 
 TRISTAN BIDEAU
 
-![第 95 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-095-art-03.webp)
 
-![第 95 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-095-art-02.webp)
 
-![第 95 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-095-art-01.webp)
+
+
+![藍灰膚色女子肖像（PDF 第 95 頁）](../../../../assets/mistborn/repaired/legacy/藍灰膚色女子肖像_傳承冒險_PDF第095頁_圖0308.png)
 
 ### 發動引擎
 
@@ -70,7 +70,7 @@ PC 並不知道，Wilko 剛加入守護者組織。這個跨越時代的祕密�
 
 這一幕涵蓋比賽的前半段，隊伍會依序與三名勁敵車手交鋒，先是 Bayron Conrad（he/him），接著是 Lysarra Tekiel（she/her），最後是 Kwylliam Elariel（he/him）。請將本場景當作一場試煉來主持（見「結算試煉」）。每名勁敵都是一道障礙。PC 必須取得兩次檢定成功才能克服障礙，保住名次。檢定失敗時，描述這名勁敵如何揚長而去，然後接著應付下一名勁敵。
 
-![第 96 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-096-art-01.webp)
+
 
 ### Bayron 的猛攻
 
@@ -94,7 +94,7 @@ Lysarra 的這一手把隊伍困在鐵軌另一側。PC 可以尋找替代路線
 
 JORDAN KERBOW
 
-![第 97 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-097-art-02.webp)
+
 
 ![第 97 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-097-art-01.webp)
 

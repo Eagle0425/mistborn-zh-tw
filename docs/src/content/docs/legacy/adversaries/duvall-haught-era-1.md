@@ -15,7 +15,7 @@ Duvall 開戰時先燃燒鋼，辨認帶有金屬的目標。接著交替使用�
 
 GUILHEREME CASTRO & KEVIN O’NEILL
 
-![第 213 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-213-art-01.webp)
+![白鬍鬚正裝持刀男子（PDF 第 213 頁）](../../../../assets/mistborn/repaired/legacy/白鬍鬚正裝持刀男子_傳承冒險_PDF第213頁_圖0740.png)
 
 ## Duvall Haught
 
@@ -64,6 +64,6 @@ GUILHEREME CASTRO & KEVIN O’NEILL
 
 附錄 A：對手 211
 
-![第 214 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-214-art-01.webp)
 
-![第 214 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-214-art-02.webp)
+
+

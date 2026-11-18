@@ -61,6 +61,6 @@ Kandor，
 
 NELE KLUMPE
 
-![第 232 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-232-art-01.webp)
+![綠椅上的藍衣貴族男子（PDF 第 232 頁）](../../../../assets/mistborn/repaired/legacy/綠椅上的藍衣貴族男子_傳承冒險_PDF第232頁_圖0802.png)
 
-![第 232 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-232-art-02.webp)
+

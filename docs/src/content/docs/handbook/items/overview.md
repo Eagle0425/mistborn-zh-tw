@@ -44,4 +44,4 @@ CYNTHIA SHEPPARD
 
 第7章：物品　253
 
-![第 256 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-256-art-01.webp)
+

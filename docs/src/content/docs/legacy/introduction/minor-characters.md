@@ -40,7 +40,7 @@ sidebar:
 
 導言 16
 
-![第 19 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-019-art-01.webp)
+
 
 | 姓名 | 發音 | 章節 | 代名詞 | 說明 |
 | --- | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ sidebar:
 
 導言 17
 
-![第 20 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-020-art-01.webp)
+
 
 ### 發音
 

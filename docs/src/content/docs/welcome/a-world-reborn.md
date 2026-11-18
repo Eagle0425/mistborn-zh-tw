@@ -18,9 +18,9 @@ sidebar:
 
 22
 
-![第 22 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-022-art-01.webp)
+![重生世界的綠地與山川（PDF 第 22 頁）](../../../assets/mistborn/repaired/welcome/重生世界的綠地與山川_歡迎來到司卡德利亞_PDF第022頁_圖0072.png)
 
-![第 22 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-022-art-02.webp)
+![第二時代街頭的鎔金術對峙（PDF 第 22 頁）](../../../assets/mistborn/repaired/welcome/第二時代街頭的鎔金術對峙_歡迎來到司卡德利亞_PDF第022頁_圖0073.png)
 
 第二時代的服飾融合傳統款式、俐落的幾何線條與華貴材質。
 
@@ -44,8 +44,8 @@ Marewill 花
 
 23
 
-![第 23 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-023-art-02.webp)
+![晨光中的依藍戴城市（PDF 第 23 頁）](../../../assets/mistborn/repaired/welcome/晨光中的依藍戴城市_歡迎來到司卡德利亞_PDF第023頁_圖0074.png)
 
-![第 23 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-023-art-01.webp)
+![速度圈中的持槍冒險者（PDF 第 23 頁）](../../../assets/mistborn/repaired/welcome/速度圈中的持槍冒險者_歡迎來到司卡德利亞_PDF第023頁_圖0075.png)
 
-![第 23 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-023-art-03.webp)
+![黑裙貴族女子全身像原生完整素材（PDF 第 23 頁）](../../../assets/mistborn/repaired/welcome/黑裙貴族女子全身像原生完整素材_歡迎來到司卡德利亞_PDF第023頁_圖0118.png)

@@ -51,9 +51,9 @@ AUSTIN HARTELL
 
 第6章：金屬技藝（Metallic Arts）　210
 
-![第 213 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-213-art-01.webp)
+![鋅鎔金術彩繪玻璃符號（PDF 第 213 頁）](../../../../assets/mistborn/repaired/handbook/鋅鎔金術彩繪玻璃符號_玩家手冊_PDF第213頁_圖0816.png)
 
-![第 213 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-213-art-02.webp)
+
 
 更多情緒鎔金術（Emotional Allomancy）的運用範例，請參閱黃銅鎔金術能力的「創意用法」。該節的「改變後的情緒狀態」側欄，也提供角色可能如何回應情緒操控的指引。
 
@@ -165,9 +165,9 @@ AUSTIN HARTELL
 
 第6章：金屬技藝　211
 
-![第 214 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-214-art-02.webp)
+![鋅鎔金術完整圖表（PDF 第 214 頁）](../../../../assets/mistborn/repaired/handbook/鋅鎔金術完整圖表_PDF第214頁.png)
 
-![第 214 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-214-art-01.webp)
+
 
 #### 煽動決心
 
@@ -199,6 +199,6 @@ AUSTIN HARTELL
 
 DEANDRA SCICLUNA
 
-![第 215 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-215-art-01.webp)
+![男女貴族在晚會上交談（PDF 第 215 頁）](../../../../assets/mistborn/repaired/handbook/男女貴族在晚會上交談_玩家手冊_PDF第215頁_圖0827.png)
 
 ![第 215 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-215-art-02.webp)

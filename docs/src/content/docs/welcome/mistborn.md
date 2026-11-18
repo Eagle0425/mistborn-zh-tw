@@ -21,9 +21,9 @@ sidebar:
 
 迷霧之子與迷霧有著獨特的關係；迷霧似乎會受到他們吸引。
 
-![第 18 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-018-art-01.webp)
+![紅色彩繪圓窗與霧中身影（PDF 第 18 頁）](../../../assets/mistborn/repaired/welcome/紅色彩繪圓窗與霧中身影_歡迎來到司卡德利亞_PDF第018頁_圖0053.png)
 
-![第 18 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-018-art-02.webp)
+![在夜霧中飛躍的迷霧之子（PDF 第 18 頁）](../../../assets/mistborn/repaired/welcome/在夜霧中飛躍的迷霧之子_歡迎來到司卡德利亞_PDF第018頁_圖0054.png)
 
 <!-- 原書第 19 頁；PDF 第 19 頁 -->
 
@@ -45,10 +45,10 @@ sidebar:
 
 ![第 19 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-019-art-02.webp)
 
-![第 19 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-019-art-01.webp)
+![黑色迷霧披風全身像原生完整素材（PDF 第 19 頁）](../../../assets/mistborn/repaired/welcome/黑色迷霧披風全身像原生完整素材_歡迎來到司卡德利亞_PDF第019頁_圖0114.png)
 
-![第 19 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-019-art-04.webp)
+![各色金屬液瓶原生完整素材（PDF 第 19 頁）](../../../assets/mistborn/repaired/welcome/各色金屬液瓶原生完整素材_歡迎來到司卡德利亞_PDF第019頁_圖0117.png)
 
 ![第 19 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-019-art-05.webp)
 
-![第 19 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-019-art-03.webp)
+![黑曜石小刀原生完整素材（PDF 第 19 頁）](../../../assets/mistborn/repaired/welcome/黑曜石小刀原生完整素材_歡迎來到司卡德利亞_PDF第019頁_圖0116.png)

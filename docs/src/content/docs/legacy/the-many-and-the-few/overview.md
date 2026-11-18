@@ -35,9 +35,9 @@ PC 勉強逃過 Delina 的追捕，必須低調行事。依附錄 E〈在陸沙�
 
 休整期間，有鎔金術師在陸沙德的屋頂襲擊依藍德國王的護衛紋。多數人以為他們是史特拉夫．泛圖爾派來的，其實是西方統御區的軍閥塞特所派。塞特的大軍不久後也抵達，加入圍城。此外，依藍德的顧問 Edgard Ladrian（微風）回到了陸沙德。
 
-![第 61 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-061-art-01.webp)
 
-![第 61 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-061-art-02.webp)
+
+
 
 ### Kandor 營造公司的危機
 
@@ -71,7 +71,7 @@ Bezryl 的話阻止了暴力，但群眾情緒高漲，吶喊仍未平息。PC �
 
 NELE KLUMPE
 
-![第 62 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-062-art-01.webp)
+![藍橙衣長辮泰瑞司女子（PDF 第 62 頁）](../../../../assets/mistborn/repaired/legacy/藍橙衣長辮泰瑞司女子_傳承冒險_PDF第062頁_圖0214.png)
 
 #### 與 Cynwise 敘舊
 
@@ -191,7 +191,7 @@ Bezryl 主動提出與 PC 同行。她擁有世代累積的建築和工程知識
 
 第 3 章：多數與少數 62
 
-![第 65 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-065-art-01.webp)
+
 
 ##### 淚水與灰燼
 
@@ -230,7 +230,7 @@ Kandor
 
 NELE KLUMPE
 
-![第 66 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-066-art-01.webp)
+![坐在綠色椅中的藍衣男子（PDF 第 66 頁）](../../../../assets/mistborn/repaired/legacy/坐在綠色椅中的藍衣男子_傳承冒險_PDF第066頁_圖0222.png)
 
 精銳殺霧者會攻擊 Bezryl（若在場），否則攻擊第一個被她懷疑是鎔金術師的角色。如果 Bezryl 中毒，她會進行慢速輪次，使用「汲取健康」終止毒藥效果。殺霧者的目標是讓對方失去行動能力，再把對方拖走。三名綁匪會戰到前兩人倒下，第三人便會撤退。若被制伏，綁匪會承認自己是「追捕迷霧人的賞金獵人」。若有人通過 DC 14 威嚇檢定，他們會招出交付綁架受害者的地點是浩特堡。
 
@@ -295,7 +295,7 @@ PC 完成調查時，Cynwise 正在組織針對 Kandor 營造公司的示威。D
 
 第 3 章：多數與少數 65
 
-![第 68 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-068-art-01.webp)
+
 
 #### 向 Kandor 陳述案情
 
@@ -371,7 +371,7 @@ Kandor 營造公司的工人要求改善工作安全。
 
 STEVEN SHAN
 
-![第 70 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-070-art-01.webp)
+
 
 ![第 70 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-070-art-02.webp)
 

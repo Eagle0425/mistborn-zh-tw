@@ -65,11 +65,11 @@ sidebar:
 
 AUSTIN HARTELL
 
-![第 206 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-206-art-01.webp)
+![白鑞鎔金術彩繪玻璃符號（PDF 第 206 頁）](../../../../assets/mistborn/repaired/handbook/白鑞鎔金術彩繪玻璃符號_玩家手冊_PDF第206頁_圖0785.png)
 
-![第 206 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-206-art-03.webp)
 
-![第 206 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-206-art-02.webp)
+
+
 
 #### 靈活拳手（Nimble Pugilist）
 
@@ -177,8 +177,8 @@ AUSTIN HARTELL
 
 KIKI MOCH RIZKY
 
-![第 207 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-207-art-03.webp)
 
-![第 207 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-207-art-01.webp)
 
-![第 207 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-207-art-02.webp)
+![人物在夕陽下推射金屬（PDF 第 207 頁）](../../../../assets/mistborn/repaired/handbook/人物在夕陽下推射金屬_玩家手冊_PDF第207頁_圖0788.png)
+
+![白鑞鎔金術完整圖表（PDF 第 207 頁）](../../../../assets/mistborn/repaired/handbook/白鑞鎔金術完整圖表_PDF第207頁.png)

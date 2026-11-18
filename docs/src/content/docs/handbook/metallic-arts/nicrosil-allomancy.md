@@ -83,9 +83,9 @@ AUSTIN HARTELL
 
 第6章：金屬技藝（Metallic Arts）　201
 
-![第 204 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-204-art-01.webp)
+![鎳鉻鎔金術彩繪玻璃符號（PDF 第 204 頁）](../../../../assets/mistborn/repaired/handbook/鎳鉻鎔金術彩繪玻璃符號_玩家手冊_PDF第204頁_圖0770.png)
 
-![第 204 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-204-art-02.webp)
+
 
 ### 鎳鉻鎔金術天賦
 
@@ -141,4 +141,4 @@ AUSTIN HARTELL
 
 ANTTI HAKOSAARI
 
-![第 205 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-205-art-01.webp)
+![白髮男子在室內觀察手中金屬（PDF 第 205 頁）](../../../../assets/mistborn/repaired/handbook/白髮男子在室內觀察手中金屬_玩家手冊_PDF第205頁_圖0779.png)

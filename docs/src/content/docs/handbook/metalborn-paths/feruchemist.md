@@ -37,7 +37,7 @@ sidebar:
 
 第 5 章：金屬之子路徑 144
 
-![第 147 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-147-art-01.webp)
+
 
 **屬性（Attribute）。** 若想提高藏金術數值，並增加可配戴的金屬意識庫數量，請優先提高智力（Intellect）。其他屬性主要取決於你最先打算為哪些藏金能力打造金屬意識庫。例如，儲存特定屬性的能力，如電金藏金術（Electrum Feruchemy），通常會受益於對該屬性的投入；如果能力適合戰鬥，如鋼藏金術（Steel Feruchemy），則可以考慮力量（Strength）或速度（Speed），加強武器攻擊。
 
@@ -265,6 +265,6 @@ DEANDRA SCICLUNA & LOGAN FELICIANO
 
 ![第 150 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-150-art-01.webp)
 
-![第 150 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-150-art-02.webp)
+![藏金術師完整圖表（PDF 第 150 頁）](../../../../assets/mistborn/repaired/handbook/藏金術師完整圖表_PDF第150頁.png)
 
-![第 150 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-150-art-03.webp)
+

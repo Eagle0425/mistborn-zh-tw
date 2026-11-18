@@ -122,7 +122,7 @@ ANNA VERHOOG
 
 第 7 章：物品 275
 
-![第 278 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-278-art-01.webp)
+![各式金屬子彈與彈殼（PDF 第 278 頁）](../../../../assets/mistborn/repaired/handbook/各式金屬子彈與彈殼_玩家手冊_PDF第278頁_圖1058.png)
 
 **裝填殺霧彈。**重新裝填火器時，你可以從持有的殺霧彈中選擇一種類型（例如「標準殺霧彈」表中的一種），代替普通彈藥。如此做時，你裝入的殺霧彈數量，最多等於該火器的裝填（Loaded）數值。此後，火器會獲得該種殺霧彈的效果，直到你再次重新裝填。
 
@@ -195,7 +195,7 @@ ANNA VERHOOG
 
 第 7 章：物品 277
 
-![第 280 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-280-art-01.webp)
+![短管多膛手槍（PDF 第 280 頁）](../../../../assets/mistborn/repaired/handbook/短管多膛手槍_玩家手冊_PDF第280頁_圖1061.png)
 
 進行工藝檢定，並提高賭注。參照「火器製作檢定」表，決定檢定結果如何影響製作。
 
@@ -221,7 +221,7 @@ MARIE MAGNY
 
 ![第 281 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-281-art-02.webp)
 
-![第 281 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-281-art-01.webp)
+
 
 ### 火器原型設計
 

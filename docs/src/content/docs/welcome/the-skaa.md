@@ -18,7 +18,7 @@ sidebar:
 
 8
 
-![第 8 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-008-art-01.webp)
+![灰燼田地中的司卡勞動者（PDF 第 8 頁）](../../../assets/mistborn/repaired/welcome/灰燼田地中的司卡勞動者_歡迎來到司卡德利亞_PDF第008頁_圖0020.png)
 
 ![第 8 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-008-art-02.webp)
 
@@ -44,6 +44,6 @@ sidebar:
 
 ![第 9 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-009-art-03.webp)
 
-![第 9 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-009-art-01.webp)
+![持劍與旗幟的司卡戰士原生完整素材（PDF 第 9 頁）](../../../assets/mistborn/repaired/welcome/持劍與旗幟的司卡戰士原生完整素材_歡迎來到司卡德利亞_PDF第009頁_圖0108.png)
 
 ![第 9 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-009-art-04.webp)

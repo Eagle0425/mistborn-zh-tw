@@ -62,7 +62,7 @@ sidebar:
 
 256
 
-![第 259 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-259-art-01.webp)
+
 
 ### 打擊 Gilded Few
 

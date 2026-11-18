@@ -73,9 +73,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　249
 
-![第 252 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-252-art-01.webp)
+![鋅藏金術金屬符號與紋飾（PDF 第 252 頁）](../../../../assets/mistborn/repaired/handbook/鋅藏金術金屬符號與紋飾_玩家手冊_PDF第252頁_圖0972.png)
 
-![第 252 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-252-art-02.webp)
+
 
 ### 靈光乍現（Eureka Moment）
 
@@ -193,6 +193,6 @@ JANETTE RAMOS
 
 第6章：金屬技藝　250
 
-![第 253 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-253-art-02.webp)
+![鋅藏金術完整圖表（PDF 第 253 頁）](../../../../assets/mistborn/repaired/handbook/鋅藏金術完整圖表_PDF第253頁.png)
 
-![第 253 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-253-art-01.webp)
+

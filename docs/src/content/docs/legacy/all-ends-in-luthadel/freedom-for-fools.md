@@ -188,7 +188,7 @@ ANNA VERHOOG & LUCAS TORQUATO
 
 ### 血金術尖刺
 
-![第 189 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-189-art-01.webp)
+![永恆尖刺（PDF 第 189 頁）](../../../../assets/mistborn/repaired/legacy/永恆尖刺_傳承冒險_PDF第189頁_圖0615.png)
 
 ### 尾聲
 
@@ -220,7 +220,7 @@ Wilko 相信自己和隊伍真的改變了世界。她想繼續一起行動，�
 
 ANA GRIGORIEVA
 
-![第 190 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-190-art-01.webp)
+![巨大釘刺血金術怪物（PDF 第 190 頁）](../../../../assets/mistborn/repaired/legacy/巨大釘刺血金術怪物_傳承冒險_PDF第190頁_圖0619.png)
 
 
 
@@ -274,6 +274,6 @@ PC 擊敗血金術怪物後，任何時候都可以安排這個選用場景。�
 
 第 9 章：一切終於陸沙德 188
 
-![第 191 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-191-art-02.webp)
 
-![第 191 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-191-art-01.webp)
+
+

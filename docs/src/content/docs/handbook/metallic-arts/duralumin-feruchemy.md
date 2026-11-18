@@ -69,9 +69,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　232
 
-![第 235 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-235-art-01.webp)
+![硬鋁藏金術金屬符號與紋飾（PDF 第 235 頁）](../../../../assets/mistborn/repaired/handbook/硬鋁藏金術金屬符號與紋飾_玩家手冊_PDF第235頁_圖0914.png)
 
-![第 235 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-235-art-02.webp)
+
 
 ### 人格感召（Force of Personality）
 
@@ -171,4 +171,4 @@ JANETTE RAMOS
 
 第6章：金屬技藝　233
 
-![第 236 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-236-art-01.webp)
+![硬鋁藏金術完整圖表（PDF 第 236 頁）](../../../../assets/mistborn/repaired/handbook/硬鋁藏金術完整圖表_PDF第236頁.png)

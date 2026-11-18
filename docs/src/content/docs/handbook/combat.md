@@ -42,7 +42,7 @@ DENMAN ROOKE
 
 第 10 章：戰鬥 317
 
-![第 320 頁插圖](../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-320-art-01.webp)
+
 
 ### 獲得行動與反應
 
@@ -507,7 +507,7 @@ ARTUR MOSCA
 
 *有效果線*
 
-![效果線示意圖：三條紅線顯示被障礙物阻擋的路徑；一條綠線顯示暢通路徑](../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-331-art-01.webp)
+![第 10 章：戰鬥完整圖表（PDF 第 331 頁）](../../../assets/mistborn/repaired/handbook/第 10 章：戰鬥完整圖表_PDF第331頁.png)
 
 地圖：DALLIN BIFANO，指示物：DEANDRA SCICLUNA
 

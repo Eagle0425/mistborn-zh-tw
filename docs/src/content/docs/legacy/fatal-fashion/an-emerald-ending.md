@@ -231,6 +231,6 @@ Wilko，接著開始找她的日誌。說到她被帶走時，NeBaal 的聲音�
 
 KEVIN O’NEILL
 
-![第 174 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-174-art-01.webp)
+
 
 ![第 174 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-174-art-02.webp)

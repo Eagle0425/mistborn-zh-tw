@@ -69,7 +69,7 @@ sidebar:
 
 第 8 章：短期目標與獎勵 284
 
-![第 287 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-287-art-01.webp)
+
 
 ### 以成功結束
 
@@ -97,7 +97,7 @@ LUCAS TORQUATO
 
 第 8 章：短期目標與獎勵 285
 
-![第 288 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-288-art-01.webp)
+![淺色金屬額環（PDF 第 288 頁）](../../../../assets/mistborn/repaired/handbook/淺色金屬額環_玩家手冊_PDF第288頁_圖1081.png)
 
 ### 即興獎勵
 
@@ -131,7 +131,7 @@ ALEKSANDRA WOJTAS
 
 ![第 289 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-289-art-02.webp)
 
-![第 289 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-289-art-01.webp)
+
 
 ### 各階層夥伴範例
 
@@ -206,7 +206,7 @@ LUCAS TORQUATO
 
 第 8 章：短期目標與獎勵 288
 
-![第 291 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-291-art-01.webp)
+![兩枚不同顏色的血金術尖刺（PDF 第 291 頁）](../../../../assets/mistborn/repaired/handbook/兩枚不同顏色的血金術尖刺_玩家手冊_PDF第291頁_圖1087.png)
 
 ### 血金術師專長
 
@@ -234,7 +234,7 @@ LUCAS TORQUATO
 
 RODRIGO CLARK
 
-![第 292 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-292-art-02.webp)
+
 
 ![第 292 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-292-art-01.webp)
 
@@ -350,7 +350,7 @@ ANNA VERHOOG
 
 第 8 章：短期目標與獎勵 292
 
-![第 295 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-295-art-01.webp)
+![雕紋金屬立方盒（PDF 第 295 頁）](../../../../assets/mistborn/repaired/handbook/雕紋金屬立方盒_玩家手冊_PDF第295頁_圖1092.png)
 
 你可以使用 [1行動]，把注入授予的手榴彈擲向距你 30 呎內的佔位，釋放其中的授予。確切效果請與 GM 一起決定；一般而言，手榴彈會向四面八方釋放，產生類似所儲存能力的效果。儲存的授予越多，效果就越驚人。手榴彈注入某項能力期間，不能再注入來自其他能力的授予。例如，注入鋼鎔金術時，不能同時注入黃銅鎔金術。授予釋放後，就能再次注入任何鎔金能力。
 
@@ -394,9 +394,9 @@ ANNA VERHOOG
 
 第 8 章：短期目標與獎勵 293
 
-![第 296 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-296-art-01.webp)
+![內襯金屬的黑色圓頂帽（PDF 第 296 頁）](../../../../assets/mistborn/repaired/handbook/內襯金屬的黑色圓頂帽_玩家手冊_PDF第296頁_圖1097.png)
 
-![第 296 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-296-art-02.webp)
+
 
 ### 徽章獎勵階層
 
@@ -523,7 +523,7 @@ ANNA VERHOOG
 
 第 8 章：短期目標與獎勵 295
 
-![第 298 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-298-art-01.webp)
+![封紅蠟的金屬小瓶（PDF 第 298 頁）](../../../../assets/mistborn/repaired/handbook/封紅蠟的金屬小瓶_玩家手冊_PDF第298頁_圖1100.png)
 
 #### 贊助者
 
@@ -637,7 +637,7 @@ MARIE SEEBERGER
 
 第 8 章：短期目標與獎勵 298
 
-![第 301 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-301-art-01.webp)
+![電力公司金色銘牌（PDF 第 301 頁）](../../../../assets/mistborn/repaired/handbook/電力公司金色銘牌_玩家手冊_PDF第301頁_圖1104.png)
 
 ### 組織範例：犯罪集團
 
@@ -736,6 +736,6 @@ LOGAN FELICIANO
 
 ![第 304 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-304-art-01.webp)
 
-![第 304 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-304-art-02.webp)
+
 
 ![第 305 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-305-art-01.webp)

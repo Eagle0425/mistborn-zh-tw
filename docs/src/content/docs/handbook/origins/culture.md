@@ -40,7 +40,7 @@ Alder, Bolan, Criden, Fare, Hosahn, Jeller, Karalle, Lened, Nendel, Phin, Ruel, 
 
 DEANDRA SCICLUNA
 
-![第 43 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-043-art-01.webp)
+![抱臂站立的司卡勞工（PDF 第 43 頁）](../../../../assets/mistborn/repaired/handbook/抱臂站立的司卡勞工_玩家手冊_PDF第043頁_圖0128.png)
 
 #### 司卡專長
 
@@ -78,7 +78,13 @@ Anture, Dammel, Farene, Galea, Japes, Keliera, Lian, Mantare, Nomoron, Parteau, 
 
 DEANDRA SCICLUNA
 
-![第 44 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-044-art-01.webp)
+<div class="illustration-row">
+
+![陸沙德的男性閒談者（PDF 第 44 頁）](../../../../assets/mistborn/repaired/handbook/陸沙德的男性閒談者_玩家手冊_PDF第044頁_圖0132.png)
+
+![身穿藍色禮服的東方貴族女子（PDF 第 44 頁）](../../../../assets/mistborn/repaired/handbook/身穿藍色禮服的東方貴族女子_玩家手冊_PDF第044頁_圖0133.png)
+
+</div>
 
 ### 泰瑞司統御區　第一時代
 
@@ -106,7 +112,13 @@ Axshon, Colette, Cartoux, Egon, Farlene, Hoxs, Janier, Mioux, Oskar, Renli, Sere
 
 DEANDRA SCICLUNA
 
-![第 45 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-045-art-01.webp)
+<div class="illustration-row">
+
+![持牧杖的泰瑞司牧羊人（PDF 第 45 頁）](../../../../assets/mistborn/repaired/handbook/持牧杖的泰瑞司牧羊人_玩家手冊_PDF第045頁_圖0141.png)
+
+![身穿紫色長袍的泰瑞司人物（PDF 第 45 頁）](../../../../assets/mistborn/repaired/handbook/身穿紫色長袍的泰瑞司人物_玩家手冊_PDF第045頁_圖0140.png)
+
+</div>
 
 #### 外圍統御區專長
 
@@ -134,9 +146,15 @@ Allriandre, Alvery, Brill, Carmine, Collette, Daius, Ennasi, Hedwarn, Hinston, J
 
 DEANDRA SCICLUNA
 
-![第 46 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-046-art-01.webp)
+<div class="illustration-row">
 
-![第 46 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-046-art-02.webp)
+![手拿筆記本的依藍戴女性組織者（PDF 第 46 頁）](../../../../assets/mistborn/repaired/handbook/手拿筆記本的依藍戴女性組織者_玩家手冊_PDF第046頁_圖0153.png)
+
+![持繩索的克羅司血裔牧場主人（PDF 第 46 頁）](../../../../assets/mistborn/repaired/handbook/持繩索的克羅司血裔牧場主人_玩家手冊_PDF第046頁_圖0152.png)
+
+</div>
+
+
 
 ### 克羅司混血　第二時代
 
@@ -180,9 +198,9 @@ Attica, Billiam, Brambleton, Dion, Drefan, Gill, Hazy, Joshe, Mariola, Marven, N
 
 第 2 章：起源 44
 
-![第 47 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-047-art-01.webp)
 
-![第 47 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-047-art-02.webp)
+
+
 
 表示熟悉更多地區。你瞭解該地的進出口貨品，也知道如何找到商家與著名地標。請選擇你接受過的教育，並決定你使用司卡語與上皇族語口說及書寫的熟練程度。無論自身信仰為何，你都熟悉倖存者教、碎刺教與道教的基本教義。
 
@@ -204,7 +222,15 @@ Abba, Avery, Benjamin, Carmen, Charls, Dora, Florence, Flossie, Frederick, Hanna
 
 DEANDRA SCICLUNA
 
-![第 48 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-048-art-01.webp)
+<div class="illustration-row">
+
+![戴面具的南方機械師（PDF 第 48 頁）](../../../../assets/mistborn/repaired/handbook/戴面具的南方機械師_玩家手冊_PDF第048頁_圖0165.png)
+
+![提金屬箱的比爾明富商（PDF 第 48 頁）](../../../../assets/mistborn/repaired/handbook/提金屬箱的比爾明富商_玩家手冊_PDF第048頁_圖0164.png)
+
+![披流蘇斗篷的蠻橫區女牛仔（PDF 第 48 頁）](../../../../assets/mistborn/repaired/handbook/披流蘇斗篷的蠻橫區女牛仔_玩家手冊_PDF第048頁_圖0166.png)
+
+</div>
 
 ### 泰瑞司聚居地（Terris Enclaves）　第二時代
 
@@ -240,7 +266,13 @@ CharSun, CheOon, DenMar, Draalm, FhorSell, JeOrr, JilMaar, KeeLaan, Laahm, LunPo
 
 DEANDRA SCICLUNA
 
-![第 49 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-049-art-01.webp)
+<div class="illustration-row">
+
+![提公事包與畫具的泰瑞司藝術家（PDF 第 49 頁）](../../../../assets/mistborn/repaired/handbook/提公事包與畫具的泰瑞司藝術家_玩家手冊_PDF第049頁_圖0170.png)
+
+![坎得拉的半透明真體（PDF 第 49 頁）](../../../../assets/mistborn/repaired/handbook/坎得拉的半透明真體_玩家手冊_PDF第049頁_圖0171.png)
+
+</div>
 
 擁有坎得拉家園專長的你，知道第一代成員的名字，以及第二代各自的專長領域與職責。你理解初約的條款與要求，也知道坎得拉歷史的其他祕密，包括本章前文〈坎得拉血統〉中的資訊。若遊戲設定在第一時代，請決定你有多少家園之外的活動經驗；若設定在第二時代，你熟悉坎得拉的活動、生意與休閒去處，也熟悉現代坎得拉的習俗與規則。請選擇你接受過的教育，並決定你使用帝國語／司卡語與泰瑞司語口說及書寫的熟練程度。無論自身信仰為何，你都熟悉泰瑞司諸神：存留（Preservation）與滅絕（Ruin）；若遊戲發生在落灰之終之後，你也熟悉和諧。
 

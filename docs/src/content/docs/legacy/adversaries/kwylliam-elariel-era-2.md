@@ -21,9 +21,9 @@ Kwylliam 是醜聞大王，擅長挑起文化爭議，也懂得透過消息、�
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 227 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-227-art-02.webp)
 
-![第 227 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-227-art-01.webp)
+
+![紅棕西裝披風男子（PDF 第 227 頁）](../../../../assets/mistborn/repaired/legacy/紅棕西裝披風男子_傳承冒險_PDF第227頁_圖0785.png)
 
 ### Kwylliam Elariel
 

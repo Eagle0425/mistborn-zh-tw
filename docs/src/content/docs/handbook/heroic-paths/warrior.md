@@ -53,7 +53,7 @@ sidebar:
 
 第 4 章：英雄路徑 118
 
-![第 121 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-121-art-01.webp)
+
 
 ### 蠻橫區執法者（Roughs Enforcer） 第二時代
 
@@ -91,7 +91,7 @@ ANDREW CHOU
 
 ![第 122 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-122-art-01.webp)
 
-![第 122 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-122-art-02.webp)
+
 
 #### 戒備架式（戰士關鍵天賦）
 
@@ -183,7 +183,7 @@ ANDREW CHOU
 
 ![第 123 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-123-art-01.webp)
 
-![第 123 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-123-art-02.webp)
+![戰士完整圖表（PDF 第 123 頁）](../../../../assets/mistborn/repaired/handbook/戰士完整圖表_PDF第123頁.png)
 
 ## 戰士
 
@@ -357,13 +357,13 @@ ANDREW CHOU
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 124 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-124-art-02.webp)
 
-![第 124 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-124-art-03.webp)
 
-![第 124 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-124-art-01.webp)
 
-![第 124 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-124-art-04.webp)
+
+![戰士完整圖表（PDF 第 124 頁）](../../../../assets/mistborn/repaired/handbook/戰士完整圖表_PDF第124頁.png)
+
+
 
 ### 鬥士專精
 
@@ -421,7 +421,7 @@ DARKO STOJANOVIC
 
 ![第 125 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-125-art-02.webp)
 
-![第 125 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-125-art-01.webp)
+![抱臂站立的無袖衣男子（PDF 第 125 頁）](../../../../assets/mistborn/repaired/handbook/抱臂站立的無袖衣男子_玩家手冊_PDF第125頁_圖0404.png)
 
 #### 戰鬥脈動
 
@@ -671,6 +671,6 @@ JOE WATSON
 
 第 4 章：英雄路徑 125
 
-![第 128 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-128-art-01.webp)
+![藍膚戰士在霧林中持長柄武器（PDF 第 128 頁）](../../../../assets/mistborn/repaired/handbook/藍膚戰士在霧林中持長柄武器_玩家手冊_PDF第128頁_圖0407.png)
 
 ![第 129 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-129-art-01.webp)

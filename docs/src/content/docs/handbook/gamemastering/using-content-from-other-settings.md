@@ -31,7 +31,7 @@ BRUCE BRENNEISE
 
 第 13 章：主持遊戲 374
 
-![第 377 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-377-art-01.webp)
+![行星與環繞的大小衛星（PDF 第 377 頁）](../../../../assets/mistborn/repaired/handbook/行星與環繞的大小衛星_玩家手冊_PDF第377頁_圖1240.png)
 
 《迷霧之子玩家手冊》（Mistborn Handbook）中的下列專精屬於特定設定：
 

@@ -55,7 +55,7 @@ sidebar:
 
 第 4 章：英雄路徑 102
 
-![第 105 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-105-art-01.webp)
+
 
 *多克森（Dockson）有天才般的組織能力，也是天生的領袖。*
 
@@ -91,7 +91,7 @@ SVETLANA KOSTINA
 
 ![第 106 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-106-art-01.webp)
 
-![第 106 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-106-art-02.webp)
+
 
 #### 果斷指揮（領袖關鍵）
 
@@ -193,7 +193,7 @@ SVETLANA KOSTINA
 
 ![第 107 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-107-art-01.webp)
 
-![第 107 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-107-art-02.webp)
+![領袖完整圖表（PDF 第 107 頁）](../../../../assets/mistborn/repaired/handbook/領袖完整圖表_PDF第107頁.png)
 
 領袖
 
@@ -355,11 +355,11 @@ SVETLANA KOSTINA
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 108 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-108-art-02.webp)
 
-![第 108 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-108-art-01.webp)
 
-![第 108 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-108-art-03.webp)
+![領袖完整圖表（PDF 第 108 頁）](../../../../assets/mistborn/repaired/handbook/領袖完整圖表_PDF第108頁.png)
+
+
 
 ### 策劃者專精
 
@@ -495,7 +495,7 @@ DEANDRA SCICLUNA & GAL OR
 
 NELE KLUMPE
 
-![第 110 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-110-art-01.webp)
+![光頭人物在夕陽下張臂指揮（PDF 第 110 頁）](../../../../assets/mistborn/repaired/handbook/光頭人物在夕陽下張臂指揮_玩家手冊_PDF第110頁_圖0356.png)
 
 #### 不懈行軍
 
@@ -639,4 +639,4 @@ NELE KLUMPE
 
 DEANDRA SCICLUNA
 
-![第 112 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-112-art-01.webp)
+![舉杯致意的西裝男子（PDF 第 112 頁）](../../../../assets/mistborn/repaired/handbook/舉杯致意的西裝男子_玩家手冊_PDF第112頁_圖0359.png)

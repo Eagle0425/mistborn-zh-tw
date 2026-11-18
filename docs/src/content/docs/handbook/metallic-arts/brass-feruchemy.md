@@ -53,9 +53,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　219
 
-![第 222 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-222-art-01.webp)
+![黃銅藏金術金屬符號與紋飾（PDF 第 222 頁）](../../../../assets/mistborn/repaired/handbook/黃銅藏金術金屬符號與紋飾_玩家手冊_PDF第222頁_圖0864.png)
 
-![第 222 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-222-art-02.webp)
+
 
 ### 運用黃銅藏金術
 
@@ -207,6 +207,6 @@ GUILHERME CASTRO
 
 第6章：金屬技藝　221
 
-![第 224 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-224-art-02.webp)
+![黃銅藏金術完整圖表（PDF 第 224 頁）](../../../../assets/mistborn/repaired/handbook/黃銅藏金術完整圖表_PDF第224頁.png)
 
-![第 224 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-224-art-01.webp)
+![戴帽男子施展拳擊架勢（PDF 第 224 頁）](../../../../assets/mistborn/repaired/handbook/戴帽男子施展拳擊架勢_玩家手冊_PDF第224頁_圖0873.png)

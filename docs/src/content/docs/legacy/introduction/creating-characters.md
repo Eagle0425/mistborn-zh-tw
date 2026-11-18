@@ -137,7 +137,7 @@ AUSTIN HARTELL
 
 KEVIN SIDHARTA
 
-![第 24 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-024-art-01.webp)
+
 
 ![第 24 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-024-art-02.webp)
 

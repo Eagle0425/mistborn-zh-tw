@@ -55,9 +55,9 @@ JANETTE RAMOS
 
 第6章：金屬技藝（Metallic Arts）　236
 
-![第 239 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-239-art-01.webp)
+![金藏金術金屬符號與紋飾（PDF 第 239 頁）](../../../../assets/mistborn/repaired/handbook/金藏金術金屬符號與紋飾_玩家手冊_PDF第239頁_圖0924.png)
 
-![第 239 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-239-art-02.webp)
+
 
 ### 加速制血（Expedited Bloodmaking）
 
@@ -181,4 +181,4 @@ JANETTE RAMOS
 
 第6章：金屬技藝　237
 
-![第 240 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-240-art-01.webp)
+![金藏金術完整圖表（PDF 第 240 頁）](../../../../assets/mistborn/repaired/handbook/金藏金術完整圖表_PDF第240頁.png)

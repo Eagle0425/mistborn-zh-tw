@@ -23,7 +23,7 @@ sidebar:
 
 ANTTI HAKOSAARI
 
-![第 233 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-233-art-02.webp)
+
 
 ![第 233 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-233-art-01.webp)
 
@@ -81,4 +81,4 @@ ANTTI HAKOSAARI
 
 附錄 A：敵手 231
 
-![第 234 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-234-art-01.webp)
+

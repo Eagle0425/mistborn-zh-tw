@@ -42,4 +42,4 @@ sidebar:
 
 導言 13
 
-![第 16 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-016-art-01.webp)
+

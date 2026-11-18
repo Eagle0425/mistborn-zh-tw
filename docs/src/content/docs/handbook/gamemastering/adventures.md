@@ -118,4 +118,4 @@ CARSON DANIEL
 
 STEVE PRESCOTT
 
-![第 373 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-373-art-03.webp)
+![持霰彈槍的女性人物去背（PDF 第 373 頁）](../../../../assets/mistborn/repaired/handbook/持霰彈槍的女性人物去背_玩家手冊_PDF第373頁_圖1226.png)

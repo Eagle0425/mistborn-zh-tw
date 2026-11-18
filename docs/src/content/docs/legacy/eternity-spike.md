@@ -42,6 +42,6 @@ ANNA VERHOOG
 
 242
 
-![第 245 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-245-art-02.webp)
 
-![第 245 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-245-art-01.webp)
+
+![永恆尖刺（PDF 第 245 頁）](../../../assets/mistborn/repaired/legacy/永恆尖刺_傳承冒險_PDF第245頁_圖0863.png)

@@ -79,7 +79,7 @@ sidebar:
 
 FLORIAN HAECKH & LOGAN FELICIANO
 
-![第 240 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p240-native8448.png)
+
 
 ![第 240 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p240-native8452.png)
 
@@ -105,7 +105,7 @@ FLORIAN HAECKH & LOGAN FELICIANO
 
 VLAD OVOY
 
-![第 241 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p241-native26924.png)
+
 
 ![第 241 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p241-native26925.png)
 

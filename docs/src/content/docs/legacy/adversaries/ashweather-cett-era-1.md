@@ -61,4 +61,4 @@ JUST HIEU & DARKO STOJANOVIC
 
 ![第 195 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-195-art-02.webp)
 
-![第 195 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-195-art-01.webp)
+

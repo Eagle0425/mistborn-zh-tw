@@ -41,7 +41,9 @@ ANNA VERHOOG
 
 第7章：物品　267
 
-![第 270 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-270-art-01.webp)
+![不同金屬標記的小瓶組（PDF 第 270 頁）](../../../../assets/mistborn/repaired/handbook/不同金屬標記的小瓶組_玩家手冊_PDF第270頁_圖1044.png)
+
+![橙紅色玻璃酒瓶（PDF 第 270 頁）](../../../../assets/mistborn/repaired/handbook/橙紅色玻璃酒瓶_玩家手冊_PDF第270頁_圖1045.png)
 
 **弱效消毒劑（Antiseptic (weak)）。** 以汞等原料製成的弱效消毒劑，可以在角色短休息後使用一劑，使其恢復1d6生命值。
 
@@ -225,4 +227,4 @@ ANNA VERHOOG
 
 第7章：物品　271
 
-![第 274 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-274-art-01.webp)
+![淺綠色液體的細長玻璃瓶（PDF 第 274 頁）](../../../../assets/mistborn/repaired/handbook/淺綠色液體的細長玻璃瓶_玩家手冊_PDF第274頁_圖1049.png)

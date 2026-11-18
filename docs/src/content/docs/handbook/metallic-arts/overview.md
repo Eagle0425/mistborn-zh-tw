@@ -47,7 +47,7 @@ sidebar:
 
 KATERINA LADON
 
-![第164頁金屬技藝章首插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-164-art-01.webp)
+
 
 鎔金能力與藏金能力通常遵循和天賦相同的規則（見第4章〈使用路徑與天賦〉）。使用金屬技藝時，下列額外規則會決定你的鎔金能力或藏金能力有多大範圍、多強威力，以及效果持續多久。
 
@@ -135,7 +135,7 @@ GM 可以裁定使用初萌能力需要花費1點授予值。另一方面，當�
 
 KEVIN O’NEILL
 
-![紋本能地安撫聖務官的場景](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-166-art-01.webp)
+![鏡前男子與身後兩名同伴（PDF 第 166 頁）](../../../../assets/mistborn/repaired/handbook/鏡前男子與身後兩名同伴_玩家手冊_PDF第166頁_圖0555.png)
 
 ### 金屬技藝的持續時間
 
@@ -181,7 +181,7 @@ KEVIN O’NEILL
 
 JUST HIEU
 
-![迷霧中的雙生師槍手飲下金屬液](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-167-art-01.webp)
+![西裝男子在夜色中端瓶飲用（PDF 第 167 頁）](../../../../assets/mistborn/repaired/handbook/西裝男子在夜色中端瓶飲用_玩家手冊_PDF第167頁_圖0560.png)
 
 在對話與試煉中，若效果持續至「你的輪次結束」，通常表示持續到你做出一次貢獻，或由 GM 決定適合的持續時間。若你有額外的金屬液瓶可用，或金屬意識庫中存有合理數量的充能，GM 可以彈性處理效果的持續時間，不要求你精確追蹤資源與時間。
 
@@ -223,9 +223,9 @@ JUST HIEU
 
 第6章：金屬技藝 165
 
-![第168頁金屬技藝規則插圖之二](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-168-art-02.webp)
 
-![第168頁金屬技藝規則插圖之一](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-168-art-01.webp)
+
+
 
 ### 能力條目的結構
 
@@ -267,7 +267,7 @@ JUST HIEU
 
 DORUK GOLCU
 
-![瓦希黎恩按著帽子沿街飛掠](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-169-art-01.webp)
+![人物在高空仰身墜落（PDF 第 169 頁）](../../../../assets/mistborn/repaired/handbook/人物在高空仰身墜落_玩家手冊_PDF第169頁_圖0567.png)
 
 ### 常見與稀有金屬
 

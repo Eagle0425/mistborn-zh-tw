@@ -43,4 +43,4 @@ STEVE PRESCOTT
 
 附錄 A：敵手 213
 
-![第 216 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-216-art-01.webp)
+![手持霰彈槍的女子戰士（PDF 第 216 頁）](../../../../assets/mistborn/repaired/legacy/手持霰彈槍的女子戰士_傳承冒險_PDF第216頁_圖0752.png)

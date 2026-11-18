@@ -56,6 +56,6 @@ STEVE PRESCOTT & DARKO STANOVICH
 
 第 8 章：敵手 261
 
-![第 264 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p264-native9502.png)
+
 
 ![第 264 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p264-native9506.png)

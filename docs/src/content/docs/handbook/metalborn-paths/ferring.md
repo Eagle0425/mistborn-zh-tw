@@ -37,13 +37,13 @@ JUST HIEU
 
 第 5 章：金屬之子路徑 148
 
-![第 151 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-151-art-04.webp)
 
-![第 151 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-151-art-02.webp)
+
+
 
 ![第 151 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-151-art-03.webp)
 
-![第 151 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-151-art-01.webp)
+
 
 #### 隨機決定你的藏金能力
 
@@ -112,7 +112,7 @@ Razal 住在依藍戴的泰瑞司村（Terris Village），擔任堅定、偶爾
 
 第 5 章：金屬之子路徑 149
 
-![第 152 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-152-art-01.webp)
+
 
 ### 單藏金術師關鍵天賦（Key Talent）
 
@@ -282,4 +282,4 @@ DEANDRA SCICLUNA & LOGAN FELICIANO
 
 ![第 154 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-154-art-01.webp)
 
-![第 154 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-154-art-02.webp)
+![單藏金術師完整圖表（PDF 第 154 頁）](../../../../assets/mistborn/repaired/handbook/單藏金術師完整圖表_PDF第154頁.png)

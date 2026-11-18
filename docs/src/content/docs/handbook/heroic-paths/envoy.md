@@ -61,7 +61,7 @@ sidebar:
 
 第 4 章：英雄路徑 86
 
-![第 89 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-089-art-01.webp)
+
 
 #### 泰瑞司侍從官（Terris Steward）[第一時代]
 
@@ -97,7 +97,7 @@ BEAR FRYMIRE
 
 ![第 90 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-090-art-02.webp)
 
-![第 90 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-090-art-01.webp)
+
 
 #### 振奮人心（使者關鍵）
 
@@ -185,7 +185,7 @@ BEAR FRYMIRE
 
 第 4 章：英雄路徑 88
 
-![第 91 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-091-art-01.webp)
+![穿淺色西裝拄杖的使者（PDF 第 91 頁）](../../../../assets/mistborn/repaired/handbook/穿淺色西裝拄杖的使者_玩家手冊_PDF第091頁_圖0291.png)
 
 ## 使者
 
@@ -361,13 +361,13 @@ BEAR FRYMIRE
 
 DEANDRA SCICLUNA & GAL OR
 
-![第 92 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-092-art-03.webp)
 
-![第 92 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-092-art-02.webp)
 
-![第 92 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-092-art-01.webp)
 
-![第 92 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-092-art-04.webp)
+
+![使者完整圖表（PDF 第 92 頁）](../../../../assets/mistborn/repaired/handbook/使者完整圖表_PDF第092頁.png)
+
+
 
 ### 信仰者專精
 
@@ -441,7 +441,7 @@ ZUZANNA WUZYK
 
 ![第 93 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-093-art-02.webp)
 
-![第 93 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-093-art-01.webp)
+
 
 #### 明智忠告
 
@@ -599,7 +599,7 @@ ZUZANNA WUZYK
 
 第 4 章：英雄路徑 92
 
-![第 95 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-095-art-01.webp)
+
 
 #### 強勁
 
@@ -649,6 +649,6 @@ ZUZANNA WUZYK
 
 NELE KLUMPE
 
-![第 96 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-096-art-01.webp)
+![白髮人物在月色下抬手施術（PDF 第 96 頁）](../../../../assets/mistborn/repaired/handbook/白髮人物在月色下抬手施術_玩家手冊_PDF第096頁_圖0313.png)
 
-![第 96 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-096-art-02.webp)
+

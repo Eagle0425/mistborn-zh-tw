@@ -154,4 +154,3 @@ PC 決定方法後，接著進行〈盛裝赴殺局〉。
 
 JOSHUA CHIA
 
-![第 160 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-160-art-01.webp)

@@ -53,9 +53,9 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝（Metallic Arts）182
 
-![第 185 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-185-art-01.webp)
+![青銅鎔金術彩繪玻璃符號（PDF 第 185 頁）](../../../../assets/mistborn/repaired/handbook/青銅鎔金術彩繪玻璃符號_玩家手冊_PDF第185頁_圖0689.png)
 
-![第 185 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-185-art-02.webp)
+
 
 - 傾聽碎力（Shard）的歌聲與節律，判斷一個恆星系中是否有碎力存在。如果你以前偵測過該碎力，還能辨識出是哪一個。
 
@@ -153,11 +153,11 @@ AUSTIN HARTELL
 
 第 6 章：金屬技藝 183
 
-![第 186 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-186-art-03.webp)
 
-![第 186 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-186-art-02.webp)
 
-![第 186 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-186-art-01.webp)
+![青銅鎔金術完整圖表（PDF 第 186 頁）](../../../../assets/mistborn/repaired/handbook/青銅鎔金術完整圖表_PDF第186頁.png)
+
+
 
 #### 遠距搜尋者
 
@@ -207,6 +207,6 @@ AUSTIN HARTELL
 
 GAL OR
 
-![第 187 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-187-art-01.webp)
+
 
 ![第 187 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-187-art-02.webp)

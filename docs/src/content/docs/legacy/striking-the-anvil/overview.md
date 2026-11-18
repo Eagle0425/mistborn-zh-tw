@@ -41,9 +41,9 @@ NeBaal 雖已筋疲力竭，仍按捺不住好奇，打量四周。那雙閃亮�
 
 ### 第 7 章
 
-![第 136 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-136-art-01.webp)
 
-![第 136 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-136-art-02.webp)
+
+
 
 隊伍抵達安全處後，NeBaal 說出自己知道的事，並這樣開場：
 
@@ -265,4 +265,4 @@ Ironbrands 遭到制服或完成計畫時，遭遇便告結束。若成功制止
 
 第 7 章：敲擊鐵砧 138
 
-![第 141 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-141-art-01.webp)
+

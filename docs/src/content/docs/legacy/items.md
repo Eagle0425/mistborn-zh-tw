@@ -68,7 +68,7 @@ sidebar:
 
 240
 
-![第 243 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-243-art-01.webp)
+
 
 ### 午夜
 
@@ -130,8 +130,8 @@ ANNA VERHOOG & LUCAS TORQUATO
 
 附錄 B：物品 241
 
-![第 244 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-244-art-01.webp)
+![藍灰晶石簇（PDF 第 244 頁）](../../../assets/mistborn/repaired/legacy/藍灰晶石簇_傳承冒險_PDF第244頁_圖0855.png)
 
-![第 244 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-244-art-02.webp)
 
-![第 244 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-244-art-03.webp)
+
+![雙手圖案的團結勳章（PDF 第 244 頁）](../../../assets/mistborn/repaired/legacy/雙手圖案的團結勳章_傳承冒險_PDF第244頁_圖0854.png)

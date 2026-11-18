@@ -29,7 +29,7 @@ TRISTAN BIDEAU & LOGAN FELICIANO
 
 第 8 章：敵手 228
 
-![第 231 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p231-native7868.png)
+
 
 ![第 231 頁插圖](../../../../assets/mistborn/MB002_Mistborn_World_Guide_digital/worldguide-p231-native7872.png)
 
