@@ -507,7 +507,7 @@ ARTUR MOSCA
 
 *有效果線*
 
-![第 10 章：戰鬥完整圖表（PDF 第 331 頁）](../../../assets/mistborn/repaired/handbook/第 10 章：戰鬥完整圖表_PDF第331頁.png)
+![第 10 章：戰鬥完整圖表（PDF 第 331 頁）](../../../assets/mistborn/repaired/handbook/第_10_章：戰鬥完整圖表_PDF第331頁.png)
 
 地圖：DALLIN BIFANO，指示物：DEANDRA SCICLUNA
 
