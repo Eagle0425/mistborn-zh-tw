@@ -5,7 +5,7 @@ import { previews } from './glossary-previews';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
 const route = Astro.url.pathname.slice(base.length).split('/')[0];
-const enabled = ['handbook', 'world-guide', 'legacy', 'gm-tools', 'welcome'].includes(route);
+const enabled = ['handbook', 'world-guide', 'legacy', 'gm-tools', 'welcome', 'character-sheet'].includes(route);
 const terms = glossary as Record<string, { zh?: string }>;
 const entries = enabled
 	? Object.entries(previews).map(([original, preview]) => {

@@ -1,3 +1,7 @@
+import { metallicPreviews } from './metallic-previews';
+import { rulePreviews } from './rule-previews';
+import { settingPreviews } from './setting-previews';
+
 // Keys come from glossary.json so previews use the project's current translations.
 type Preview = {
 	summary: string;
@@ -13,6 +17,9 @@ const technology = 'world-guide/the-world/harmonys-world-era-2/';
 const luthadel = 'world-guide/points-of-interest-in-era-1/luthadel/#克雷迪克霄';
 
 export const previews: Record<string, Preview> = {
+	...metallicPreviews,
+	...rulePreviews,
+	...settingPreviews,
 	'Reactive Strike': {
 		summary: '敵人自願離開你的觸及範圍時，可花費 1 點專注點，以反應進行近戰武器攻擊或徒手打擊。瞬間移動不觸發這項反應。',
 		target: 'handbook/combat/#反擊機會-反應',
@@ -40,12 +47,12 @@ export const previews: Record<string, Preview> = {
 	},
 	Tap: {
 		summary: '從金屬意識庫取用已儲存的特質。可汲取的效果、消耗和時間依金屬及能力而異。',
-		target: metals + '#藏金術金屬',
+		target: 'handbook/metalborn-paths/overview/#汲取金屬意識庫',
 		related: ['Feruchemy', 'Metalmind'],
 	},
 	Metalmind: {
 		summary: '藏金術師用來儲存特質的金屬物件，所用金屬決定可儲存哪種特質。',
-		target: metals + '#藏金術金屬',
+		target: 'handbook/metalborn-paths/overview/#取得金屬意識庫',
 		related: ['Feruchemy', 'Tap'],
 	},
 	'Primer Cube': {
