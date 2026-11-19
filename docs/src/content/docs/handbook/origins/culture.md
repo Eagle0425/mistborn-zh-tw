@@ -116,7 +116,7 @@ DEANDRA SCICLUNA
 
 ![持牧杖的泰瑞司牧羊人（PDF 第 45 頁）](../../../../assets/mistborn/repaired/handbook/持牧杖的泰瑞司牧羊人_玩家手冊_PDF第045頁_圖0141.png)
 
-![身穿紫色長袍的泰瑞司人物（PDF 第 45 頁）](../../../../assets/mistborn/repaired/handbook/身穿紫色長袍的泰瑞司人物_玩家手冊_PDF第045頁_圖0140.png)
+![身穿紫色長袍的極遠統御區貴族女子（PDF 第 45 頁）](../../../../assets/mistborn/repaired/handbook/身穿紫色長袍的極遠統御區貴族女子_玩家手冊_PDF第045頁_圖0140.png)
 
 </div>
 
