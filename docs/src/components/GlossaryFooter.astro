@@ -1,0 +1,117 @@
+---
+import Footer from '@astrojs/starlight/components/Footer.astro';
+import glossary from '../../../glossary.json';
+import { previews } from './glossary-previews';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
+const route = Astro.url.pathname.slice(base.length).split('/')[0];
+const enabled = ['handbook', 'world-guide', 'legacy', 'gm-tools', 'welcome'].includes(route);
+const terms = glossary as Record<string, { zh?: string }>;
+const entries = enabled
+	? Object.entries(previews).map(([original, preview]) => {
+		const label = terms[original]?.zh;
+		if (!label) throw new Error(`Missing glossary entry for ${original}`);
+		return { ...preview, original, label, target: base + preview.target };
+	})
+	: [];
+---
+
+<Footer />
+{enabled && (
+	<dialog id="term-preview" class="term-preview" aria-labelledby="term-preview-title"
+		data-terms={JSON.stringify(entries)} data-pagefind-ignore>
+		<div class="term-preview-header">
+			<div>
+				<h2 id="term-preview-title" data-term-title tabindex="-1"></h2>
+				<p class="term-original" data-term-original lang="en"></p>
+			</div>
+			<button class="term-close" type="button" data-term-close aria-label="關閉術語預覽" autofocus>×</button>
+		</div>
+		<p class="term-summary" data-term-summary></p>
+		<div class="term-related">
+			<span>相關詞彙</span>
+			<div class="term-related-list" data-term-related></div>
+		</div>
+		<div class="term-preview-actions">
+			<button type="button" data-term-back hidden>返回上一詞</button>
+			<a data-term-target target="_blank" rel="noopener noreferrer">在新分頁開啟完整說明 <span aria-hidden="true">↗</span></a>
+		</div>
+	</dialog>
+)}
+
+<script>
+	import './glossary-preview-client';
+</script>
+
+<style>
+	:global(.sl-markdown-content .term-trigger) {
+		display: inline;
+		padding: 0;
+		border: 0;
+		background: transparent;
+		color: inherit;
+		font: inherit;
+		line-height: inherit;
+		text-decoration: underline dotted;
+		text-decoration-color: var(--sl-color-accent-high);
+		text-underline-offset: 0.23em;
+		cursor: pointer;
+	}
+	:global(.sl-markdown-content .term-trigger:hover),
+	:global(.sl-markdown-content .term-trigger:focus-visible) {
+		color: var(--sl-color-accent-high);
+	}
+	.term-preview {
+		position: fixed;
+		inset: auto;
+		margin: 0;
+		box-sizing: border-box;
+		width: min(24rem, calc(100% - 1.5rem));
+		max-width: none;
+		max-height: min(75dvh, calc(100dvh - 1.5rem));
+		overflow: auto;
+		padding: 1rem 1.125rem;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 0.85rem;
+		background: var(--sl-color-bg);
+		color: var(--sl-color-text);
+		box-shadow: 0 1rem 3rem rgb(0 0 0 / 30%);
+	}
+	.term-preview::backdrop { background: rgb(0 0 0 / 12%); }
+	.term-preview-header { display: flex; justify-content: space-between; gap: 0.75rem; }
+	.term-preview h2 { margin: 0; font-size: 1.15rem; color: var(--sl-color-white); }
+	.term-original { margin: 0.1rem 0 0; font-size: 0.85rem; color: var(--sl-color-gray-3); }
+	.term-summary { margin: 0.875rem 0; line-height: 1.65; }
+	.term-related { display: grid; gap: 0.35rem; font-size: 0.875rem; color: var(--sl-color-gray-3); }
+	.term-related-list { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+	:global(.term-related-list button), .term-close, [data-term-back] {
+		font: inherit;
+		cursor: pointer;
+		border: 1px solid var(--sl-color-gray-4);
+		border-radius: 0.45rem;
+		background: var(--sl-color-bg-sidebar);
+		color: var(--sl-color-text);
+		padding: 0.25rem 0.6rem;
+		min-height: 2rem;
+	}
+	.term-close { width: 2.5rem; height: 2.5rem; flex: 0 0 auto; font-size: 1.4rem; line-height: 1; }
+	.term-preview-actions {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.6rem 0.85rem;
+		margin-top: 0.9rem;
+		font-size: 0.875rem;
+	}
+	.term-preview-actions a { color: var(--sl-color-accent-high); }
+	@media (max-width: 50rem) {
+		.term-preview {
+			inset: auto 0 0;
+			width: 100%;
+			border-radius: 1rem 1rem 0 0;
+			padding-bottom: max(1rem, env(safe-area-inset-bottom));
+		}
+		.term-preview::backdrop { background: rgb(0 0 0 / 32%); }
+		:global(.term-related-list button), .term-close, [data-term-back] { min-height: 2.75rem; }
+	}
+</style>
