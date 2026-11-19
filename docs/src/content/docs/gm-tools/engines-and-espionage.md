@@ -93,7 +93,7 @@ PC 進入國家檔案館參加派對並執行劫案。
 
 G1：往昔展廳。探索者傳承
 
-Trellis Draam（平民，she/her）會聊八卦。會見鍍金三人組。Lysarra Tekiel 募集青年昇華者捐款。說書人傳承。Bayron Conrad 提起 Conrad Industries。企業家傳承。
+Trellis Draam（平民，she/her）會聊八卦。會見鍍金三人組。Lysarra Tekiel 募集Young Ascendants捐款。說書人傳承。Bayron Conrad 提起 Conrad Industries。企業家傳承。
 
 試煉：油門踩到底（-/-）
 

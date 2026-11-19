@@ -92,6 +92,10 @@ HEROIC MAPS
 
 ### Lysarra Tekiel
 
+**主持人速查。** Lysarra 會聊比賽、鐵路與 Young Ascendants 的募款。問到 Bayron 或 Kwylliam 時，可以帶出 Bayron 的野心，以及 Kwylliam 對新奇事物和醜聞的興趣。
+
+**說書人傳承時刻。** 請說書人選一件展品，說明 Young Ascendants 的成員能從中學到什麼。通過 DC 12 說服檢定時，Lysarra 會委託一件以昇華戰士為主題的故事、公開演出或紀念作品，預付 100 盒金，完工再付 100 盒金。
+
 Radiant, elegant, and surrounded by admirers, Lysarra charms and entertains, speaking about a bust labeled “Delina Tekiel.” She’s willing to discuss:
 
 The Race. Lysarra graciously accepts birthday wishes
@@ -109,6 +113,10 @@ Lysarra waves the Storyteller over to introduce herself and her Young Ascendants
 Chapter 5: Engines and Espionage 102
 
 ### Bayron Conrad
+
+**主持人速查。** 通過 DC 13 感知檢定，可在 Bayron 闔上筆記本前看見第 7 章團結勳章的草圖。聊到賽車工程能讓他放鬆。他也可以談 Conrad Industries 的保全與通訊技術，並暗示公司在開發裝甲車輛與武器。
+
+**企業家傳承時刻。** Bayron 請企業家提出發明構想，再發起一場較量。雙方各以自己的下一件重要發明競賽，誰先賣到 10,000 盒金就獲勝，輸家必須加入贏家的公司。無論企業家是否接受，Bayron 都會把對方視為勁敵。
 
 Bayron stands alone under a painting of a gold-haloed Inquisitor surrounded by dead bodies, their arms outstretched in supplication. Bayron holds a leatherbound journal in his hand. A successful DC 13 Perception test reveals he’s sketching a medal before he snaps the book shut; this is the Unity Medal featured in chapter 7. Outside his motorcar, Bayron appears boyish and awkward. He’s willing to discuss:
 
