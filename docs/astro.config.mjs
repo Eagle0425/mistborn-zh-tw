@@ -66,7 +66,7 @@ export default defineConfig({
 				{ slug: 'reference/terminology' },
 			],
 			plugins: [starlightAutoSidebar()],
-			components: { Footer: './src/components/GlossaryFooter.astro' },
+			components: { Head: './src/components/TalentTreeHead.astro', Footer: './src/components/GlossaryFooter.astro' },
 			customCss: ['./src/styles/custom.css', './src/styles/scadrial.css'],
 		}),
 	],

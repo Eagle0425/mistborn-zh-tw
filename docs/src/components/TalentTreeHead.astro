@@ -1,0 +1,10 @@
+---
+import DefaultHead from '@astrojs/starlight/components/Head.astro';
+---
+
+<DefaultHead {...Astro.props} />
+<script>
+    import { renderTalentTrees } from './talent-tree-client';
+
+    void renderTalentTrees();
+</script>
