@@ -12,6 +12,11 @@ const shards = 'world-guide/cosmology-and-religion/scadrials-shards/';
 const eraOne = 'world-guide/regions-and-cultures/lands-of-scadrial-in-era-1/';
 const eraTwo = 'world-guide/regions-and-cultures/lands-of-scadrial-in-era-2/';
 
+const cosmologyOverview = 'world-guide/cosmology-and-religion/overview/';
+const religions = 'world-guide/cosmology-and-religion/major-religions/';
+const ashHistory = 'world-guide/history-of-scadrial/era-1-the-world-of-ash/';
+const rebirthHistory = 'world-guide/history-of-scadrial/era-2-after-the-catacendre/';
+
 export const settingPreviews: Record<string, SettingPreview> = {
 	Scadrial: {
 		summary: '《迷霧之子》故事發生的行星。存留與滅絕共同創造了這個世界，金屬技藝深刻影響著當地的歷史與生活。',
@@ -241,5 +246,98 @@ export const settingPreviews: Record<string, SettingPreview> = {
 		target: cultures + '#貴族',
 		related: ['Great Houses', 'skaa', 'Final Empire'],
 		requireOriginal: true,
+	},
+	Adonalsium: {
+		summary: '寰宇的創世之力，也是所有授予的源頭。祂的力量後來分成十六股碎力。',
+		target: cosmologyOverview + '#雅多納西adonalsium',
+		related: ['Shattering of Adonalsium', 'Shard', 'Investiture'],
+	},
+	'Shattering of Adonalsium': {
+		summary: '寰宇歷史上的轉折。雅多納西被一群密謀者擊敗，創世之力分成十六股各有不同本質的碎力。',
+		target: cosmologyOverview + '#雅多納西碎裂shattering-of-adonalsium',
+		related: ['Adonalsium', 'Shard', 'cosmere'],
+	},
+	Ascension: {
+		summary: '凡人取得碎力時所經歷的轉變，身體被吸收，心智隨著力量擴展。',
+		target: cosmologyOverview + '#昇華',
+		related: ['Shard', 'Sliver'],
+	requireOriginal: true,
+	},
+	Sliver: {
+		summary: '曾持有碎力之力的人。即使已經交出力量，這段經歷仍會永久改變其靈魂。',
+		target: cosmologyOverview + '#殘體',
+		related: ['Ascension', 'Shard', 'Lord Ruler'],
+	requireOriginal: true,
+	},
+	Survivorism: {
+		summary: '尊卡西爾為倖存者的信仰，以活下去為核心，也重視獨立思考與質疑權威。',
+		target: religions + '#倖存者教會',
+		related: ['Church of the Survivor', 'Kelsier'],
+	},
+	'Church of the Survivor': {
+		summary: '崇敬卡西爾的宗教組織，起源於最後帝國末年。到了第二時代，教會已遍及依藍戴盆地。',
+		target: religions + '#倖存者教會',
+		related: ['Survivorism', 'Kelsier', 'Elendel Basin'],
+	},
+	Sliverism: {
+		summary: '由前聖務官在落灰之終後創立的宗教，尊統御主為抵禦滅絕的捍衛者，也重視為社群服務。',
+		target: religions + '#碎刺教-第二時代',
+		related: ['Lord Ruler', 'obligator', 'Sliver'],
+	},
+	'the Path': {
+		summary: '落灰之終後出現的司卡德利亞信仰。道徒重視與和諧的個人連結，並以行善與自省實踐信仰。',
+		target: religions + '#道教-第二時代',
+		related: ['Harmony', 'Words of Founding'],
+	},
+	Trelagism: {
+		summary: 'Nelazan 人的古老信仰，以代表星辰與太陽的兩位手足神祇為中心，尤其崇敬以星辰為眼的 Trell。',
+		target: religions + '#trelagismnelazan人的宗教',
+		related: ['Trellism', 'Words of Founding'],
+	},
+	Trellism: {
+		summary: '第二時代由「組織」創立的信仰。它重視獨立自主、膽識與實踐遠大目標，沒有祭司和神殿。',
+		target: religions + '#trellism自主的宗教-第二時代',
+		related: ['Trelagism', 'The Set'],
+	},
+	obligator: {
+		summary: '鋼鐵教廷的官員，兼任祭司、行政人員或法律專家，在各統御區執行統御主的政策。',
+		target: ashHistory + '#根深蒂固的官僚體系',
+		related: ['Steel Ministry', 'Canton', 'Lord Ruler'],
+	},
+	Canton: {
+		summary: '鋼鐵教廷的分支。不同聖務廷各管一類事務，教廷將聖務官派到各廷維持最後帝國的統治。',
+		target: ashHistory + '#根深蒂固的官僚體系',
+		related: ['obligator', 'Steel Ministry'],
+	},
+	'Words of Founding': {
+		summary: '和諧留給落灰之終倖存者的一套書，記錄歷史、古代信仰與和諧累積的知識，也提供重建文明的指引。',
+		target: rebirthHistory + '#形塑文明',
+		related: ['Harmony', 'Catacendre', 'Originators'],
+	},
+	Worldbringer: {
+		summary: '早於最後帝國的泰瑞司知識傳承者，保存古老信仰與預言。後來的守護者延續了他們保存知識的志業。',
+		target: ashHistory + '#守護者教團',
+		related: ['Terris', 'Keeper'],
+	},
+	Preservers: {
+		summary: '第二時代對紋、沙賽德、卡西爾及團隊其他成員的集體稱號。他們的事蹟影響依藍戴盆地的宗教與政治。',
+		target: rebirthHistory + '#依藍戴盆地elendel-basin的建立',
+		related: ['Originators', 'Kelsier', 'Sazed'],
+	},
+	Originators: {
+		summary: '挺過落灰之終的最後帝國居民。他們在重塑後的依藍戴盆地定居，建立了第二時代的社會。',
+		target: rebirthHistory + '#依藍戴盆地elendel-basin的建立',
+		related: ['Preservers', 'Elendel Basin', 'Catacendre'],
+	requireOriginal: true,
+	},
+	'The Set': {
+		summary: '第二時代由依藍戴貴族創立的祕密團體，在盆地各地設有分部，勢力主要集中在 Bilming。',
+		target: rebirthHistory + '#組織the-set',
+		related: ['Elendel Basin', 'Bilming', 'Trellism'],
+	},
+	Worktide: {
+		summary: '南方統御區的司卡每年兩次在種植園與碼頭間遷徙換工。途中露營與歡聚，是強迫勞動之間難得的喘息。',
+		target: 'world-guide/regions-and-cultures/southern-dominance-era-1/#季節性勞工',
+		related: ['skaa', 'Final Empire'],
 	},
 };

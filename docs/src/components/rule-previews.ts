@@ -282,4 +282,99 @@ export const rulePreviews: Record<string, Preview> = {
 		target: adventuring + 'overview/#措手不及',
 		related: ['Condition', 'Reaction', 'Fast Turn'],
 	},
+	Scene: {
+		summary: '讓玩家逐步演出角色行動的故事段落。常見類型有戰鬥、對話與試煉，GM 可依情境混用規則。',
+		target: 'handbook/adventuring/overview/#場景',
+		related: ['Conversation', 'Endeavor', 'Downtime'],
+		requireOriginal: true,
+	},
+	Event: {
+		summary: 'GM 可用來預告場景中的變化，例如援軍將至。投入足夠的機遇或變故後，事件就會觸發。',
+		target: 'handbook/adventuring/overview/#事件',
+		related: ['Event Track', 'Scene', 'Opportunity', 'Complication'],
+		requireOriginal: true,
+	},
+	'Event Track': {
+		summary: '追蹤事件的進度。玩家與 GM 可把機遇或變故填入對應的格子，填滿適用的格子後觸發事件。',
+		target: 'handbook/adventuring/overview/#事件進度軌',
+		related: ['Event', 'Opportunity', 'Complication'],
+	},
+	Downtime: {
+		summary: '重要場景之間較長的空檔。玩家可讓角色休養、研究、工作，或推進個人的短期目標。',
+		target: 'handbook/adventuring/overview/#休整期',
+		related: ['Scene', 'goal', 'Long Rest'],
+	},
+	Conversation: {
+		summary: '角色透過交談達成目標的場景，例如談判、欺騙或審問。場景以逐次貢獻推進，關鍵行動可能需要檢定。',
+		target: 'handbook/conversations/overview/#何時使用對話',
+		related: ['Scene', 'Contribution', 'Skill Test'],
+		requireOriginal: true,
+	},
+	Contribution: {
+		summary: '角色在對話或試煉中有意義的一次參與，例如支持盟友、提出說法或嘗試解決問題。關鍵貢獻可能需要檢定。',
+		target: 'handbook/conversations/overview/#貢獻',
+		related: ['Conversation', 'Endeavor', 'Skill Test'],
+		requireOriginal: true,
+	},
+	Pursuit: {
+		summary: '追捕或逃脫類的試煉。GM 用距離軌追蹤雙方的差距，直接對抗時也可用對抗檢定。',
+		target: 'handbook/endeavors/pursuit-endeavors/#追逐試煉',
+		related: ['Distance Track', 'Endeavor', 'Opposed Test'],
+		requireOriginal: true,
+	},
+	'Distance Track': {
+		summary: '追逐中以抽象數值記錄雙方差距。降到 0 時抓住目標，達到 GM 設定的逃脫距離時目標逃離。',
+		target: 'handbook/endeavors/pursuit-endeavors/#特殊規則縮短距離',
+		related: ['Pursuit', 'Collective Threshold'],
+	},
+	'Collective Threshold': {
+		summary: '幫助 GM 掌握試煉節奏的工具。累計團隊的檢定成功與失敗次數，視情節判斷何時收尾。',
+		target: 'handbook/endeavors/order-of-endeavors/#團體門檻',
+		related: ['Endeavor', 'Contribution', 'Skill Test'],
+	},
+	purpose: {
+		summary: '引導角色選擇的長期動機，可用來構思短期目標，以及角色在遭遇兩難時的反應。',
+		target: 'handbook/goals-and-rewards/overview/#核心目的',
+		related: ['obstacle', 'goal'],
+	},
+	obstacle: {
+		summary: '反覆阻礙角色實踐核心目的或追求短期目標的內在特質或難題。',
+		target: 'handbook/goals-and-rewards/overview/#內在障礙',
+		related: ['purpose', 'goal'],
+	},
+	adversary: {
+		summary: '可由 GM 帶入場景的對手。角色資料提供背景和戰術建議，數據與特殊規則則列在資料區塊。',
+		target: 'handbook/gamemastering/using-adversaries/#運用敵手',
+		related: ['Stat Block', 'Threat'],
+	},
+	'Stat Block': {
+		summary: '集中列出敵手或動物夥伴的數據與特殊規則，供 GM 在場景中快速查用。',
+		target: 'handbook/gamemastering/using-adversaries/#資料區塊',
+		related: ['adversary', 'Companion', 'Threat'],
+	},
+	Threat: {
+		summary: 'GM 用來估計戰鬥難度的敵手數值。將個別威脅值加總，再依玩家角色數量與雙方遊戲階層評估。',
+		target: 'handbook/gamemastering/using-adversaries/#決定場景難度',
+		related: ['adversary', 'Tier'],
+	},
+	'Specialist Expertise': {
+		summary: '涵蓋一般人難以接觸的知識，例如罕見武器或失傳歷史。可由天賦、獎勵或 GM 許可取得。',
+		target: 'handbook/character-statistics/expertises/#特殊專長',
+		related: ['Expertise', 'Weapon Expertise', 'Reward'],
+	},
+	'Carrying Capacity': {
+		summary: '由力量決定，代表步行時可輕鬆攜帶的重量。超過此重量移動會減速，累積過久會精疲力竭。',
+		target: 'handbook/character-statistics/attributes/#負重能力',
+		related: ['Lifting Capacity', 'Slowed', 'Exhausted'],
+	},
+	'Lifting Capacity': {
+		summary: '由力量決定，代表角色獨自一次最多能舉起的重量。此重量通常只能短暫承受。',
+		target: 'handbook/character-statistics/attributes/#舉重能力',
+		related: ['Carrying Capacity', 'attribute'],
+	},
+	'Senses Range': {
+		summary: '主要感官完全被遮蔽時，角色仍能用其他感官輕易偵測事物的範圍，由察覺決定。',
+		target: 'handbook/character-statistics/expertises/#感知範圍',
+		related: ['attribute', 'Line of Effect', 'Disadvantage'],
+	},
 };
