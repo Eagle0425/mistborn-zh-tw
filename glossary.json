@@ -824,10 +824,10 @@
     "notes": "首輪提案；Github詞彙表第181列主譯名。明確機制／同一專名；採Sheet主譯名，未採F修改建議。 approved僅為本專案採用，非官方核定；一般同形prose仍依語境。"
   },
   "Cognitive Defense": {
-    "zh": "認知防禦",
+    "zh": "意識防禦",
     "status": "approved",
     "is_term": true,
-    "notes": "首輪提案；Github詞彙表第182列主譯名。明確機制／同一專名；採Sheet主譯名，未採F修改建議。 approved僅為本專案採用，非官方核定；一般同形prose仍依語境。"
+    "notes": "使用者指定；採用共通詞彙表 Github詞彙表第182列的已修改譯名，亦與颶光典籍玩家手冊的譯名一致。"
   },
   "Cognitive Realm": {
     "zh": "意識界",
@@ -836,10 +836,10 @@
     "notes": "首輪提案；Github詞彙表第183列主譯名。明確機制／同一專名；採Sheet主譯名，未採F修改建議。 approved僅為本專案採用，非官方核定；一般同形prose仍依語境。"
   },
   "Cognitive Shadow": {
-    "zh": "認知之影",
+    "zh": "意識之影",
     "status": "approved",
     "is_term": true,
-    "notes": "首輪提案；Github詞彙表第184列主譯名。明確機制／同一專名；採Sheet主譯名，未採F修改建議。 approved僅為本專案採用，非官方核定；一般同形prose仍依語境。"
+    "notes": "採用共通詞彙表 Github詞彙表第184列的已修改譯名，亦與颶光典籍譯文一致。"
   },
   "Collection": {
     "zh": "收藏",
@@ -2057,10 +2057,10 @@
     "notes": "首輪提案；Github詞彙表第1057列主譯名。明確機制／同一專名；採Sheet主譯名，未採F修改建議。 approved僅為本專案採用，非官方核定；一般同形prose仍依語境。 WG73–82語境核證：普通spiritual capital＝宗教中心，spiritual growth＝心靈成長；專門Spiritual Realm靈魂界。"
   },
   "Spiritual Defense": {
-    "zh": "靈性防禦",
+    "zh": "靈魂防禦",
     "status": "approved",
     "is_term": true,
-    "notes": "首輪提案；Github詞彙表第1058列主譯名。明確機制／同一專名；採Sheet主譯名，未採F修改建議。 approved僅為本專案採用，非官方核定；一般同形prose仍依語境。"
+    "notes": "使用者指定；與颶光典籍玩家手冊及本專案已採用的 Spiritual（靈魂）一致。"
   },
   "Spiritual Realm": {
     "zh": "靈魂界",
@@ -4970,7 +4970,7 @@
     "zh": "不屈怒視",
     "status": "approved",
     "is_term": true,
-    "notes": "Sheet未找到完整同名詞條；本專案依完整敘事與規則採透明暫譯，非官方對照。2專注洞察對靈性防禦，未精疲力竭目標成功後精疲力竭[-2]；反抗權威的目光。 依完整能力與原圖核對後的專案採用；證據agent-proposed.json。非官方核定。"
+    "notes": "Sheet未找到完整同名詞條；本專案依完整敘事與規則採透明暫譯，非官方對照。2專注洞察對靈魂防禦，未精疲力竭目標成功後精疲力竭[-2]；反抗權威的目光。 依完整能力與原圖核對後的專案採用；證據agent-proposed.json。非官方核定。"
   },
   "Raise the Banner": {
     "zh": "高舉旗幟",
@@ -5036,7 +5036,7 @@
     "zh": "暗影步",
     "status": "approved",
     "is_term": true,
-    "notes": "Sheet未找到完整同名詞條；本專案依完整敘事與規則採透明暫譯，非官方對照。脫離後可付2專注竊術對每名能感知敵人的認知防禦躲藏；不代表瞬間移動。 依完整能力與原圖核對後的專案採用；證據agent-proposed.json。非官方核定。"
+    "notes": "Sheet未找到完整同名詞條；本專案依完整敘事與規則採透明暫譯，非官方對照。脫離後可付2專注竊術對每名能感知敵人的意識防禦躲藏；不代表瞬間移動。 依完整能力與原圖核對後的專案採用；證據agent-proposed.json。非官方核定。"
   },
   "Fast Talker": {
     "zh": "快嘴",
@@ -5108,7 +5108,7 @@
     "zh": "慣常衣著",
     "status": "approved",
     "is_term": true,
-    "notes": "專案透明譯名提案，非官方核定。穿著具Presentable特性的護甲或符合身分的衣服時提高實體/靈性防禦各2；不是單純任何制服。 依完整能力與原圖核對後的專案採用；證據envoy-proposed.json。非官方核定。"
+    "notes": "專案透明譯名提案，非官方核定。穿著具Presentable特性的護甲或符合身分的衣服時提高實體/靈魂防禦各2；不是單純任何制服。 依完整能力與原圖核對後的專案採用；證據envoy-proposed.json。非官方核定。"
   },
   "Galvanize": {
     "zh": "激勵",
@@ -5180,7 +5180,7 @@
     "zh": "荒唐俏皮話",
     "status": "approved",
     "is_term": true,
-    "notes": "專案透明譯名提案，非官方核定。欺騙對靈性防禦使目標驚訝；笑話/挖苦/荒唐觀察皆可，不必限定幽默。 依完整能力與原圖核對後的專案採用；證據envoy-proposed.json。非官方核定。"
+    "notes": "專案透明譯名提案，非官方核定。欺騙對靈魂防禦使目標驚訝；笑話/挖苦/荒唐觀察皆可，不必限定幽默。 依完整能力與原圖核對後的專案採用；證據envoy-proposed.json。非官方核定。"
   },
   "Got ’Em Good!": {
     "zh": "狠狠挖苦！",
@@ -5330,7 +5330,7 @@
     "zh": "敏銳目光",
     "status": "approved",
     "is_term": true,
-    "notes": "觀察獵物1行動或其他角色至少1分鐘後感知對認知防禦，成功選最低屬性/防禦或一資源是否已失超過半。 依完整能力與原圖核對後的專案採用；證據hunter-proposed.json。非官方核定。"
+    "notes": "觀察獵物1行動或其他角色至少1分鐘後感知對意識防禦，成功選最低屬性/防禦或一資源是否已失超過半。 依完整能力與原圖核對後的專案採用；證據hunter-proposed.json。非官方核定。"
   },
   "Fire Discipline": {
     "zh": "射擊紀律",
@@ -6009,7 +6009,7 @@
     "zh": "猛力反擊",
     "status": "approved",
     "is_term": true,
-    "notes": "天賦；敵10呎內未命中/擦傷後反應+2專注，半速移動再徒手對靈性防禦，額外2d6且忽略偏轉；階層3/4/5增距與骰數，機遇可三選效果。 專案依完整原文作用核定，證據 .state/terminology/warrior-proposed.json；不代表官方核定。"
+    "notes": "天賦；敵10呎內未命中/擦傷後反應+2專注，半速移動再徒手對靈魂防禦，額外2d6且忽略偏轉；階層3/4/5增距與骰數，機遇可三選效果。 專案依完整原文作用核定，證據 .state/terminology/warrior-proposed.json；不代表官方核定。"
   },
   "Trick Shooting": {
     "zh": "花式射擊",
@@ -6963,7 +6963,7 @@
   },
   "Social Seer": {
     "zh": "社交先知",
-    "notes": "先知沿同一Seer；洞察3+、影子精通，常駐使天金可影響意識/靈魂互動，含認知與靈性防禦，不是改變社交技能等級。 專案採用；來源核對與提案見atium-allomancy-proposed.json，首見附英文。",
+    "notes": "先知沿同一Seer；洞察3+、影子精通，常駐使天金可影響意識/靈魂互動，含意識防禦與靈魂防禦，不是改變社交技能等級。 專案採用；來源核對與提案見atium-allomancy-proposed.json，首見附英文。",
     "status": "approved",
     "is_term": true
   },
@@ -7047,7 +7047,7 @@
   },
   "Burn Brass": {
     "zh": "燃燒黃銅",
-    "notes": "2行動，1回合，1+授予至金屬上限；大10呎區域排除自己，首判靈性防禦僅用於隱藏操控；自由行動維持1+授予並可改強度。 沿已核定Time Bubble／Speed Bubble＝速度圈與Burn＝燃燒；未宣稱小說或官方天賦名。 專案採用；來源核對與提案見brass-allomancy-proposed.json，首見附英文。",
+    "notes": "2行動，1回合，1+授予至金屬上限；大10呎區域排除自己，首判靈魂防禦僅用於隱藏操控；自由行動維持1+授予並可改強度。 沿已核定Time Bubble／Speed Bubble＝速度圈與Burn＝燃燒；未宣稱小說或官方天賦名。 專案採用；來源核對與提案見brass-allomancy-proposed.json，首見附英文。",
     "status": "approved",
     "is_term": true
   },
@@ -7149,7 +7149,7 @@
   },
   "Spiritual Metal": {
     "zh": "靈魂金屬",
-    "notes": "藏金術的鉻、鎳鉻、鋁、硬鋁分類；Spiritual沿一般詞庫靈魂，不套防禦專有詞靈性防禦。 專案採用；來源核對與提案見metallic-arts-overview-proposed.json，首見附英文。",
+    "notes": "藏金術的鉻、鎳鉻、鋁、硬鋁分類；Spiritual沿一般詞庫靈魂，不套防禦專有詞靈魂防禦。 專案採用；來源核對與提案見metallic-arts-overview-proposed.json，首見附英文。",
     "status": "approved",
     "is_term": true
   },
@@ -8432,7 +8432,7 @@
   },
   "Instant Bond": {
     "zh": "瞬間羈絆",
-    "notes": "全文3行動2充能藏金術對靈性防禦、非敵人NPC；熟絡到長休後，結束時對方依待遇自行決定友好。原樹沒有啟動圖示，不添加假圖示。 本專案提案，未宣稱新增天賦已有官方完整譯名。 專案採用；證據duralumin-feruchemy-proposed.json與chromium-copper-feruchemy-reference-evidence.json / duralumin-electrum-feruchemy-reference-evidence.json，首見附英文。",
+    "notes": "全文3行動2充能藏金術對靈魂防禦、非敵人NPC；熟絡到長休後，結束時對方依待遇自行決定友好。原樹沒有啟動圖示，不添加假圖示。 本專案提案，未宣稱新增天賦已有官方完整譯名。 專案採用；證據duralumin-feruchemy-proposed.json與chromium-copper-feruchemy-reference-evidence.json / duralumin-electrum-feruchemy-reference-evidence.json，首見附英文。",
     "status": "approved",
     "is_term": true
   },
@@ -8942,7 +8942,7 @@
   },
   "Prediction": {
     "zh": "預測",
-    "notes": "創意用法標籤，用推理對認知防禦判下一輪次動作等可能；非自動預知未來。 新增名稱為專案提案，未宣稱指定小說/試算表已核定完整同一英文詞目。 專案採用；證據zinc-feruchemy-proposed.json與steel-tin-feruchemy-reference-evidence.json / zinc-hemalurgy-reference-evidence.json，首見附英文。",
+    "notes": "創意用法標籤，用推理對意識防禦判下一輪次動作等可能；非自動預知未來。 新增名稱為專案提案，未宣稱指定小說/試算表已核定完整同一英文詞目。 專案採用；證據zinc-feruchemy-proposed.json與steel-tin-feruchemy-reference-evidence.json / zinc-hemalurgy-reference-evidence.json，首見附英文。",
     "status": "approved",
     "is_term": true
   },
@@ -9254,7 +9254,7 @@
   },
   "Ear-Splitting": {
     "zh": "震耳欲聾",
-    "notes": "聲響棒1行動輕型武器檢定對範圍包含自己的其他角色靈性防禦；成功1d6命力+迷惑，雙棒只對超自然聽覺者有額外優勢與震懾。 未宣稱新增天賦/裝備有官方核定譯名；父流程決定後才可寫入主詞庫。 根代理依來源與對照證據採為專案用語；首見附英文，非官方核定。證據 items-equipment-proposed.json。",
+    "notes": "聲響棒1行動輕型武器檢定對範圍包含自己的其他角色靈魂防禦；成功1d6命力+迷惑，雙棒只對超自然聽覺者有額外優勢與震懾。 未宣稱新增天賦/裝備有官方核定譯名；父流程決定後才可寫入主詞庫。 根代理依來源與對照證據採為專案用語；首見附英文，非官方核定。證據 items-equipment-proposed.json。",
     "status": "approved",
     "is_term": true
   },

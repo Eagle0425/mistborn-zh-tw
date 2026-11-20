@@ -51,7 +51,7 @@ sidebar:
 
 [1行動] **打擊：短管手槍（Strike: Snub Nose Pistol）。** [第二時代] 攻擊 +2，距離 20/60 呎，造成 1d4 + 2 銳利傷害（keen damage）。穿刺（Pierce）：這次傷害無法以目標的偏轉值（Deflect）減少。裝填（Loaded）[6]：花費[1行動]將這把武器的彈藥補滿。
 
-[2行動] **反駁（Counterargument）。** 商人進行說服檢定，對抗一名角色的靈性防禦（Spiritual Defense）。成功時，目標失去 2 專注點。
+[2行動] **反駁（Counterargument）。** 商人進行說服檢定，對抗一名角色的靈魂防禦（Spiritual Defense）。成功時，目標失去 2 專注點。
 
 ##### 商人戰術
 

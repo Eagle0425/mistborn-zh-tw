@@ -5,7 +5,7 @@ description: 迷霧之子繁中翻譯採用的術語、參考依據與原文校�
 
 ## 翻譯參考
 
-譯名參考使用者提供的[寰宇 TRPG 翻譯修正表](https://docs.google.com/spreadsheets/d/1js_G6JwiqoxT96ckZay05_slYMXawUYouleItUBE2JY/edit?gid=2121161069#gid=2121161069)，包括「Github詞彙表」「飯哥翻譯」與「翻譯修正表」，最近一次讀取為 2026 年 10 月 25 日。修改建議欄與已採用譯名有所區別，不直接整欄替換。
+譯名參考使用者提供的[寰宇 TRPG 翻譯修正表](https://docs.google.com/spreadsheets/d/1js_G6JwiqoxT96ckZay05_slYMXawUYouleItUBE2JY/edit?gid=2121161069#gid=2121161069)，包括「Github詞彙表」「飯哥翻譯」與「翻譯修正表」，最近一次讀取為 2026 年 11 月 20 日。修改建議欄與已採用譯名有所區別，不直接整欄替換。
 
 世界觀用詞另核對使用者指定的《迷霧之子系列（共四冊）》，作者為布蘭登．山德森、譯者為段宗忱，收錄《最後帝國》《昇華之井》《永世英雄》《執法鎔金》。小說只作譯名與語感參考，能力、條件、數值與新版設定仍依 RPG 原書。
 
@@ -13,7 +13,7 @@ description: 迷霧之子繁中翻譯採用的術語、參考依據與原文校�
 
 ## 用詞決策
 
-- Physical 依使用者指定統一為「實體」，Physical Defense 為「實體防禦」。Strategist 為「策士」，goal 為「短期目標」。
+- 共通防禦名稱為實體防禦（Physical Defense）、意識防禦（Cognitive Defense）、靈魂防禦（Spiritual Defense）。Cognitive Shadow 採共通詞彙表修訂的「意識之影」。Strategist 為「策士」，goal 為「短期目標」。
 - specialty 為「專精」，expertise 為「專長」；Opportunity 為「機遇」，Complication 為「變故」，Endeavor 為「試煉」。
 - Elendel 城市為「依藍戴」；Elend 人物為「依藍德」。Boxing 貨幣為「盒金」。不因同形英文就套用其他世界或人物的譯名。
 - Shard 在宇宙神力語境為「碎力」，裝備總稱語境為「碎具」；Intent 的宇宙學意義為「碎旨」，普通敘述則按「意圖」理解。
@@ -26,7 +26,7 @@ description: 迷霧之子繁中翻譯採用的術語、參考依據與原文校�
 
 ## 中英對照
 
-目前詞庫共有 3314 項。
+目前詞庫共有 3316 項。
 
 | 英文 | 本專案譯名 | 狀態 |
 | --- | --- | --- |
@@ -559,10 +559,10 @@ description: 迷霧之子繁中翻譯採用的術語、參考依據與原文校�
 | Clue | 線索 | 專案採用 |
 | Codenames Are Stupid | Codenames Are Stupid | 保留英文；依註記續核 |
 | Cognitive | 意識 | 專案採用 |
-| Cognitive Defense | 認知防禦 | 專案採用 |
+| Cognitive Defense | 意識防禦 | 專案採用 |
 | Cognitive Metal | 意識金屬 | 專案採用 |
 | Cognitive Realm | 意識界 | 專案採用 |
-| Cognitive Shadow | 認知之影 | 專案採用 |
+| Cognitive Shadow | 意識之影 | 專案採用 |
 | Cognitive Skills | 意識技能 | 專案採用 |
 | Coin Scattershot | 錢幣散射 | 專案採用 |
 | Coin Sharpshooter | 錢幣神射 | 專案採用 |
@@ -1025,6 +1025,7 @@ description: 迷霧之子繁中翻譯採用的術語、參考依據與原文校�
 | False Flattery | 虛假奉承 | 專案採用 |
 | False Squadron | 虛假隊伍 | 專案採用 |
 | Familiar Sensation | 熟悉的感受 | 專案採用 |
+| Fan of the Bloom | 繁花扇 | 專案暫譯 |
 | Fanatic | 狂信徒 | 專案採用 |
 | fanatic (adversary) | 狂信徒（敵手） | 專案採用 |
 | Fanatic Faith | 狂熱信仰 | 專案採用 |
@@ -1202,6 +1203,7 @@ description: 迷霧之子繁中翻譯採用的術語、參考依據與原文校�
 | Gilded Trio | 鍍金三人組 | 專案採用 |
 | Glass Dagger | 玻璃匕首 | 專案採用 |
 | Glass Street Syndicate | 玻璃街集團 | 專案採用 |
+| Glassgarden | 玻璃花園 | 專案暫譯 |
 | Glimmering Point Docks | 微光角碼頭 | 專案採用 |
 | Glitterhollow Expeditions | Glitterhollow探險公司 | 專案採用 |
 | GM | GM | 保留英文；依註記續核 |
@@ -2683,7 +2685,7 @@ description: 迷霧之子繁中翻譯採用的術語、參考依據與原文校�
 | Spirit Damage | 靈魂傷害 | 專案採用 |
 | Spiritual | 靈魂 | 專案採用 |
 | Spiritual Connection | 靈魂牽繫 | 專案採用 |
-| Spiritual Defense | 靈性防禦 | 專案採用 |
+| Spiritual Defense | 靈魂防禦 | 專案採用 |
 | Spiritual Identity | 靈魂身分 | 專案採用 |
 | Spiritual Metal | 靈魂金屬 | 專案採用 |
 | Spiritual Realm | 靈魂界 | 專案採用 |

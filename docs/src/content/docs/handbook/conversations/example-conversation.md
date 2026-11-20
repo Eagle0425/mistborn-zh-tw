@@ -23,11 +23,11 @@ sidebar:
 
 **GM：** 好，這個做法不錯。做一次說服（Persuasion）檢定（Test），讓她對你的提議感興趣。不過她顯然很懷疑你，所以要提高賭注（Raise the Stakes）。
 
-*Akua 同時擲出一顆 d20 和劇情骰（Plot Die）。d20 擲出 6，劇情骰則擲出[機遇]（Opportunity）。她加上自己的說服調整值 +4，合計為 10。結果低於 Sylveen 的靈性防禦（Spiritual Defense），也就是 GM 設定的 DC，所以 GM 沒有讓 Sylveen 花費專注點（Focus）來抵抗影響（Influence）。*
+*Akua 同時擲出一顆 d20 和劇情骰（Plot Die）。d20 擲出 6，劇情骰則擲出[機遇]（Opportunity）。她加上自己的說服調整值 +4，合計為 10。結果低於 Sylveen 的靈魂防禦（Spiritual Defense），也就是 GM 設定的 DC，所以 GM 沒有讓 Sylveen 花費專注點（Focus）來抵抗影響（Influence）。*
 
 **GM：** Sylveen 帶著客套的微笑聽你說話，但你還沒講到細節，她就插話了。「就算最近的稽查確實比較頻繁，我對一個穿著寒酸的無名小卒帶來的空泛傳聞，還是沒什麼興趣。」她不相信你的說法，不過多虧了你的機遇，她剛才說溜了嘴，透露出稽查的某些事讓她有點緊張。但她還是想嚇退你，讓你別再煩她。
 
-*GM 為 Sylveen 擲一顆 d20。由於 Sylveen 正試圖威嚇 Delphette，GM 將 DC 設為 Delphette 的認知防禦（Cognitive Defense）。Sylveen 的 d20 擲出 14，GM 再加上她的威嚇（Intimidation）調整值 +4，合計為 18。結果高於 Delphette 的認知防禦，也就是 GM 設定的 DC。*
+*GM 為 Sylveen 擲一顆 d20。由於 Sylveen 正試圖威嚇 Delphette，GM 將 DC 設為 Delphette 的意識防禦（Cognitive Defense）。Sylveen 的 d20 擲出 14，GM 再加上她的威嚇（Intimidation）調整值 +4，合計為 18。結果高於 Delphette 的意識防禦，也就是 GM 設定的 DC。*
 
 **GM：** 好，Akua，你可以選擇花費 2 專注點抵抗影響，或是退讓，不再繼續這場對話。
 
@@ -41,7 +41,7 @@ sidebar:
 
 **GM：** 沒問題。不過這裡有聖務官（obligator），其中可能有人是搜尋者（Seekers）。提高賭注，看看你能不能瞞過 Sylveen，讓她沒發現你的煽動。
 
-*Lucas 花費 1 授予（Investiture），煽動緊張情緒。為了嘗試隱藏煽動，Lucas 同時擲出一顆 d20 和劇情骰。d20 擲出 17，劇情骰則擲出[變故]（Complication）4。加上自己的鎔金術（Allomancy）調整值 +2，以及劇情骰的 +4，合計為 23。結果高於 Sylveen 的靈性防禦，所以她沒發現自己受到了情緒鎔金術（Emotional Allomancy）的影響。*
+*Lucas 花費 1 授予（Investiture），煽動緊張情緒。為了嘗試隱藏煽動，Lucas 同時擲出一顆 d20 和劇情骰。d20 擲出 17，劇情骰則擲出[變故]（Complication）4。加上自己的鎔金術（Allomancy）調整值 +2，以及劇情骰的 +4，合計為 23。結果高於 Sylveen 的靈魂防禦，所以她沒發現自己受到了情緒鎔金術（Emotional Allomancy）的影響。*
 
 **GM：** Sylveen 現在真的開始冒汗了。不過，因為那個變故……一位聖務官似乎正朝你們走來。
 
@@ -53,7 +53,7 @@ sidebar:
 
 **Harper（扮演 Nessenwy）：** 我說得完全一本正經，把泰瑞司侍從官（Terris Steward）那種若無其事的態度發揮到極致。我覺得應該算學識檢定。
 
-*Harper 擲一顆 d20，擲出 14。她加上自己的學識調整值 +5，合計為 19。結果高於 Sylveen 的認知防禦，也就是 GM 設定的 DC。GM 決定讓 Sylveen 在這裡讓步。*
+*Harper 擲一顆 d20，擲出 14。她加上自己的學識調整值 +5，合計為 19。結果高於 Sylveen 的意識防禦，也就是 GM 設定的 DC。GM 決定讓 Sylveen 在這裡讓步。*
 
 **GM：** 多虧 Rastes 的煽動，Sylveen 準備上鉤了。她不花任何專注點抵抗影響，甚至答應，只要情報值得她花時間聽，就付給你們 500 盒金（boxings）。你們的詭計成功引她入局，關於 Teniert 家族的謠言很快就會像野火一樣傳開。不過，當你們向 Sylveen 說明細節時，你們可能會注意到，不遠處有一位看起來很不高興的聖務官，正在尋找 Rastes……
 

@@ -21,7 +21,7 @@ sidebar:
 
 ### 秘史（Secret History）
 
-落灰之終後的頭幾週，一道認知之影（Cognitive Shadow）來拜訪迷霧之子大人（Lord Mistborn）。海司辛倖存者（Survivor of Hathsin）卡西爾（Kelsier）透露了自己的計畫：解開寰宇（cosmere）的種種謎團。
+落灰之終後的頭幾週，一道意識之影（Cognitive Shadow）來拜訪迷霧之子大人（Lord Mistborn）。海司辛倖存者（Survivor of Hathsin）卡西爾（Kelsier）透露了自己的計畫：解開寰宇（cosmere）的種種謎團。
 
 ### 恢復生態
 

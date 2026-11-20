@@ -212,7 +212,7 @@ sidebar:
 
 夾幣（clip）：價值僅為盒金的一小部分，是以普通金屬製成的小硬幣。254
 
-認知防禦（Cognitive defense）：見防禦（defense）。
+意識防禦（Cognitive defense）：見防禦（defense）。
 
 意識技能（cognitive skill）：見技能，意識技能。
 
@@ -298,7 +298,7 @@ sidebar:
 
 推理（Deduction）（技能，使用智力）：透過細心觀察與邏輯分析理解世界。66
 
-防禦：代表你抵抗攻擊、脅迫及其他不利效果的能力。角色的三種防禦值（實體（Physical defense）、認知、靈性（Spiritual defense））決定針對該角色所做檢定的難度等級（difficulty class）（DC）。26, 53
+防禦：代表你抵抗攻擊、脅迫及其他不利效果的能力。角色的三種防禦值（實體防禦（Physical Defense）、意識防禦（Cognitive Defense）、靈魂防禦（Spiritual Defense））決定針對該角色所做檢定的難度等級（difficulty class）（DC）。26, 53
 
 防禦型（Defensive）（武器特性）：持用這把武器時，你可以在沒有掩護的情況下架防。257
 
@@ -1084,7 +1084,7 @@ PC：見玩家角色。
 
 靈魂（spirit）（傷害類型）：同時影響肉身與靈魂的傷害；無法藉由偏轉值減免。312
 
-靈性防禦：見防禦。
+靈魂防禦：見防禦。
 
 靈魂技能：見技能，靈魂技能。
 

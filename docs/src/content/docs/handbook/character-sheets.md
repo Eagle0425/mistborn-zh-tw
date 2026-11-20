@@ -15,10 +15,10 @@ sidebar:
 - 實體防禦（Physical Defense）
 - 力量（Strength）
 - 速度（Speed）
-- 認知防禦（Cognitive Defense）
+- 意識防禦（Cognitive Defense）
 - 智力（Intellect）
 - 意志（Willpower）
-- 靈性防禦（Spiritual Defense）
+- 靈魂防禦（Spiritual Defense）
 - 察覺（Awareness）
 - 風采（Presence）
 - 生命值（Health）：上限；目前值
@@ -69,10 +69,10 @@ sidebar:
 - 實體防禦（Physical Defense）
 - 力量（Strength）
 - 速度（Speed）
-- 認知防禦（Cognitive Defense）
+- 意識防禦（Cognitive Defense）
 - 智力（Intellect）
 - 意志（Willpower）
-- 靈性防禦（Spiritual Defense）
+- 靈魂防禦（Spiritual Defense）
 - 察覺（Awareness）
 - 風采（Presence）
 - 角色外觀

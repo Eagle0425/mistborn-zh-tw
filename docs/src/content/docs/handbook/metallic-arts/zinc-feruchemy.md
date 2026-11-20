@@ -53,7 +53,7 @@ sidebar:
 
 **打發時間（Pass Time）。** 儲存心智速度，放慢思考，讓時間感覺過得更快，減輕長時間等待對心理的影響。
 
-**預測（Prediction）。** 汲取心智速度，預測一名角色（Character）在下一個輪次會怎麼行動。例如，你可以進行推理（Deduction）檢定（Test），對抗其認知防禦（Cognitive Defense），判斷對方會選擇快速輪次（Fast Turn）還是慢速輪次（Slow Turn）、使用哪個行動，或攻擊誰。
+**預測（Prediction）。** 汲取心智速度，預測一名角色（Character）在下一個輪次會怎麼行動。例如，你可以進行推理（Deduction）檢定（Test），對抗其意識防禦（Cognitive Defense），判斷對方會選擇快速輪次（Fast Turn）還是慢速輪次（Slow Turn）、使用哪個行動，或攻擊誰。
 
 ### 鋅藏金術天賦（talent）
 

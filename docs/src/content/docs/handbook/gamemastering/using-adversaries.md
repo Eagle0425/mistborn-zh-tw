@@ -121,7 +121,7 @@ SVETLANA KOSTINA
 
 ### 屬性與防禦
 
-敵手與 PC 使用相同的基本數據，包括六項屬性（attribute）：力量（Strength）、速度（Speed）、智力（Intellect）、意志（Willpower）、察覺（Awareness）與風采（Presence），以及三項防禦：實體防禦（Physical defense）、認知防禦（Cognitive defense）與靈性防禦（Spiritual defense）。如果這些數值看來與資料區塊的其他數字對不上，不必擔心。許多資料區塊已在背後套用加值或減值，就像 PC 的天賦一樣，因此修正值或其他數據有時會與你預期的不同。
+敵手與 PC 使用相同的基本數據，包括六項屬性（attribute）：力量（Strength）、速度（Speed）、智力（Intellect）、意志（Willpower）、察覺（Awareness）與風采（Presence），以及三項防禦：實體防禦（Physical defense）、意識防禦（Cognitive defense）與靈魂防禦（Spiritual defense）。如果這些數值看來與資料區塊的其他數字對不上，不必擔心。許多資料區塊已在背後套用加值或減值，就像 PC 的天賦一樣，因此修正值或其他數據有時會與你預期的不同。
 
 ### 生命值、專注點與授予
 

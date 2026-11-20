@@ -166,7 +166,7 @@ ANNA PAZYNIUK
 
 特徵
 
-伏擊者（Ambusher）。每個場景（Scene）開始時，如果獅子未陷入措手不及（Surprised），牠可以進行隱匿檢定，對抗敵人中最高的靈性防禦（Spiritual Defense）。成功時，獅子會在所有其他角色之前進行一個快速輪次（Fast Turn）（這不算牠在本回合（Round）的輪次）。
+伏擊者（Ambusher）。每個場景（Scene）開始時，如果獅子未陷入措手不及（Surprised），牠可以進行隱匿檢定，對抗敵人中最高的靈魂防禦（Spiritual Defense）。成功時，獅子會在所有其他角色之前進行一個快速輪次（Fast Turn）（這不算牠在本回合（Round）的輪次）。
 
 強化感官。獅子進行依賴視覺的非攻擊檢定時，獲得優勢。
 

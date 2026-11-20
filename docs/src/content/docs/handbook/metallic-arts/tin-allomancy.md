@@ -139,7 +139,7 @@ AUSTIN HARTELL
 
 增強的感官，讓你在戰鬥中觀察敵人時成為不可或缺的助力。
 
-燃燒錫期間，當你以推理（Deduction）或任何使用察覺屬性的技能成功獲取優勢時，你也會得知目標目前的生命值，以及其實體防禦（Physical Defense）、認知防禦（Cognitive Defense）與靈性防禦（Spiritual Defense）數值。此外，你在這個輪次（Turn）中下一次對該目標發動的攻擊，會造成額外1d4傷害。這項額外傷害使用你的金屬技藝骰（Metallic Art Die），因此骰型（Die Size）會隨鎔金術技能等級增加；技能等級為2時，擲1d6而非1d4，依此類推。
+燃燒錫期間，當你以推理（Deduction）或任何使用察覺屬性的技能成功獲取優勢時，你也會得知目標目前的生命值，以及其實體防禦（Physical Defense）、意識防禦（Cognitive Defense）與靈魂防禦（Spiritual Defense）數值。此外，你在這個輪次（Turn）中下一次對該目標發動的攻擊，會造成額外1d4傷害。這項額外傷害使用你的金屬技藝骰（Metallic Art Die），因此骰型（Die Size）會隨鎔金術技能等級增加；技能等級為2時，擲1d6而非1d4，依此類推。
 
 #### 感官戒備
 

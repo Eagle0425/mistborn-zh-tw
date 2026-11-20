@@ -45,7 +45,7 @@ sidebar:
 
 **GM：** 可以，做一次推理（Deduction）檢定。
 
-*Harper 擲一顆 d20，擲出 13，再加上自己的推理調整值 +5，合計為 18。結果高於駕駛的認知防禦（Cognitive Defense），也就是 GM 設定的 DC。*
+*Harper 擲一顆 d20，擲出 13，再加上自己的推理調整值 +5，合計為 18。結果高於駕駛的意識防禦（Cognitive Defense），也就是 GM 設定的 DC。*
 
 **GM：** 你看得出他們正要穿過 Little Rashekin。目前距離降到 1！你們差一點就追上了，但駕駛開始急了。她猛然轉彎，把車開上鐵軌！
 

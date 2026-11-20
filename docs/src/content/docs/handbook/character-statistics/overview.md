@@ -34,9 +34,9 @@ sidebar:
 
 **實體（Physical）。** 實體數據包括力量（Strength）與速度這兩項屬性、所有使用這兩項屬性的技能，以及實體防禦（Physical Defense）、生命值、移動速率和舉重能力（Lifting Capacity）。它們列在角色紙的第一欄。
 
-**意識（Cognitive）。** 意識數據包括智力（Intellect）與意志（Willpower）這兩項屬性、所有使用這兩項屬性的技能，以及認知防禦（Cognitive Defense）、專注點和恢復骰（Recovery Die）。它們列在角色紙的第二欄。
+**意識（Cognitive）。** 意識數據包括智力（Intellect）與意志（Willpower）這兩項屬性、所有使用這兩項屬性的技能，以及意識防禦（Cognitive Defense）、專注點和恢復骰（Recovery Die）。它們列在角色紙的第二欄。
 
-**靈魂（Spiritual）。** 靈魂數據包括察覺（Awareness）與風采（Presence）這兩項屬性、所有使用這兩項屬性的技能，以及靈性防禦（Spiritual Defense）、授予和感知範圍（Senses Range）。它們列在角色紙的第三欄。
+**靈魂（Spiritual）。** 靈魂數據包括察覺（Awareness）與風采（Presence）這兩項屬性、所有使用這兩項屬性的技能，以及靈魂防禦（Spiritual Defense）、授予和感知範圍（Senses Range）。它們列在角色紙的第三欄。
 
 這樣分類除了能讓角色紙井然有序，也會用在少數遊戲規則中。例如，學者（Scholar）英雄路徑（Heroic Path）的第一項天賦，會讓你獲得額外的意識技能等級（Ranks）。受力量或速度影響的技能屬於實體技能；受智力或意志影響的技能屬於意識技能；受察覺或風采影響的技能則屬於靈魂技能。
 
