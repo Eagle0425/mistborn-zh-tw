@@ -148,4 +148,98 @@ export const settingPreviews: Record<string, SettingPreview> = {
 		target: 'handbook/origins/culture/#泰瑞司統御區第一時代',
 		related: ['Terris', 'Keeper', 'Steel Ministry'],
 	},
+
+	'The Roughs': {
+		summary: '依藍戴盆地之外的廣大邊地，遍布礦場、牧場與聚落。當地社群往往自行維持秩序，執法者與犯法者都活躍其中。',
+		target: 'world-guide/regions-and-cultures/the-roughs-era-2/#蠻橫區the-roughs第二時代',
+		related: ['Elendel Basin', 'koloss-blooded', 'Terris'],
+	},
+	Urteau: {
+		summary: '北方統御區的首府，以乾涸運河形成的街溝聞名。城中貴族街區與擁擠的司卡居所，呈現截然不同的生活。',
+		target: 'world-guide/regions-and-cultures/northern-dominance-era-1/#政府',
+		related: ['Final Empire', 'skaa', 'House Venture'],
+	},
+	'Fadrex City': {
+		summary: '西方統御區的城市，擁有便利的運河貿易與天然岩石屏障。最後帝國覆亡後，它成為當地新的首府。',
+		target: 'world-guide/regions-and-cultures/southern-dominance-era-1/#最後帝國之後-1',
+		related: ['Final Empire', 'Lord Ruler', 'Luthadel'],
+	},
+	Bilming: {
+		summary: '依藍戴盆地的重要港都，工業與商業蓬勃。它也是外圍城市反對依藍戴擴張影響力的重要中心。',
+		target: 'world-guide/points-of-interest-in-era-2/bilming/#概覽',
+		related: ['Elendel', 'Elendel Basin', 'New Seran'],
+	},
+	'New Seran': {
+		summary: '盆地東南方的噴泉之城，建在層層岩石臺地上，溪流與瀑布穿行其間。富裕貴族、學者與工人共同塑造城市生活。',
+		target: 'world-guide/points-of-interest-in-era-2/new-seran/#概覽',
+		related: ['Elendel Basin', 'Bilming', 'The Roughs'],
+	},
+	'Pits of Hathsin': {
+		summary: '最後帝國的洞穴礦區與勞改營。囚犯在惡劣環境中採礦，泛圖爾家族負責管理這項嚴密保密的作業。',
+		target: 'world-guide/points-of-interest-in-era-1/pits-of-hathsin/#概覽',
+		related: ['Final Empire', 'House Venture', 'Kelsier'],
+	},
+	Ghostbloods: {
+		summary: '以保護司卡德利亞為宗旨的祕密組織，活動範圍遍及寰宇。成員各有所長，重視內部合作，也嚴守組織情報。',
+		target: 'world-guide/allies-and-organizations/ghostbloods-era-2/#宗旨',
+		related: ['Scadrial', 'cosmere', 'Worldhopper'],
+	},
+	'Elendel Constabulary': {
+		summary: '依藍戴的主要執法機關，分成八個分區警署。它的管轄權延伸至盆地，與其他城市的警隊時有摩擦。',
+		target: 'world-guide/allies-and-organizations/elendel-constabulary-era-2/#組織架構',
+		related: ['Elendel', 'Elendel Basin', 'The Roughs'],
+	},
+	Kelsier: {
+		summary: '一名魅力十足的迷霧之子與盜賊團隊領袖。他組織各有所長的夥伴，策畫反抗最後帝國的行動。',
+		target: 'world-guide/allies-and-organizations/kelsier-and-his-crew-era-1/#卡西爾的團隊',
+		related: ['Mistborn', 'Final Empire', 'Vin'],
+	},
+	Vin: {
+		summary: '在街頭艱難求生的年輕迷霧之子，後來加入卡西爾的團隊。她敏銳謹慎，逐步學習運用自己的金屬技藝。',
+		target: 'world-guide/allies-and-organizations/tindwyl-era-1/#第一時代的紋',
+		related: ['Mistborn', 'Kelsier', 'Allomancy'],
+		requireOriginal: true,
+	},
+	Sazed: {
+		summary: '泰瑞司守護者，也是卡西爾團隊的一員。他珍視歷史與宗教知識，待人溫厚，並以藏金術保存和運用自己的特質。',
+		target: 'world-guide/allies-and-organizations/quellion-era-1/#沙賽德第一時代',
+		related: ['Terris', 'Keeper', 'Feruchemy'],
+	},
+	Tindwyl: {
+		summary: '研究歷史領袖生平的泰瑞司守護者。她見識深厚、態度嚴謹，擅長從過往人物的事蹟教導領導者。',
+		target: 'world-guide/allies-and-organizations/tindwyl-era-1/#_top',
+		related: ['Terris', 'Keeper', 'Sazed'],
+	},
+	'Waxillium Ladrian': {
+		summary: '出身依藍戴貴族、曾在蠻橫區執法的雙生師。他結合槍法、鋼鎔金術與鐵藏金術追查案件。',
+		target: 'world-guide/allies-and-organizations/waxillium-ladrian-era-2/#曉擊dawnshot',
+		related: ['Twinborn', 'Elendel', 'The Roughs'],
+	},
+	Malwish: {
+		summary: '南司卡德利亞的一個國家及其人民，以面具文化和授予科技聞名。飛空艇與特殊金屬裝置讓他們得以跨越遙遠地域。',
+		target: 'world-guide/regions-and-cultures/southern-scadrial-era-2/#malwish',
+		related: ['Southern Scadrial', 'Medallion', 'ettmetal'],
+	},
+	'House Venture': {
+		summary: '最後帝國最具影響力的貴族大家族之一，在北方統御區擁有世襲領地，並參與帝國重要的貿易與政治。',
+		target: eraOne + '#泛圖爾家族',
+		related: ['Great Houses', 'Final Empire', 'Urteau'],
+	},
+	'Great Houses': {
+		summary: '最後帝國最有權勢的貴族家族。他們在陸沙德興建城堡，以貿易、聯姻與政治競爭維持地位。',
+		target: eraOne + '#大家族',
+		related: ['Noble', 'House Venture', 'Luthadel'],
+		requireOriginal: true,
+	},
+	'Well of Ascension': {
+		summary: '與泰瑞司傳說及巨大力量相關的神祕所在。它在司卡德利亞的歷史與宗教中占有重要地位。',
+		target: 'world-guide/history-of-scadrial/era-1-the-world-of-ash/#昇華之井',
+		related: ['Preservation', 'Lord Ruler', 'Terris'],
+	},
+	Noble: {
+		summary: '最後帝國的統治階級，享有司卡欠缺的權利與資源。貴族家族透過血緣、財富與政治關係維持影響力。',
+		target: cultures + '#貴族',
+		related: ['Great Houses', 'skaa', 'Final Empire'],
+		requireOriginal: true,
+	},
 };

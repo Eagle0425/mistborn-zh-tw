@@ -1,6 +1,8 @@
 import { metallicPreviews } from './metallic-previews';
 import { rulePreviews } from './rule-previews';
 import { settingPreviews } from './setting-previews';
+import { combatPreviews } from './combat-previews';
+import { adventurePreviews } from './adventure-previews';
 
 // Keys come from glossary.json so previews use the project's current translations.
 type Preview = {
@@ -20,6 +22,8 @@ export const previews: Record<string, Preview> = {
 	...metallicPreviews,
 	...rulePreviews,
 	...settingPreviews,
+	...combatPreviews,
+	...adventurePreviews,
 	'Reactive Strike': {
 		summary: '敵人自願離開你的觸及範圍時，可花費 1 點專注點，以反應進行近戰武器攻擊或徒手打擊。瞬間移動不觸發這項反應。',
 		target: 'handbook/combat/#反擊機會-反應',
@@ -62,7 +66,7 @@ export const previews: Record<string, Preview> = {
 	},
 	'Allomantic Grenade': {
 		summary: '北方對鎔金術方塊的稱呼。它可以重現注入其中的鎔金效果，用途依能力而異。',
-		target: technology + '#運河與航運',
+		target: 'handbook/goals-and-rewards/goals/#鎔金手榴彈',
 		related: ['Primer Cube', 'Allomancy'],
 	},
 	Catacendre: {

@@ -9,8 +9,128 @@ type Preview = {
 const combat = 'handbook/combat/';
 const statistics = 'handbook/character-statistics/';
 const adventuring = 'handbook/adventuring/';
+const goals = 'handbook/goals-and-rewards/goals/';
+const paths = 'handbook/heroic-paths/overview/';
+const basics = 'handbook/introduction/welcome-to-scadrial/';
+const gear = 'handbook/items/currency/';
 
 export const rulePreviews: Record<string, Preview> = {
+	'Plot Die': {
+		summary: '技能檢定時可與 d20 一起擲的特殊骰。它可能帶來機遇或變故，影響這次檢定如何推進故事。',
+		target: basics + '#劇情骰',
+		related: ['Raise the Stakes', 'Opportunity', 'Complication'],
+	},
+	'Raise the Stakes': {
+		summary: 'GM 藉此凸顯一次檢定在故事中的重要性，讓玩家加擲劇情骰。',
+		target: basics + '#提高賭注',
+		related: ['Plot Die', 'Skill Test'],
+	},
+	'Skill Test': {
+		summary: '結果不確定時，擲 d20 並套用技能修正值，再依難度等級或對抗檢定的規則判定。',
+		target: basics + '#進行技能檢定skill-test',
+		related: ['Skill Modifier', 'Difficulty Class', 'Opposed Test'],
+	},
+	'Skill Rank': {
+		summary: '代表角色在一項技能上的訓練與經驗。與對應屬性合計，得到該技能的修正值。',
+		target: statistics + 'skills/#技能等級與修正值',
+		related: ['Skill Modifier', 'attribute', 'Tier'],
+	},
+	'Skill Modifier': {
+		summary: '技能檢定所加的修正值，等於該技能對應的屬性值加上技能等級。',
+		target: statistics + 'skills/#技能等級與修正值',
+		related: ['Skill Rank', 'Skill Test'],
+	},
+	attribute: {
+		summary: '描述角色基本能力的數值，影響技能修正與防禦等衍生數據。',
+		target: statistics + 'attributes/',
+		related: ['Skill Modifier', 'Physical Defense', 'Cognitive Defense', 'Spiritual Defense'],
+		requireOriginal: true,
+	},
+	Expertise: {
+		summary: '角色熟悉的特定知識、文化或裝備。專長可提供實際優勢，效果要看種類與情境。',
+		target: statistics + 'expertises/#專長的益處',
+		related: ['cultural expertise', 'Weapon Expertise', 'Skill Rank'],
+	},
+	'cultural expertise': {
+		summary: '對某個地區或群體的習俗、日常與社會規範的熟悉程度，可由成長背景或長期生活取得。',
+		target: statistics + 'expertises/#文化專長',
+		related: ['Expertise', 'ancestry'],
+	},
+	'Weapon Expertise': {
+		summary: '對特定武器的熟悉程度，讓角色能使用該武器需要專長才可發揮的效果。',
+		target: statistics + 'expertises/#武器專長',
+		related: ['Expertise', 'Skill Rank'],
+	},
+	ancestry: {
+		summary: '角色的族群傳承，影響創角時可選的天賦與特質。',
+		target: 'handbook/origins/overview/#血統',
+		related: ['cultural expertise', 'talent'],
+		requireOriginal: true,
+	},
+	Path: {
+		summary: '角色用來選擇與發展天賦的進程。英雄路徑與金屬之子路徑涵蓋不同能力。',
+		target: paths + '#英雄路徑與金屬之子路徑',
+		related: ['talent', 'Key Talent', 'Metalborn'],
+		requireOriginal: true,
+	},
+	talent: {
+		summary: '透過角色成長選取的能力。天賦條目會列出啟動方式與可以使用它的條件。',
+		target: paths + '#天賦的組成',
+		related: ['Path', 'Prerequisite', 'Key Talent'],
+	},
+	'Key Talent': {
+		summary: '開啟某條路徑的基礎天賦，也是該路徑後續天賦的重要前提。',
+		target: paths + '#關鍵天賦',
+		related: ['Path', 'Prerequisite', 'talent'],
+	},
+	Prerequisite: {
+		summary: '選取天賦前需要符合的條件，例如某項技能等級或先取得另一個天賦。',
+		target: paths + '#取得其他天賦的資格',
+		related: ['Skill Rank', 'talent'],
+	},
+	goal: {
+		summary: '角色在冒險中可以推進並結束的一項具體目標，常和角色成長或取得獎勵相關。',
+		target: goals + '#短期目標',
+		related: ['Reward'],
+	},
+	Reward: {
+		summary: '角色因短期目標或冒險成果而獲得的外部資源，例如物品、夥伴、贊助或據點。',
+		target: goals + '#獎勵',
+		related: ['goal', 'Companion', 'Patron', 'Hideout'],
+		requireOriginal: true,
+	},
+	Companion: {
+		summary: '以獎勵等方式與角色結伴的動物或人物，可以提供協助或參與場景。',
+		target: goals + '#夥伴',
+		related: ['Reward', 'Patron'],
+		requireOriginal: true,
+	},
+	Patron: {
+		summary: '能給予角色資源、資訊或其他支援的人或勢力，也可能對角色有所期待。',
+		target: goals + '#贊助者',
+		related: ['Reward', 'Organization'],
+	},
+	Organization: {
+		summary: '角色可以加入、管理或建立的團體。組織有自己的規模，能提供的好處因團體而異。',
+		target: goals + '#組織',
+		related: ['Patron', 'Hideout'],
+		requireOriginal: true,
+	},
+	Hideout: {
+		summary: '角色可作為據點使用的場所，能依據點用途與需要進行升級。',
+		target: goals + '#藏身處',
+		related: ['Reward', 'Organization'],
+	},
+	Boxing: {
+		summary: '司卡德利亞的貨幣單位之一，物品價格和冒險報酬常以盒金表示。',
+		target: gear + '#貨幣',
+		related: ['Reward', 'starting kit'],
+	},
+	'starting kit': {
+		summary: '創角時可挑選的一組起始裝備。不同套組適合不同身分與冒險需求。',
+		target: gear + '#起始套組',
+		related: ['Boxing', 'Path'],
+	},
 	Round: {
 		summary: '戰鬥中讓所有角色各進行一次輪次的完整循環，依序處理快速與慢速輪次。',
 		target: combat + '#回合與輪次',
