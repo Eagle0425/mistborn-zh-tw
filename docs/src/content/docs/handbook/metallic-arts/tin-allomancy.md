@@ -53,6 +53,17 @@ sidebar:
 
 ### 錫鎔金術天賦樹
 
+**天賦連線**
+
+| 天賦 | 解鎖來源 | 啟動 | 額外前提 |
+| --- | --- | --- | --- |
+| [驟燒凝神](#驟燒凝神) | 錫鎔金術能力 | 1行動 | — |
+| [感官戒備](#感官戒備sensible-preparation) | 錫鎔金術能力 | 特殊啟動 | 鎔金術2+ |
+| [錫感精準](#錫感精準tinpoint-accuracy) | 驟燒凝神 | 常駐 | 重型武器1+或輕型武器1+ |
+| [主動感官調控](#主動感官調控proactive-sensibility) | 感官戒備 | 常駐 | — |
+| [弱點感知](#弱點感知sense-for-weakness) | 驟燒凝神 | 常駐 | 鎔金術3+ |
+| [不看](#不看wasing-about-not-seeing) | 主動感官調控 | 自由行動 | 鎔金術3+ |
+
 #### 驟燒凝神
 
 啟動：[1行動]
@@ -116,8 +127,6 @@ AUSTIN HARTELL
 ![錫鎔金術彩繪玻璃符號（PDF 第 211 頁）](../../../../assets/mistborn/repaired/handbook/錫鎔金術彩繪玻璃符號_玩家手冊_PDF第211頁_圖0808.png)
 
 
-
-![錫鎔金術完整圖表（PDF 第 211 頁）](../../../../assets/mistborn/repaired/handbook/錫鎔金術完整圖表_PDF第211頁.png)
 
 
 

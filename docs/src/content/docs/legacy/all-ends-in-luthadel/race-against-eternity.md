@@ -254,7 +254,7 @@ K.T. 差一點就要觸發它了。
 
 ### 昇華
 
-![第 184 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-184-art-01.webp)
+![事件進度卡：昇華（PDF 第 184 頁）](../../../../assets/mistborn/repaired/legacy/事件進度卡-昇華_PDF第184頁_修正142.webp)
 
 
 

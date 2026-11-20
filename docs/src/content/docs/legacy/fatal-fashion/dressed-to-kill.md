@@ -29,9 +29,9 @@ sidebar:
 
 LUCAS TORQUATO
 
-![第 161 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-161-art-01.webp)
 
-![第 161 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-161-art-02.webp)
+
+![時裝款式插畫（PDF 第 161 頁）](../../../../assets/mistborn/repaired/legacy/時裝款式插畫_PDF第161頁_修正205.webp)
 
 時代跳躍連結
 
@@ -67,7 +67,7 @@ PC 有十天可以休整（見附錄 E〈在依藍戴休整〉）。在〈調查
 
 VLAD OVOY
 
-![第 162 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-162-art-02.webp)
+![鐵眼全身像（PDF 第 162 頁）](../../../../assets/mistborn/repaired/legacy/鐵眼全身像_PDF第162頁_修正206.webp)
 
 
 

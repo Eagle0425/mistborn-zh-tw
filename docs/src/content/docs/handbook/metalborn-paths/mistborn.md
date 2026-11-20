@@ -231,6 +231,20 @@ DEANDRA SCICLUNA & LOGAN FELICIANO
 
 ### 金屬之子路徑
 
+### 天賦樹連線
+
+對照《迷霧之子玩家手冊》PDF 第 146 頁。點選天賦名稱可跳至中文摘要。
+
+| 天賦 | 解鎖來源 | 啟動 | 額外前提 |
+| --- | --- | --- | --- |
+| [迷霧之子綻裂](#迷霧之子綻裂) | 關鍵天賦 | 特殊啟動 | 人類血統，且沒有其他綻裂或傳承天賦 |
+| [授予充沛](#授予充沛) | [迷霧之子綻裂](#迷霧之子綻裂) | 常駐 | — |
+| [金屬連動](#金屬連動-1) | [迷霧之子綻裂](#迷霧之子綻裂) | 特殊啟動 | — |
+| [微量金屬](#微量金屬) | [授予充沛](#授予充沛) | 常駐 | 鎔金術 3+ |
+| [本能燃燒](#本能燃燒) | [金屬連動](#金屬連動-1) | 特殊啟動 | 鎔金術 3+ |
+| [選擇性燃燒](#選擇性燃燒) | [金屬連動](#金屬連動-1) | 特殊啟動 | 鎔金術 3+ |
+| [同步燃燒](#同步燃燒) | [本能燃燒](#本能燃燒) | 自由行動 | 鎔金術 4+ |
+
 #### 迷霧之子綻裂
 
 啟動：[特殊啟動]
@@ -283,19 +297,6 @@ DEANDRA SCICLUNA & LOGAN FELICIANO
 
 花費 2 專注點，獲得 [2行動]，用來啟動你的鎔金能力。
 
-### 天賦樹連線
-
-<!-- These are the six visible connecting lines in the source diagram, not invented extra prerequisite text. In particular, there is no line from Trace Metals to Selective Burn: Selective Burn is connected to Metallic Splash by the leftward branch. -->
-
-| 相連天賦 | 相連天賦 |
-| --- | --- |
-| 迷霧之子綻裂 | 授予充沛 |
-| 迷霧之子綻裂 | 金屬連動 |
-| 授予充沛 | 微量金屬 |
-| 金屬連動 | 本能燃燒 |
-| 金屬連動 | 選擇性燃燒 |
-| 本能燃燒 | 同步燃燒 |
-
 ### 圖示意義
 
 | 圖示 | 意義 |
@@ -310,6 +311,4 @@ DEANDRA SCICLUNA & LOGAN FELICIANO
 
 <!-- Original illustration alternate text, preserved for the figure rather than inserted into the talent rules: A gray haired Mistborn woman with pale skin wields her glass dagger expertly and eyes the viewer with a dangerous expression. Her mistcloak is embroidered at the top, like a shawl, and a lace collar rises from underneath. Her sleeves gather in bracer-like buttons before puffing at the elbow. She wears a belt full of vials of metals and fitted pants that suit maneuverability. -->
 
-![第 146 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-146-art-01.webp)
-
-![迷霧之子完整圖表（PDF 第 146 頁）](../../../../assets/mistborn/repaired/handbook/迷霧之子完整圖表_PDF第146頁.png)
+![手持玻璃匕首、身穿迷霧披風的女子（PDF 第 146 頁）](../../../../assets/mistborn/repaired/handbook/metalborn-p146-native3925.webp)

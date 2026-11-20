@@ -87,4 +87,4 @@ Bezryl 掀開木碗的蓋子，語氣堅定地說：「新月谷的古代遊牧�
 
 Kandor 營造公司的未來。
 
-![第 76 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-076-art-01.webp)
+![協商康多營造未來的三人（PDF 第 76 頁）](../../../../assets/mistborn/repaired/legacy/協商康多營造未來的三人_PDF第076頁_修正247.webp)

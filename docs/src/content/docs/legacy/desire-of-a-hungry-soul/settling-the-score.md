@@ -301,7 +301,7 @@ RYAN SMITH
 
 SIRAJ FAKHRI
 
-![第 123 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-123-art-02.webp)
+
 
 ![手持傳單的兩名女學生（PDF 第 123 頁）](../../../../assets/mistborn/repaired/legacy/手持傳單的兩名女學生_傳承冒險_PDF第123頁_圖0399.png)
 
@@ -344,7 +344,7 @@ PC 在校園各處完成這些任務時，可參照地圖 6.2 和「依藍戴大
 
 第 6 章：飢渴靈魂的渴望 121
 
-![第 124 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-124-art-01.webp)
+![事件進度卡：午夜將至（PDF 第 124 頁）](../../../../assets/mistborn/repaired/legacy/事件進度卡-午夜將至_PDF第124頁_修正157.webp)
 
 **扮演 Marthis Elariel／Tekiel**
 

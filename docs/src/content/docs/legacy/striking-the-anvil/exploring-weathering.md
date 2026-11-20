@@ -387,7 +387,7 @@ HEROIC MAPS
 
 
 
-![第 153 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-153-art-02.webp)
+![地圖 7.3：菲爾崔爾鎮槍戰（PDF 第 153 頁）](../../../../assets/mistborn/repaired/legacy/地圖_7-3-菲爾崔爾鎮槍戰_PDF第153頁_修正237.webp)
 
 企業家傳承時刻
 

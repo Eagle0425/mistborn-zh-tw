@@ -37,4 +37,4 @@ sidebar:
 
 KEVIN O’NEILL
 
-![第 205 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-205-art-01.webp)
+![手持火把的平民（PDF 第 205 頁）](../../../../assets/mistborn/repaired/legacy/手持火把的平民_PDF第205頁_修正107.webp)

@@ -75,7 +75,7 @@ NeBaal 坦然回答問題，說出自己知道的一切，唯獨不肯透露第�
 
 DAVID ALUNAN
 
-![第 137 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-137-art-01.webp)
+![刊登康拉德石油消息的報紙道具（PDF 第 137 頁）](../../../../assets/mistborn/repaired/legacy/刊登康拉德石油消息的報紙道具_PDF第137頁_修正240.webp)
 
 探索者傳承時刻
 

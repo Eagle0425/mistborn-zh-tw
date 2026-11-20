@@ -249,7 +249,7 @@ DEANDRA SCICLUNA
 
 HEROIC MAPS
 
-![第 107 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-107-art-02.webp)
+![事件進度卡：國家檔案館封鎖（PDF 第 107 頁）](../../../../assets/mistborn/repaired/legacy/事件進度卡-國家檔案館封鎖_PDF第107頁_修正178.webp)
 
 ![手繪檔案館平面草圖（PDF 第 107 頁）](../../../../assets/mistborn/repaired/legacy/手繪檔案館平面草圖_傳承冒險_PDF第107頁_圖0355.png)
 

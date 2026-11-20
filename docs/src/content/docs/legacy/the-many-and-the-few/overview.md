@@ -262,7 +262,7 @@ Duvall Haught 在房間中央和兩名外科醫師商談。除非 PC 隱匿行�
 
 KEVIN O’NEILL
 
-![第 67 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-067-art-01.webp)
+![燈火通明的室內大廳（PDF 第 67 頁）](../../../../assets/mistborn/repaired/legacy/燈火通明的室內大廳_PDF第067頁_修正251.webp)
 
 - **這裡一直有人失蹤！**「確實，我們收治別人認定無望的病人，有些人會死去。這很不幸，但無法避免。這是我們醫治者必須承受的重擔。」
 - **我們可以四處看看嗎？**「歡迎你們和這裡的病人談談。至於浩特堡的其他地方，都是私人住所。」

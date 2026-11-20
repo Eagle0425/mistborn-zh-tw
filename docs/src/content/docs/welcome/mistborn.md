@@ -49,6 +49,6 @@ sidebar:
 
 ![各色金屬液瓶原生完整素材（PDF 第 19 頁）](../../../assets/mistborn/repaired/welcome/各色金屬液瓶原生完整素材_歡迎來到司卡德利亞_PDF第019頁_圖0117.png)
 
-![第 19 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-019-art-05.webp)
+![錢袋與硬幣（PDF 第 19 頁）](../../../assets/mistborn/repaired/welcome/錢袋與硬幣_PDF第019頁_修正305.webp)
 
 ![黑曜石小刀原生完整素材（PDF 第 19 頁）](../../../assets/mistborn/repaired/welcome/黑曜石小刀原生完整素材_歡迎來到司卡德利亞_PDF第019頁_圖0116.png)

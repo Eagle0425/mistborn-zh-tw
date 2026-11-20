@@ -80,5 +80,3 @@ Duvall 落敗後，浩特醫務所的醫師 Yannen（平民，他）會來找官
 DALLIN BIFANO
 
 ![第 74 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-074-art-02.webp)
-
-![第 74 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-074-art-01.webp)

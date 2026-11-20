@@ -156,7 +156,7 @@ Cadme 安排馬車前往 Fellise 的 Seeris 莊園，距離陸沙德一小時車
 
 JOSHUA CHIA
 
-![第 49 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-049-art-01.webp)
+![宅邸舞會中的來客（PDF 第 49 頁）](../../../../assets/mistborn/repaired/legacy/宅邸舞會中的來客_PDF第049頁_修正146.webp)
 
 #### 抵達舞會
 
@@ -260,7 +260,7 @@ Delina 嚴令所有人至少在宣布婚約前保持禮貌，但 Gilded Few 仍�
 
 第 2 章：鍍金面具之後 48
 
-![第 51 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-051-art-01.webp)
+![事件進度卡：聲名漸起（PDF 第 51 頁）](../../../../assets/mistborn/repaired/legacy/事件進度卡-聲名漸起_PDF第051頁_修正147.webp)
 
 ##### 觸發事件
 

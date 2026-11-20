@@ -170,7 +170,7 @@ LUCAS TORQUATO
 
 導言 5
 
-![第 8 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-008-art-01.webp)
+![帶木握把的槍械（PDF 第 8 頁）](../../../../assets/mistborn/repaired/legacy/帶木握把的槍械_PDF第008頁_修正227.webp)
 
 ### 與金屬之子一起遊玩
 

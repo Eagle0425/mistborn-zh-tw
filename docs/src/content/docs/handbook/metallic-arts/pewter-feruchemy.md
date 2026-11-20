@@ -41,6 +41,17 @@ sidebar:
 
 ### 白鑞藏金術天賦樹（talent tree）
 
+**天賦連線**
+
+| 天賦 | 解鎖來源 | 啟動 | 額外前提 |
+| --- | --- | --- | --- |
+| [肌肉之牆](#肌肉之牆wall-of-muscle) | 白鑞藏金術能力 | 常駐 | 藏金術2+ |
+| [白鑞臂武技](#白鑞臂武技pewterarm-weaponcraft) | 白鑞藏金術能力 | 特殊啟動 | 重型武器1+或輕型武器1+ |
+| [白鑞屏障](#白鑞屏障pewter-barricade) | 肌肉之牆 | 常駐 | — |
+| [白鑞投手](#白鑞投手pewter-pitcher) | 白鑞臂武技 | 常駐 | — |
+| [健美者](#健美者body-builder) | 肌肉之牆 | 特殊啟動 | 藏金術3+ |
+| [拋來擲去](#拋來擲去toss-em-around) | 白鑞投手 | 1行動 | 重型武器3+ |
+
 #### 肌肉之牆（Wall of Muscle）
 
 啟動：[常駐]
@@ -120,8 +131,6 @@ JANETTE RAMOS
 第6章：金屬技藝（Metallic Arts）　241
 
 ![白鑞藏金術金屬符號與紋飾（PDF 第 244 頁）](../../../../assets/mistborn/repaired/handbook/白鑞藏金術金屬符號與紋飾_玩家手冊_PDF第244頁_圖0941.png)
-
-![白鑞藏金術完整圖表（PDF 第 244 頁）](../../../../assets/mistborn/repaired/handbook/白鑞藏金術完整圖表_PDF第244頁.png)
 
 
 

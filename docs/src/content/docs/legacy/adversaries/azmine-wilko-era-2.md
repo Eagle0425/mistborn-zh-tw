@@ -48,4 +48,4 @@ Azmine Wilko 會盡量置身戰鬥之外，躲在掩體後方。如果朋友受�
 
 TRISTAN BIDEAU
 
-![第 196 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-196-art-01.webp)
+![阿茲敏．威爾科肖像（PDF 第 196 頁）](../../../../assets/mistborn/repaired/legacy/阿茲敏．威爾科肖像_PDF第196頁_修正099.webp)

@@ -44,8 +44,8 @@ sidebar:
 
 鋼鐵審判者動輒訴諸極端暴力，毫不留情地貫徹統御主的意志。鋼刺貫穿他們的眼睛和頭骨，讓他們無敵的傳聞更顯可信。面對審判者的力量，連迷霧之子也會驚恐逃離。 7
 
-![第 7 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-007-art-02.webp)
+![裝有彩色玻璃的貴族城堡（PDF 第 7 頁）](../../../assets/mistborn/repaired/welcome/裝有彩色玻璃的貴族城堡_PDF第007頁_修正313.webp)
 
 ![身穿黑紅制服的光頭男子原生完整素材（PDF 第 7 頁）](../../../assets/mistborn/repaired/welcome/身穿黑紅制服的光頭男子原生完整素材_歡迎來到司卡德利亞_PDF第007頁_圖0106.png)
 
-![第 7 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-007-art-01.webp)
+![紅色彩窗前的鋼鐵審判者（PDF 第 7 頁）](../../../assets/mistborn/repaired/welcome/紅色彩窗前的鋼鐵審判者_PDF第007頁_修正312.webp)

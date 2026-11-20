@@ -163,7 +163,7 @@ Enge 到了鎢都附近的 Velstane 裁縫店。這間店暗中掩護著 Gilded 
 
 EDUARDO NONATO
 
-![第 32 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-032-art-01.webp)
+![地圖 1.1：維爾斯坦的店鋪（PDF 第 32 頁）](../../../assets/mistborn/repaired/legacy/地圖_1-1-維爾斯坦的店鋪_PDF第032頁_修正169.webp)
 
 #### C2：工作間
 
@@ -194,7 +194,7 @@ EDUARDO NONATO
 
 EDUARDO NONATO
 
-![第 33 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-033-art-01.webp)
+![地圖 1.2：秘密熔爐下層（PDF 第 33 頁）](../../../assets/mistborn/repaired/legacy/地圖_1-2-秘密熔爐下層_PDF第033頁_修正170.webp)
 
 ##### 戰場效果
 

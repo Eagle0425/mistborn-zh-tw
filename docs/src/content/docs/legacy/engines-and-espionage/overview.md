@@ -203,4 +203,4 @@ Bayron 或 Lysarra（DC 15 洞察或 DC 16 隱匿）。準備驚喜。在汽車�
 
 進行一次額外檢定，立刻試著再前進一名。
 
-![第 99 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-099-art-01.webp)
+![賽車名次追蹤表（PDF 第 99 頁）](../../../../assets/mistborn/repaired/legacy/賽車名次追蹤表_PDF第099頁_修正188.webp)

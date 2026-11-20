@@ -23,7 +23,7 @@ DEANDRA SCICLUNA & GAL OR
 
 ![捲袖平民男子全身像（PDF 第 197 頁）](../../../../assets/mistborn/repaired/legacy/捲袖平民男子全身像_傳承冒險_PDF第197頁_圖0673.png)
 
-![第 197 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-197-art-02.webp)
+![貝隆．康拉德全身像（PDF 第 197 頁）](../../../../assets/mistborn/repaired/legacy/貝隆．康拉德全身像_PDF第197頁_修正100.webp)
 
 ### Bayron Conrad
 

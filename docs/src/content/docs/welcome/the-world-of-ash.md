@@ -38,6 +38,6 @@ sidebar:
 
 ![紅日下的最後帝國城市（PDF 第 5 頁）](../../../assets/mistborn/repaired/welcome/紅日下的最後帝國城市_歡迎來到司卡德利亞_PDF第005頁_圖0011.png)
 
-![第 5 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-005-art-01.webp)
+![夜霧中的城市尖塔（PDF 第 5 頁）](../../../assets/mistborn/repaired/welcome/夜霧中的城市尖塔_PDF第005頁_修正335.webp)
 
 ![第 5 頁插圖](../../../assets/mistborn/MB004_Welcome_to_Scadrial_digital/page-005-art-03.webp)

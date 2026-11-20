@@ -117,7 +117,7 @@ Lysarra Tekiel 和 Eliane Vorn 隊長（或殺霧者精銳）在 T2 發動攻擊
 
 **Wilko 遭綁架。** NeBaal 焦急不安。Wilko 遭綁架，日誌被偷走。三人組搶先趕往永恆寶庫。
 
-![第 83 頁插圖](../../../assets/mistborn/MB017_Mistborn_Legacy_GM_Tools/page-083-art-01.webp)
+![太齊爾調查流程圖（PDF 第 83 頁）](../../../assets/mistborn/repaired/gm-tools/太齊爾調查流程圖_PDF第083頁_修正000.webp)
 
 《迷霧之子傳承》GM 工具 v1.02｜第 8 章：致命時尚
 

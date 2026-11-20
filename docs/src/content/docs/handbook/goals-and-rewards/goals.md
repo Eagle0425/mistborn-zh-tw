@@ -236,7 +236,7 @@ RODRIGO CLARK
 
 
 
-![第 292 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-292-art-01.webp)
+![鋼鐵審判者卡爾（PDF 第 292 頁）](../../../../assets/mistborn/repaired/handbook/鋼鐵審判者卡爾_PDF第292頁_修正058.webp)
 
 ### 移除尖刺 [1行動]
 

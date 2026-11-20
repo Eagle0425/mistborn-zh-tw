@@ -128,7 +128,7 @@ EDUARDO NONATO
 
 ![第 188 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-188-art-01.webp)
 
-![第 188 頁插圖](../../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-188-art-02.webp)
+![事件進度卡：破壞格架（PDF 第 188 頁）](../../../../assets/mistborn/repaired/legacy/事件進度卡-破壞格架_PDF第188頁_修正135.webp)
 
 
 

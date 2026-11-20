@@ -48,7 +48,7 @@ DEANDRA SCICLUNA
 
 
 
-![第 53 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-053-art-02.webp)
+![白衣壯漢全身像（PDF 第 53 頁）](../../../../assets/mistborn/repaired/handbook/白衣壯漢全身像_PDF第053頁_修正020.webp)
 
 
 

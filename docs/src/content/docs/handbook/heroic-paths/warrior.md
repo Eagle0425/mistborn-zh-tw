@@ -101,6 +101,17 @@ ANDREW CHOU
 
 ### 鬥士
 
+| 天賦 | 解鎖來源 | 啟動及額外前提 |
+| --- | --- | --- |
+| [擒抱架式](#擒抱架式) | [戒備架式](#戒備架式戰士關鍵天賦) | 1 行動；威嚇 1+ |
+| [步履穩健](#步履穩健surefooted) | [戒備架式](#戒備架式戰士關鍵天賦) | 常駐 |
+| [懾人](#懾人) | [擒抱架式](#擒抱架式) | 常駐 |
+| [順勢移步](#順勢移步roll-with-the-punches) | [步履穩健](#步履穩健surefooted) | 反應；運動 2+ |
+| [搏鬥架式](#搏鬥架式bruisers-stance) | [懾人](#懾人) | 1 行動；威嚇 2+ |
+| [戰鬥脈動](#戰鬥脈動pulse-of-battle) | [懾人](#懾人) | 特殊啟動 |
+| [身經百戰](#身經百戰battle-hardened) | [搏鬥架式](#搏鬥架式bruisers-stance) | 特殊啟動；運動 3+ |
+| [猛力反擊](#猛力反擊wallop) | [戰鬥脈動](#戰鬥脈動pulse-of-battle) | 反應；威嚇 3+ |
+
 #### 擒抱架式
 
 前提條件：威嚇 1+
@@ -181,15 +192,25 @@ ANDREW CHOU
 
 第 4 章：英雄路徑 120
 
-![第 123 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-123-art-01.webp)
+![手持槍枝的迷霧披風男子（PDF 第 123 頁）](../../../../assets/mistborn/repaired/handbook/手持槍枝的迷霧披風男子_玩家手冊_PDF第123頁.webp)
 
-![戰士完整圖表（PDF 第 123 頁）](../../../../assets/mistborn/repaired/handbook/戰士完整圖表_PDF第123頁.png)
 
 ## 戰士
 
 英雄路徑
 
 ### 槍手 [第二時代]
+
+| 天賦 | 解鎖來源 | 啟動及額外前提 |
+| --- | --- | --- |
+| [花式射擊](#花式射擊trick-shooting) | [戒備架式](#戒備架式戰士關鍵天賦) | 常駐；敏捷 1+ |
+| [射擊紀律](#射擊紀律) | [戒備架式](#戒備架式戰士關鍵天賦) | 特殊啟動 |
+| [雙武器架式](#雙武器架式) | [花式射擊](#花式射擊trick-shooting) | 1 行動；敏捷 2+ |
+| [驚嚇衝擊](#驚嚇衝擊terrifying-jolt) | [射擊紀律](#射擊紀律) | 常駐；運動 2+ |
+| [快手](#快手fast-hands) | [雙武器架式](#雙武器架式) | 自由行動；敏捷 3+ |
+| [強勁](#強勁mighty) | [驚嚇衝擊](#驚嚇衝擊terrifying-jolt) | 常駐 |
+| [波及傷害](#波及傷害collateral-damage) | [驚嚇衝擊](#驚嚇衝擊terrifying-jolt) | 自由行動；運動 3+ |
+| [撥錘連射](#撥錘連射fanning) | [驚嚇衝擊](#驚嚇衝擊terrifying-jolt) | 3 行動；敏捷 3+ |
 
 #### 花式射擊（Trick Shooting）
 
@@ -268,6 +289,17 @@ ANDREW CHOU
 使用裝填 [2+] 武器，攻擊彼此相距 15 呎內的目標。成功時，命中一個目標，並擦傷其他目標。
 
 ### 士兵
+
+| 天賦 | 解鎖來源 | 啟動及額外前提 |
+| --- | --- | --- |
+| [謹慎推進](#謹慎推進cautious-advance) | [戒備架式](#戒備架式戰士關鍵天賦) | 2 行動；紀律 1+ |
+| [戰鬥訓練](#戰鬥訓練) | [戒備架式](#戒備架式戰士關鍵天賦) | 特殊啟動 |
+| [防禦站位](#防禦站位defensive-position) | [謹慎推進](#謹慎推進cautious-advance) | 常駐；運動 2+ |
+| [毀滅重擊](#毀滅重擊devastating-blow) | [戰鬥訓練](#戰鬥訓練) | 2 行動；運動 3+ |
+| [隊形操練](#隊形操練) | [防禦站位](#防禦站位defensive-position) | 常駐；紀律 2+ |
+| [強健](#強健hardy) | [戰鬥訓練](#戰鬥訓練) | 常駐 |
+| [警戒](#警戒wary) | [防禦站位](#防禦站位defensive-position) | 常駐；紀律 3+ |
+| [迅捷打擊](#迅捷打擊swift-strikes) | [強健](#強健hardy) | 1 行動 |
 
 #### 謹慎推進（Cautious Advance）
 
@@ -361,7 +393,6 @@ DEANDRA SCICLUNA & GAL OR
 
 
 
-![戰士完整圖表（PDF 第 124 頁）](../../../../assets/mistborn/repaired/handbook/戰士完整圖表_PDF第124頁.png)
 
 
 
@@ -419,7 +450,6 @@ DARKO STOJANOVIC
 
 第 4 章：英雄路徑 122
 
-![第 125 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-125-art-02.webp)
 
 ![抱臂站立的無袖衣男子（PDF 第 125 頁）](../../../../assets/mistborn/repaired/handbook/抱臂站立的無袖衣男子_玩家手冊_PDF第125頁_圖0404.png)
 

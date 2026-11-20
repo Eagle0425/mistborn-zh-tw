@@ -89,7 +89,7 @@ SAMI RYTKÖNEN
 
 
 
-![第 58 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-058-art-01.webp)
+![拉妮特工作桌上的槍械與零件（PDF 第 58 頁）](../../../../assets/mistborn/repaired/handbook/拉妮特工作桌上的槍械與零件_PDF第058頁_修正022.webp)
 
 #### 武器專長
 

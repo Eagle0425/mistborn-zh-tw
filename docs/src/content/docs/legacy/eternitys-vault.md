@@ -258,7 +258,7 @@ JUST HIEU & DARKO STOJANOVIC
 
 他要在陸沙德推動的變革。他承諾給所有議會成員頭銜，唯獨司卡除外。他要逼司卡回去做苦工，並取消他們的代表權。若不同意塞特理念的 PC 試圖讓他繼續說，檢定失敗時，塞特會認定對方「沒聰明到」能聽懂。
 
-![第 82 頁插圖](../../../assets/mistborn/MB003_Mistborn_Legacy_digital/page-082-art-01.webp)
+![阿西韋瑟．塞特肖像（PDF 第 82 頁）](../../../assets/mistborn/repaired/legacy/阿西韋瑟．塞特肖像_PDF第082頁_修正191.webp)
 
 奉承。塞特深信自己生來就是要當
 

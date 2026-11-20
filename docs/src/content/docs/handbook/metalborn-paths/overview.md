@@ -90,7 +90,7 @@ BILLY CHRISTIAN
 
 LUCAS TORQUATO
 
-![第 131 頁插圖](../../../../assets/mistborn/MB001_Mistborn_Handbook_digital/page-131-art-01.webp)
+![調配鎔金術用的金屬瓶（PDF 第 131 頁）](../../../../assets/mistborn/repaired/handbook/metalborn-p131-native3430.webp)
 
 #### 隨機決定金屬之子路徑
 
